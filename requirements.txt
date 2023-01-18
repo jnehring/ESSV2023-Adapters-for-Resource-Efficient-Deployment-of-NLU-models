@@ -1,0 +1,5 @@
+adapter-transformers==2.3.0
+datasets==1.18.3
+#torch==1.10.0
+pandas==1.4.3
+numpy==1.22.0

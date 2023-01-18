@@ -1,0 +1,2251 @@
+,key,value
+0,"model=svm,i=0,dataset=hwu,train_duration",2.7172350883483887
+1,"model=svm,i=0,dataset=hwu,train_num_samples",8954.0
+2,"model=svm,i=0,dataset=hwu,acc_id_0",0.8150557620817844
+3,"model=svm,i=0,dataset=hwu,f1_id_0",0.8150557620817844
+4,"model=svm,i=0,dataset=hwu,predict_duration",0.6514840126037598
+5,"model=svm,i=0,dataset=hwu,predict_num_samples",1076.0
+6,"model=svm,i=0,dataset=hwu,acc_id_all",0.8150557620817844
+7,"model=svm,i=0,dataset=hwu,f1_id_all",0.8150557620817844
+8," model=svm,i=0,dataset=hwu,total_duration",17.784132957458496
+9,"model=bert+adapter,i=0,dataset=hwu,train_duration",40.72736883163452
+10,"model=bert+adapter,i=0,dataset=hwu,train_num_samples",8954.0
+11,"model=bert+adapter,i=0,dataset=hwu,acc_id_0",0.8754646840148699
+12,"model=bert+adapter,i=0,dataset=hwu,f1_id_0",0.87546468401487
+13,"model=bert+adapter,i=0,dataset=hwu,predict_duration",1.3410406112670898
+14,"model=bert+adapter,i=0,dataset=hwu,predict_num_samples",1076.0
+15,"model=bert+adapter,i=0,dataset=hwu,acc_id_all",0.8754646840148699
+16,"model=bert+adapter,i=0,dataset=hwu,f1_id_all",0.87546468401487
+17," model=bert+adapter,i=0,dataset=hwu,total_duration",49.38924026489258
+18,"model=bert-base-uncased,i=0,dataset=hwu,train_duration",873.8365209102631
+19,"model=bert-base-uncased,i=0,dataset=hwu,train_num_samples",8954.0
+20,"model=bert-base-uncased,i=0,dataset=hwu,acc_id_0",0.8615241635687733
+21,"model=bert-base-uncased,i=0,dataset=hwu,f1_id_0",0.8615241635687733
+22,"model=bert-base-uncased,i=0,dataset=hwu,predict_duration",1.3008503913879395
+23,"model=bert-base-uncased,i=0,dataset=hwu,predict_num_samples",1076.0
+24,"model=bert-base-uncased,i=0,dataset=hwu,acc_id_all",0.8615241635687733
+25,"model=bert-base-uncased,i=0,dataset=hwu,f1_id_all",0.8615241635687733
+26," model=bert-base-uncased,i=0,dataset=hwu,total_duration",881.1378626823425
+27,"model=distilbert+adapter,i=0,dataset=hwu,train_duration",34.495683908462524
+28,"model=distilbert+adapter,i=0,dataset=hwu,train_num_samples",8954.0
+29,"model=distilbert+adapter,i=0,dataset=hwu,acc_id_0",0.8819702602230484
+30,"model=distilbert+adapter,i=0,dataset=hwu,f1_id_0",0.8819702602230484
+31,"model=distilbert+adapter,i=0,dataset=hwu,predict_duration",0.8621079921722412
+32,"model=distilbert+adapter,i=0,dataset=hwu,predict_num_samples",1076.0
+33,"model=distilbert+adapter,i=0,dataset=hwu,acc_id_all",0.8819702602230484
+34,"model=distilbert+adapter,i=0,dataset=hwu,f1_id_all",0.8819702602230484
+35," model=distilbert+adapter,i=0,dataset=hwu,total_duration",40.78706097602844
+36,"model=distilbert-base-uncased,i=0,dataset=hwu,train_duration",579.997716665268
+37,"model=distilbert-base-uncased,i=0,dataset=hwu,train_num_samples",8954.0
+38,"model=distilbert-base-uncased,i=0,dataset=hwu,acc_id_0",0.9052044609665427
+39,"model=distilbert-base-uncased,i=0,dataset=hwu,f1_id_0",0.9052044609665427
+40,"model=distilbert-base-uncased,i=0,dataset=hwu,predict_duration",0.8529915809631348
+41,"model=distilbert-base-uncased,i=0,dataset=hwu,predict_num_samples",1076.0
+42,"model=distilbert-base-uncased,i=0,dataset=hwu,acc_id_all",0.9052044609665427
+43,"model=distilbert-base-uncased,i=0,dataset=hwu,f1_id_all",0.9052044609665427
+44," model=distilbert-base-uncased,i=0,dataset=hwu,total_duration",586.4156577587128
+45,"model=svm,i=1,dataset=hwu,train_duration",2.7493913173675537
+46,"model=svm,i=1,dataset=hwu,train_num_samples",8954.0
+47,"model=svm,i=1,dataset=hwu,acc_id_0",0.8150557620817844
+48,"model=svm,i=1,dataset=hwu,f1_id_0",0.8150557620817844
+49,"model=svm,i=1,dataset=hwu,predict_duration",0.6784687042236328
+50,"model=svm,i=1,dataset=hwu,predict_num_samples",1076.0
+51,"model=svm,i=1,dataset=hwu,acc_id_all",0.8150557620817844
+52,"model=svm,i=1,dataset=hwu,f1_id_all",0.8150557620817844
+53," model=svm,i=1,dataset=hwu,total_duration",16.71643590927124
+54,"model=bert+adapter,i=1,dataset=hwu,train_duration",60.741565227508545
+55,"model=bert+adapter,i=1,dataset=hwu,train_num_samples",8954.0
+56,"model=bert+adapter,i=1,dataset=hwu,acc_id_0",0.8884758364312267
+57,"model=bert+adapter,i=1,dataset=hwu,f1_id_0",0.8884758364312267
+58,"model=bert+adapter,i=1,dataset=hwu,predict_duration",1.3500452041625977
+59,"model=bert+adapter,i=1,dataset=hwu,predict_num_samples",1076.0
+60,"model=bert+adapter,i=1,dataset=hwu,acc_id_all",0.8884758364312267
+61,"model=bert+adapter,i=1,dataset=hwu,f1_id_all",0.8884758364312267
+62," model=bert+adapter,i=1,dataset=hwu,total_duration",68.23516869544983
+63,"model=bert-base-uncased,i=1,dataset=hwu,train_duration",792.4254951477051
+64,"model=bert-base-uncased,i=1,dataset=hwu,train_num_samples",8954.0
+65,"model=bert-base-uncased,i=1,dataset=hwu,acc_id_0",0.8531598513011153
+66,"model=bert-base-uncased,i=1,dataset=hwu,f1_id_0",0.8531598513011153
+67,"model=bert-base-uncased,i=1,dataset=hwu,predict_duration",1.2985031604766846
+68,"model=bert-base-uncased,i=1,dataset=hwu,predict_num_samples",1076.0
+69,"model=bert-base-uncased,i=1,dataset=hwu,acc_id_all",0.8531598513011153
+70,"model=bert-base-uncased,i=1,dataset=hwu,f1_id_all",0.8531598513011153
+71," model=bert-base-uncased,i=1,dataset=hwu,total_duration",799.7204742431641
+72,"model=distilbert+adapter,i=1,dataset=hwu,train_duration",34.48958492279053
+73,"model=distilbert+adapter,i=1,dataset=hwu,train_num_samples",8954.0
+74,"model=distilbert+adapter,i=1,dataset=hwu,acc_id_0",0.8801115241635687
+75,"model=distilbert+adapter,i=1,dataset=hwu,f1_id_0",0.8801115241635687
+76,"model=distilbert+adapter,i=1,dataset=hwu,predict_duration",0.8640937805175781
+77,"model=distilbert+adapter,i=1,dataset=hwu,predict_num_samples",1076.0
+78,"model=distilbert+adapter,i=1,dataset=hwu,acc_id_all",0.8801115241635687
+79,"model=distilbert+adapter,i=1,dataset=hwu,f1_id_all",0.8801115241635687
+80," model=distilbert+adapter,i=1,dataset=hwu,total_duration",40.638564109802246
+81,"model=distilbert-base-uncased,i=1,dataset=hwu,train_duration",576.5767486095428
+82,"model=distilbert-base-uncased,i=1,dataset=hwu,train_num_samples",8954.0
+83,"model=distilbert-base-uncased,i=1,dataset=hwu,acc_id_0",0.9052044609665427
+84,"model=distilbert-base-uncased,i=1,dataset=hwu,f1_id_0",0.9052044609665427
+85,"model=distilbert-base-uncased,i=1,dataset=hwu,predict_duration",0.861588716506958
+86,"model=distilbert-base-uncased,i=1,dataset=hwu,predict_num_samples",1076.0
+87,"model=distilbert-base-uncased,i=1,dataset=hwu,acc_id_all",0.9052044609665427
+88,"model=distilbert-base-uncased,i=1,dataset=hwu,f1_id_all",0.9052044609665427
+89," model=distilbert-base-uncased,i=1,dataset=hwu,total_duration",583.0336916446686
+90,"model=svm,i=2,dataset=hwu,train_duration",2.746857166290283
+91,"model=svm,i=2,dataset=hwu,train_num_samples",8954.0
+92,"model=svm,i=2,dataset=hwu,acc_id_0",0.8150557620817844
+93,"model=svm,i=2,dataset=hwu,f1_id_0",0.8150557620817844
+94,"model=svm,i=2,dataset=hwu,predict_duration",0.6667981147766113
+95,"model=svm,i=2,dataset=hwu,predict_num_samples",1076.0
+96,"model=svm,i=2,dataset=hwu,acc_id_all",0.8150557620817844
+97,"model=svm,i=2,dataset=hwu,f1_id_all",0.8150557620817844
+98," model=svm,i=2,dataset=hwu,total_duration",16.767446041107178
+99,"model=bert+adapter,i=2,dataset=hwu,train_duration",60.76897478103638
+100,"model=bert+adapter,i=2,dataset=hwu,train_num_samples",8954.0
+101,"model=bert+adapter,i=2,dataset=hwu,acc_id_0",0.8884758364312267
+102,"model=bert+adapter,i=2,dataset=hwu,f1_id_0",0.8884758364312267
+103,"model=bert+adapter,i=2,dataset=hwu,predict_duration",1.3441858291625977
+104,"model=bert+adapter,i=2,dataset=hwu,predict_num_samples",1076.0
+105,"model=bert+adapter,i=2,dataset=hwu,acc_id_all",0.8884758364312267
+106,"model=bert+adapter,i=2,dataset=hwu,f1_id_all",0.8884758364312267
+107," model=bert+adapter,i=2,dataset=hwu,total_duration",68.34280133247375
+108,"model=bert-base-uncased,i=2,dataset=hwu,train_duration",784.8566167354584
+109,"model=bert-base-uncased,i=2,dataset=hwu,train_num_samples",8954.0
+110,"model=bert-base-uncased,i=2,dataset=hwu,acc_id_0",0.8531598513011153
+111,"model=bert-base-uncased,i=2,dataset=hwu,f1_id_0",0.8531598513011153
+112,"model=bert-base-uncased,i=2,dataset=hwu,predict_duration",1.2793374061584473
+113,"model=bert-base-uncased,i=2,dataset=hwu,predict_num_samples",1076.0
+114,"model=bert-base-uncased,i=2,dataset=hwu,acc_id_all",0.8531598513011153
+115,"model=bert-base-uncased,i=2,dataset=hwu,f1_id_all",0.8531598513011153
+116," model=bert-base-uncased,i=2,dataset=hwu,total_duration",792.0413613319397
+117,"model=distilbert+adapter,i=2,dataset=hwu,train_duration",34.49603629112244
+118,"model=distilbert+adapter,i=2,dataset=hwu,train_num_samples",8954.0
+119,"model=distilbert+adapter,i=2,dataset=hwu,acc_id_0",0.8801115241635687
+120,"model=distilbert+adapter,i=2,dataset=hwu,f1_id_0",0.8801115241635687
+121,"model=distilbert+adapter,i=2,dataset=hwu,predict_duration",0.8612022399902344
+122,"model=distilbert+adapter,i=2,dataset=hwu,predict_num_samples",1076.0
+123,"model=distilbert+adapter,i=2,dataset=hwu,acc_id_all",0.8801115241635687
+124,"model=distilbert+adapter,i=2,dataset=hwu,f1_id_all",0.8801115241635687
+125," model=distilbert+adapter,i=2,dataset=hwu,total_duration",40.79220390319824
+126,"model=distilbert-base-uncased,i=2,dataset=hwu,train_duration",577.424745798111
+127,"model=distilbert-base-uncased,i=2,dataset=hwu,train_num_samples",8954.0
+128,"model=distilbert-base-uncased,i=2,dataset=hwu,acc_id_0",0.9052044609665427
+129,"model=distilbert-base-uncased,i=2,dataset=hwu,f1_id_0",0.9052044609665427
+130,"model=distilbert-base-uncased,i=2,dataset=hwu,predict_duration",0.8535785675048828
+131,"model=distilbert-base-uncased,i=2,dataset=hwu,predict_num_samples",1076.0
+132,"model=distilbert-base-uncased,i=2,dataset=hwu,acc_id_all",0.9052044609665427
+133,"model=distilbert-base-uncased,i=2,dataset=hwu,f1_id_all",0.9052044609665427
+134," model=distilbert-base-uncased,i=2,dataset=hwu,total_duration",583.8499703407288
+135,"model=svm,i=3,dataset=hwu,train_duration",2.7515504360198975
+136,"model=svm,i=3,dataset=hwu,train_num_samples",8954.0
+137,"model=svm,i=3,dataset=hwu,acc_id_0",0.8150557620817844
+138,"model=svm,i=3,dataset=hwu,f1_id_0",0.8150557620817844
+139,"model=svm,i=3,dataset=hwu,predict_duration",0.6813545227050781
+140,"model=svm,i=3,dataset=hwu,predict_num_samples",1076.0
+141,"model=svm,i=3,dataset=hwu,acc_id_all",0.8150557620817844
+142,"model=svm,i=3,dataset=hwu,f1_id_all",0.8150557620817844
+143," model=svm,i=3,dataset=hwu,total_duration",16.77777647972107
+144,"model=bert+adapter,i=3,dataset=hwu,train_duration",60.796403884887695
+145,"model=bert+adapter,i=3,dataset=hwu,train_num_samples",8954.0
+146,"model=bert+adapter,i=3,dataset=hwu,acc_id_0",0.8884758364312267
+147,"model=bert+adapter,i=3,dataset=hwu,f1_id_0",0.8884758364312267
+148,"model=bert+adapter,i=3,dataset=hwu,predict_duration",1.3456151485443115
+149,"model=bert+adapter,i=3,dataset=hwu,predict_num_samples",1076.0
+150,"model=bert+adapter,i=3,dataset=hwu,acc_id_all",0.8884758364312267
+151,"model=bert+adapter,i=3,dataset=hwu,f1_id_all",0.8884758364312267
+152," model=bert+adapter,i=3,dataset=hwu,total_duration",68.28196048736572
+153,"model=bert-base-uncased,i=3,dataset=hwu,train_duration",791.4773211479187
+154,"model=bert-base-uncased,i=3,dataset=hwu,train_num_samples",8954.0
+155,"model=bert-base-uncased,i=3,dataset=hwu,acc_id_0",0.8531598513011153
+156,"model=bert-base-uncased,i=3,dataset=hwu,f1_id_0",0.8531598513011153
+157,"model=bert-base-uncased,i=3,dataset=hwu,predict_duration",1.30263352394104
+158,"model=bert-base-uncased,i=3,dataset=hwu,predict_num_samples",1076.0
+159,"model=bert-base-uncased,i=3,dataset=hwu,acc_id_all",0.8531598513011153
+160,"model=bert-base-uncased,i=3,dataset=hwu,f1_id_all",0.8531598513011153
+161," model=bert-base-uncased,i=3,dataset=hwu,total_duration",798.7440025806427
+162,"model=distilbert+adapter,i=3,dataset=hwu,train_duration",34.524240493774414
+163,"model=distilbert+adapter,i=3,dataset=hwu,train_num_samples",8954.0
+164,"model=distilbert+adapter,i=3,dataset=hwu,acc_id_0",0.8801115241635687
+165,"model=distilbert+adapter,i=3,dataset=hwu,f1_id_0",0.8801115241635687
+166,"model=distilbert+adapter,i=3,dataset=hwu,predict_duration",0.8658418655395508
+167,"model=distilbert+adapter,i=3,dataset=hwu,predict_num_samples",1076.0
+168,"model=distilbert+adapter,i=3,dataset=hwu,acc_id_all",0.8801115241635687
+169,"model=distilbert+adapter,i=3,dataset=hwu,f1_id_all",0.8801115241635687
+170," model=distilbert+adapter,i=3,dataset=hwu,total_duration",40.78235578536987
+171,"model=distilbert-base-uncased,i=3,dataset=hwu,train_duration",569.4006321430206
+172,"model=distilbert-base-uncased,i=3,dataset=hwu,train_num_samples",8954.0
+173,"model=distilbert-base-uncased,i=3,dataset=hwu,acc_id_0",0.9052044609665427
+174,"model=distilbert-base-uncased,i=3,dataset=hwu,f1_id_0",0.9052044609665427
+175,"model=distilbert-base-uncased,i=3,dataset=hwu,predict_duration",0.8549726009368896
+176,"model=distilbert-base-uncased,i=3,dataset=hwu,predict_num_samples",1076.0
+177,"model=distilbert-base-uncased,i=3,dataset=hwu,acc_id_all",0.9052044609665427
+178,"model=distilbert-base-uncased,i=3,dataset=hwu,f1_id_all",0.9052044609665427
+179," model=distilbert-base-uncased,i=3,dataset=hwu,total_duration",575.8387653827667
+180,"model=svm,i=4,dataset=hwu,train_duration",2.746717691421509
+181,"model=svm,i=4,dataset=hwu,train_num_samples",8954.0
+182,"model=svm,i=4,dataset=hwu,acc_id_0",0.8150557620817844
+183,"model=svm,i=4,dataset=hwu,f1_id_0",0.8150557620817844
+184,"model=svm,i=4,dataset=hwu,predict_duration",0.6780176162719727
+185,"model=svm,i=4,dataset=hwu,predict_num_samples",1076.0
+186,"model=svm,i=4,dataset=hwu,acc_id_all",0.8150557620817844
+187,"model=svm,i=4,dataset=hwu,f1_id_all",0.8150557620817844
+188," model=svm,i=4,dataset=hwu,total_duration",16.91526961326599
+189,"model=bert+adapter,i=4,dataset=hwu,train_duration",60.69477081298828
+190,"model=bert+adapter,i=4,dataset=hwu,train_num_samples",8954.0
+191,"model=bert+adapter,i=4,dataset=hwu,acc_id_0",0.8884758364312267
+192,"model=bert+adapter,i=4,dataset=hwu,f1_id_0",0.8884758364312267
+193,"model=bert+adapter,i=4,dataset=hwu,predict_duration",1.3440675735473633
+194,"model=bert+adapter,i=4,dataset=hwu,predict_num_samples",1076.0
+195,"model=bert+adapter,i=4,dataset=hwu,acc_id_all",0.8884758364312267
+196,"model=bert+adapter,i=4,dataset=hwu,f1_id_all",0.8884758364312267
+197," model=bert+adapter,i=4,dataset=hwu,total_duration",68.27008104324341
+198,"model=bert-base-uncased,i=4,dataset=hwu,train_duration",787.3038609027863
+199,"model=bert-base-uncased,i=4,dataset=hwu,train_num_samples",8954.0
+200,"model=bert-base-uncased,i=4,dataset=hwu,acc_id_0",0.8531598513011153
+201,"model=bert-base-uncased,i=4,dataset=hwu,f1_id_0",0.8531598513011153
+202,"model=bert-base-uncased,i=4,dataset=hwu,predict_duration",1.294128656387329
+203,"model=bert-base-uncased,i=4,dataset=hwu,predict_num_samples",1076.0
+204,"model=bert-base-uncased,i=4,dataset=hwu,acc_id_all",0.8531598513011153
+205,"model=bert-base-uncased,i=4,dataset=hwu,f1_id_all",0.8531598513011153
+206," model=bert-base-uncased,i=4,dataset=hwu,total_duration",794.6012599468231
+207,"model=distilbert+adapter,i=4,dataset=hwu,train_duration",34.413514375686646
+208,"model=distilbert+adapter,i=4,dataset=hwu,train_num_samples",8954.0
+209,"model=distilbert+adapter,i=4,dataset=hwu,acc_id_0",0.8801115241635687
+210,"model=distilbert+adapter,i=4,dataset=hwu,f1_id_0",0.8801115241635687
+211,"model=distilbert+adapter,i=4,dataset=hwu,predict_duration",0.8626329898834229
+212,"model=distilbert+adapter,i=4,dataset=hwu,predict_num_samples",1076.0
+213,"model=distilbert+adapter,i=4,dataset=hwu,acc_id_all",0.8801115241635687
+214,"model=distilbert+adapter,i=4,dataset=hwu,f1_id_all",0.8801115241635687
+215," model=distilbert+adapter,i=4,dataset=hwu,total_duration",40.662904500961304
+216,"model=distilbert-base-uncased,i=4,dataset=hwu,train_duration",573.2650058269501
+217,"model=distilbert-base-uncased,i=4,dataset=hwu,train_num_samples",8954.0
+218,"model=distilbert-base-uncased,i=4,dataset=hwu,acc_id_0",0.9052044609665427
+219,"model=distilbert-base-uncased,i=4,dataset=hwu,f1_id_0",0.9052044609665427
+220,"model=distilbert-base-uncased,i=4,dataset=hwu,predict_duration",0.8612346649169922
+221,"model=distilbert-base-uncased,i=4,dataset=hwu,predict_num_samples",1076.0
+222,"model=distilbert-base-uncased,i=4,dataset=hwu,acc_id_all",0.9052044609665427
+223,"model=distilbert-base-uncased,i=4,dataset=hwu,f1_id_all",0.9052044609665427
+224," model=distilbert-base-uncased,i=4,dataset=hwu,total_duration",579.5377418994904
+225,"model=svm,i=5,dataset=hwu,train_duration",2.7511603832244873
+226,"model=svm,i=5,dataset=hwu,train_num_samples",8954.0
+227,"model=svm,i=5,dataset=hwu,acc_id_0",0.8150557620817844
+228,"model=svm,i=5,dataset=hwu,f1_id_0",0.8150557620817844
+229,"model=svm,i=5,dataset=hwu,predict_duration",0.6750574111938477
+230,"model=svm,i=5,dataset=hwu,predict_num_samples",1076.0
+231,"model=svm,i=5,dataset=hwu,acc_id_all",0.8150557620817844
+232,"model=svm,i=5,dataset=hwu,f1_id_all",0.8150557620817844
+233," model=svm,i=5,dataset=hwu,total_duration",16.767611265182495
+234,"model=bert+adapter,i=5,dataset=hwu,train_duration",60.65762281417847
+235,"model=bert+adapter,i=5,dataset=hwu,train_num_samples",8954.0
+236,"model=bert+adapter,i=5,dataset=hwu,acc_id_0",0.8884758364312267
+237,"model=bert+adapter,i=5,dataset=hwu,f1_id_0",0.8884758364312267
+238,"model=bert+adapter,i=5,dataset=hwu,predict_duration",1.3429195880889893
+239,"model=bert+adapter,i=5,dataset=hwu,predict_num_samples",1076.0
+240,"model=bert+adapter,i=5,dataset=hwu,acc_id_all",0.8884758364312267
+241,"model=bert+adapter,i=5,dataset=hwu,f1_id_all",0.8884758364312267
+242," model=bert+adapter,i=5,dataset=hwu,total_duration",68.17434024810791
+243,"model=bert-base-uncased,i=5,dataset=hwu,train_duration",792.0641038417816
+244,"model=bert-base-uncased,i=5,dataset=hwu,train_num_samples",8954.0
+245,"model=bert-base-uncased,i=5,dataset=hwu,acc_id_0",0.8531598513011153
+246,"model=bert-base-uncased,i=5,dataset=hwu,f1_id_0",0.8531598513011153
+247,"model=bert-base-uncased,i=5,dataset=hwu,predict_duration",1.298396348953247
+248,"model=bert-base-uncased,i=5,dataset=hwu,predict_num_samples",1076.0
+249,"model=bert-base-uncased,i=5,dataset=hwu,acc_id_all",0.8531598513011153
+250,"model=bert-base-uncased,i=5,dataset=hwu,f1_id_all",0.8531598513011153
+251," model=bert-base-uncased,i=5,dataset=hwu,total_duration",799.4785027503967
+252,"model=distilbert+adapter,i=5,dataset=hwu,train_duration",34.77967023849487
+253,"model=distilbert+adapter,i=5,dataset=hwu,train_num_samples",8954.0
+254,"model=distilbert+adapter,i=5,dataset=hwu,acc_id_0",0.8801115241635687
+255,"model=distilbert+adapter,i=5,dataset=hwu,f1_id_0",0.8801115241635687
+256,"model=distilbert+adapter,i=5,dataset=hwu,predict_duration",0.863753080368042
+257,"model=distilbert+adapter,i=5,dataset=hwu,predict_num_samples",1076.0
+258,"model=distilbert+adapter,i=5,dataset=hwu,acc_id_all",0.8801115241635687
+259,"model=distilbert+adapter,i=5,dataset=hwu,f1_id_all",0.8801115241635687
+260," model=distilbert+adapter,i=5,dataset=hwu,total_duration",41.126829385757446
+261,"model=distilbert-base-uncased,i=5,dataset=hwu,train_duration",579.0655703544617
+262,"model=distilbert-base-uncased,i=5,dataset=hwu,train_num_samples",8954.0
+263,"model=distilbert-base-uncased,i=5,dataset=hwu,acc_id_0",0.9052044609665427
+264,"model=distilbert-base-uncased,i=5,dataset=hwu,f1_id_0",0.9052044609665427
+265,"model=distilbert-base-uncased,i=5,dataset=hwu,predict_duration",0.831139087677002
+266,"model=distilbert-base-uncased,i=5,dataset=hwu,predict_num_samples",1076.0
+267,"model=distilbert-base-uncased,i=5,dataset=hwu,acc_id_all",0.9052044609665427
+268,"model=distilbert-base-uncased,i=5,dataset=hwu,f1_id_all",0.9052044609665427
+269," model=distilbert-base-uncased,i=5,dataset=hwu,total_duration",585.4107482433319
+270,"model=svm,i=6,dataset=hwu,train_duration",2.746858835220337
+271,"model=svm,i=6,dataset=hwu,train_num_samples",8954.0
+272,"model=svm,i=6,dataset=hwu,acc_id_0",0.8150557620817844
+273,"model=svm,i=6,dataset=hwu,f1_id_0",0.8150557620817844
+274,"model=svm,i=6,dataset=hwu,predict_duration",0.6771156787872314
+275,"model=svm,i=6,dataset=hwu,predict_num_samples",1076.0
+276,"model=svm,i=6,dataset=hwu,acc_id_all",0.8150557620817844
+277,"model=svm,i=6,dataset=hwu,f1_id_all",0.8150557620817844
+278," model=svm,i=6,dataset=hwu,total_duration",16.86274242401123
+279,"model=bert+adapter,i=6,dataset=hwu,train_duration",60.576820373535156
+280,"model=bert+adapter,i=6,dataset=hwu,train_num_samples",8954.0
+281,"model=bert+adapter,i=6,dataset=hwu,acc_id_0",0.8884758364312267
+282,"model=bert+adapter,i=6,dataset=hwu,f1_id_0",0.8884758364312267
+283,"model=bert+adapter,i=6,dataset=hwu,predict_duration",1.3418030738830566
+284,"model=bert+adapter,i=6,dataset=hwu,predict_num_samples",1076.0
+285,"model=bert+adapter,i=6,dataset=hwu,acc_id_all",0.8884758364312267
+286,"model=bert+adapter,i=6,dataset=hwu,f1_id_all",0.8884758364312267
+287," model=bert+adapter,i=6,dataset=hwu,total_duration",68.07832860946655
+288,"model=bert-base-uncased,i=6,dataset=hwu,train_duration",791.5495777130127
+289,"model=bert-base-uncased,i=6,dataset=hwu,train_num_samples",8954.0
+290,"model=bert-base-uncased,i=6,dataset=hwu,acc_id_0",0.8531598513011153
+291,"model=bert-base-uncased,i=6,dataset=hwu,f1_id_0",0.8531598513011153
+292,"model=bert-base-uncased,i=6,dataset=hwu,predict_duration",1.295926809310913
+293,"model=bert-base-uncased,i=6,dataset=hwu,predict_num_samples",1076.0
+294,"model=bert-base-uncased,i=6,dataset=hwu,acc_id_all",0.8531598513011153
+295,"model=bert-base-uncased,i=6,dataset=hwu,f1_id_all",0.8531598513011153
+296," model=bert-base-uncased,i=6,dataset=hwu,total_duration",798.9226107597351
+297,"model=distilbert+adapter,i=6,dataset=hwu,train_duration",34.606754302978516
+298,"model=distilbert+adapter,i=6,dataset=hwu,train_num_samples",8954.0
+299,"model=distilbert+adapter,i=6,dataset=hwu,acc_id_0",0.8801115241635687
+300,"model=distilbert+adapter,i=6,dataset=hwu,f1_id_0",0.8801115241635687
+301,"model=distilbert+adapter,i=6,dataset=hwu,predict_duration",0.866079568862915
+302,"model=distilbert+adapter,i=6,dataset=hwu,predict_num_samples",1076.0
+303,"model=distilbert+adapter,i=6,dataset=hwu,acc_id_all",0.8801115241635687
+304,"model=distilbert+adapter,i=6,dataset=hwu,f1_id_all",0.8801115241635687
+305," model=distilbert+adapter,i=6,dataset=hwu,total_duration",40.96613359451294
+306,"model=distilbert-base-uncased,i=6,dataset=hwu,train_duration",580.2203013896942
+307,"model=distilbert-base-uncased,i=6,dataset=hwu,train_num_samples",8954.0
+308,"model=distilbert-base-uncased,i=6,dataset=hwu,acc_id_0",0.9052044609665427
+309,"model=distilbert-base-uncased,i=6,dataset=hwu,f1_id_0",0.9052044609665427
+310,"model=distilbert-base-uncased,i=6,dataset=hwu,predict_duration",0.8720002174377441
+311,"model=distilbert-base-uncased,i=6,dataset=hwu,predict_num_samples",1076.0
+312,"model=distilbert-base-uncased,i=6,dataset=hwu,acc_id_all",0.9052044609665427
+313,"model=distilbert-base-uncased,i=6,dataset=hwu,f1_id_all",0.9052044609665427
+314," model=distilbert-base-uncased,i=6,dataset=hwu,total_duration",586.7547869682312
+315,"model=svm,i=7,dataset=hwu,train_duration",2.7464287281036377
+316,"model=svm,i=7,dataset=hwu,train_num_samples",8954.0
+317,"model=svm,i=7,dataset=hwu,acc_id_0",0.8150557620817844
+318,"model=svm,i=7,dataset=hwu,f1_id_0",0.8150557620817844
+319,"model=svm,i=7,dataset=hwu,predict_duration",0.6800394058227539
+320,"model=svm,i=7,dataset=hwu,predict_num_samples",1076.0
+321,"model=svm,i=7,dataset=hwu,acc_id_all",0.8150557620817844
+322,"model=svm,i=7,dataset=hwu,f1_id_all",0.8150557620817844
+323," model=svm,i=7,dataset=hwu,total_duration",16.788243293762207
+324,"model=bert+adapter,i=7,dataset=hwu,train_duration",61.021055459976196
+325,"model=bert+adapter,i=7,dataset=hwu,train_num_samples",8954.0
+326,"model=bert+adapter,i=7,dataset=hwu,acc_id_0",0.8884758364312267
+327,"model=bert+adapter,i=7,dataset=hwu,f1_id_0",0.8884758364312267
+328,"model=bert+adapter,i=7,dataset=hwu,predict_duration",1.347151517868042
+329,"model=bert+adapter,i=7,dataset=hwu,predict_num_samples",1076.0
+330,"model=bert+adapter,i=7,dataset=hwu,acc_id_all",0.8884758364312267
+331,"model=bert+adapter,i=7,dataset=hwu,f1_id_all",0.8884758364312267
+332," model=bert+adapter,i=7,dataset=hwu,total_duration",68.54374814033508
+333,"model=bert-base-uncased,i=7,dataset=hwu,train_duration",796.228120803833
+334,"model=bert-base-uncased,i=7,dataset=hwu,train_num_samples",8954.0
+335,"model=bert-base-uncased,i=7,dataset=hwu,acc_id_0",0.8531598513011153
+336,"model=bert-base-uncased,i=7,dataset=hwu,f1_id_0",0.8531598513011153
+337,"model=bert-base-uncased,i=7,dataset=hwu,predict_duration",1.299286127090454
+338,"model=bert-base-uncased,i=7,dataset=hwu,predict_num_samples",1076.0
+339,"model=bert-base-uncased,i=7,dataset=hwu,acc_id_all",0.8531598513011153
+340,"model=bert-base-uncased,i=7,dataset=hwu,f1_id_all",0.8531598513011153
+341," model=bert-base-uncased,i=7,dataset=hwu,total_duration",803.5377848148346
+342,"model=distilbert+adapter,i=7,dataset=hwu,train_duration",34.58914256095886
+343,"model=distilbert+adapter,i=7,dataset=hwu,train_num_samples",8954.0
+344,"model=distilbert+adapter,i=7,dataset=hwu,acc_id_0",0.8801115241635687
+345,"model=distilbert+adapter,i=7,dataset=hwu,f1_id_0",0.8801115241635687
+346,"model=distilbert+adapter,i=7,dataset=hwu,predict_duration",0.8721263408660889
+347,"model=distilbert+adapter,i=7,dataset=hwu,predict_num_samples",1076.0
+348,"model=distilbert+adapter,i=7,dataset=hwu,acc_id_all",0.8801115241635687
+349,"model=distilbert+adapter,i=7,dataset=hwu,f1_id_all",0.8801115241635687
+350," model=distilbert+adapter,i=7,dataset=hwu,total_duration",40.86021637916565
+351,"model=distilbert-base-uncased,i=7,dataset=hwu,train_duration",578.0171775817871
+352,"model=distilbert-base-uncased,i=7,dataset=hwu,train_num_samples",8954.0
+353,"model=distilbert-base-uncased,i=7,dataset=hwu,acc_id_0",0.9052044609665427
+354,"model=distilbert-base-uncased,i=7,dataset=hwu,f1_id_0",0.9052044609665427
+355,"model=distilbert-base-uncased,i=7,dataset=hwu,predict_duration",0.8246536254882812
+356,"model=distilbert-base-uncased,i=7,dataset=hwu,predict_num_samples",1076.0
+357,"model=distilbert-base-uncased,i=7,dataset=hwu,acc_id_all",0.9052044609665427
+358,"model=distilbert-base-uncased,i=7,dataset=hwu,f1_id_all",0.9052044609665427
+359," model=distilbert-base-uncased,i=7,dataset=hwu,total_duration",584.3742201328278
+360,"model=svm,i=8,dataset=hwu,train_duration",2.7417283058166504
+361,"model=svm,i=8,dataset=hwu,train_num_samples",8954.0
+362,"model=svm,i=8,dataset=hwu,acc_id_0",0.8150557620817844
+363,"model=svm,i=8,dataset=hwu,f1_id_0",0.8150557620817844
+364,"model=svm,i=8,dataset=hwu,predict_duration",0.6695196628570557
+365,"model=svm,i=8,dataset=hwu,predict_num_samples",1076.0
+366,"model=svm,i=8,dataset=hwu,acc_id_all",0.8150557620817844
+367,"model=svm,i=8,dataset=hwu,f1_id_all",0.8150557620817844
+368," model=svm,i=8,dataset=hwu,total_duration",16.650983333587646
+369,"model=bert+adapter,i=8,dataset=hwu,train_duration",60.81367826461792
+370,"model=bert+adapter,i=8,dataset=hwu,train_num_samples",8954.0
+371,"model=bert+adapter,i=8,dataset=hwu,acc_id_0",0.8884758364312267
+372,"model=bert+adapter,i=8,dataset=hwu,f1_id_0",0.8884758364312267
+373,"model=bert+adapter,i=8,dataset=hwu,predict_duration",1.3442785739898682
+374,"model=bert+adapter,i=8,dataset=hwu,predict_num_samples",1076.0
+375,"model=bert+adapter,i=8,dataset=hwu,acc_id_all",0.8884758364312267
+376,"model=bert+adapter,i=8,dataset=hwu,f1_id_all",0.8884758364312267
+377," model=bert+adapter,i=8,dataset=hwu,total_duration",68.3832643032074
+378,"model=bert-base-uncased,i=8,dataset=hwu,train_duration",785.0551173686981
+379,"model=bert-base-uncased,i=8,dataset=hwu,train_num_samples",8954.0
+380,"model=bert-base-uncased,i=8,dataset=hwu,acc_id_0",0.8531598513011153
+381,"model=bert-base-uncased,i=8,dataset=hwu,f1_id_0",0.8531598513011153
+382,"model=bert-base-uncased,i=8,dataset=hwu,predict_duration",1.298213243484497
+383,"model=bert-base-uncased,i=8,dataset=hwu,predict_num_samples",1076.0
+384,"model=bert-base-uncased,i=8,dataset=hwu,acc_id_all",0.8531598513011153
+385,"model=bert-base-uncased,i=8,dataset=hwu,f1_id_all",0.8531598513011153
+386," model=bert-base-uncased,i=8,dataset=hwu,total_duration",792.6432693004608
+387,"model=distilbert+adapter,i=8,dataset=hwu,train_duration",34.46757507324219
+388,"model=distilbert+adapter,i=8,dataset=hwu,train_num_samples",8954.0
+389,"model=distilbert+adapter,i=8,dataset=hwu,acc_id_0",0.8801115241635687
+390,"model=distilbert+adapter,i=8,dataset=hwu,f1_id_0",0.8801115241635687
+391,"model=distilbert+adapter,i=8,dataset=hwu,predict_duration",0.8645777702331543
+392,"model=distilbert+adapter,i=8,dataset=hwu,predict_num_samples",1076.0
+393,"model=distilbert+adapter,i=8,dataset=hwu,acc_id_all",0.8801115241635687
+394,"model=distilbert+adapter,i=8,dataset=hwu,f1_id_all",0.8801115241635687
+395," model=distilbert+adapter,i=8,dataset=hwu,total_duration",40.83286690711975
+396,"model=distilbert-base-uncased,i=8,dataset=hwu,train_duration",571.3135726451874
+397,"model=distilbert-base-uncased,i=8,dataset=hwu,train_num_samples",8954.0
+398,"model=distilbert-base-uncased,i=8,dataset=hwu,acc_id_0",0.9052044609665427
+399,"model=distilbert-base-uncased,i=8,dataset=hwu,f1_id_0",0.9052044609665427
+400,"model=distilbert-base-uncased,i=8,dataset=hwu,predict_duration",0.8310470581054688
+401,"model=distilbert-base-uncased,i=8,dataset=hwu,predict_num_samples",1076.0
+402,"model=distilbert-base-uncased,i=8,dataset=hwu,acc_id_all",0.9052044609665427
+403,"model=distilbert-base-uncased,i=8,dataset=hwu,f1_id_all",0.9052044609665427
+404," model=distilbert-base-uncased,i=8,dataset=hwu,total_duration",577.7049744129181
+405,"model=svm,i=9,dataset=hwu,train_duration",2.7452430725097656
+406,"model=svm,i=9,dataset=hwu,train_num_samples",8954.0
+407,"model=svm,i=9,dataset=hwu,acc_id_0",0.8150557620817844
+408,"model=svm,i=9,dataset=hwu,f1_id_0",0.8150557620817844
+409,"model=svm,i=9,dataset=hwu,predict_duration",0.6762528419494629
+410,"model=svm,i=9,dataset=hwu,predict_num_samples",1076.0
+411,"model=svm,i=9,dataset=hwu,acc_id_all",0.8150557620817844
+412,"model=svm,i=9,dataset=hwu,f1_id_all",0.8150557620817844
+413," model=svm,i=9,dataset=hwu,total_duration",16.72948145866394
+414,"model=bert+adapter,i=9,dataset=hwu,train_duration",60.73052000999451
+415,"model=bert+adapter,i=9,dataset=hwu,train_num_samples",8954.0
+416,"model=bert+adapter,i=9,dataset=hwu,acc_id_0",0.8884758364312267
+417,"model=bert+adapter,i=9,dataset=hwu,f1_id_0",0.8884758364312267
+418,"model=bert+adapter,i=9,dataset=hwu,predict_duration",1.3505151271820068
+419,"model=bert+adapter,i=9,dataset=hwu,predict_num_samples",1076.0
+420,"model=bert+adapter,i=9,dataset=hwu,acc_id_all",0.8884758364312267
+421,"model=bert+adapter,i=9,dataset=hwu,f1_id_all",0.8884758364312267
+422," model=bert+adapter,i=9,dataset=hwu,total_duration",68.41575455665588
+423,"model=bert-base-uncased,i=9,dataset=hwu,train_duration",788.8958516120911
+424,"model=bert-base-uncased,i=9,dataset=hwu,train_num_samples",8954.0
+425,"model=bert-base-uncased,i=9,dataset=hwu,acc_id_0",0.8531598513011153
+426,"model=bert-base-uncased,i=9,dataset=hwu,f1_id_0",0.8531598513011153
+427,"model=bert-base-uncased,i=9,dataset=hwu,predict_duration",1.3042523860931396
+428,"model=bert-base-uncased,i=9,dataset=hwu,predict_num_samples",1076.0
+429,"model=bert-base-uncased,i=9,dataset=hwu,acc_id_all",0.8531598513011153
+430,"model=bert-base-uncased,i=9,dataset=hwu,f1_id_all",0.8531598513011153
+431," model=bert-base-uncased,i=9,dataset=hwu,total_duration",796.1398272514343
+432,"model=distilbert+adapter,i=9,dataset=hwu,train_duration",34.63886499404907
+433,"model=distilbert+adapter,i=9,dataset=hwu,train_num_samples",8954.0
+434,"model=distilbert+adapter,i=9,dataset=hwu,acc_id_0",0.8801115241635687
+435,"model=distilbert+adapter,i=9,dataset=hwu,f1_id_0",0.8801115241635687
+436,"model=distilbert+adapter,i=9,dataset=hwu,predict_duration",0.8603897094726562
+437,"model=distilbert+adapter,i=9,dataset=hwu,predict_num_samples",1076.0
+438,"model=distilbert+adapter,i=9,dataset=hwu,acc_id_all",0.8801115241635687
+439,"model=distilbert+adapter,i=9,dataset=hwu,f1_id_all",0.8801115241635687
+440," model=distilbert+adapter,i=9,dataset=hwu,total_duration",41.31103157997131
+441,"model=distilbert-base-uncased,i=9,dataset=hwu,train_duration",571.6440868377686
+442,"model=distilbert-base-uncased,i=9,dataset=hwu,train_num_samples",8954.0
+443,"model=distilbert-base-uncased,i=9,dataset=hwu,acc_id_0",0.9052044609665427
+444,"model=distilbert-base-uncased,i=9,dataset=hwu,f1_id_0",0.9052044609665427
+445,"model=distilbert-base-uncased,i=9,dataset=hwu,predict_duration",0.869574785232544
+446,"model=distilbert-base-uncased,i=9,dataset=hwu,predict_num_samples",1076.0
+447,"model=distilbert-base-uncased,i=9,dataset=hwu,acc_id_all",0.9052044609665427
+448,"model=distilbert-base-uncased,i=9,dataset=hwu,f1_id_all",0.9052044609665427
+449," model=distilbert-base-uncased,i=9,dataset=hwu,total_duration",578.0269179344177
+450,"model=svm,i=0,dataset=clinc,train_duration",7.342875003814697
+451,"model=svm,i=0,dataset=clinc,train_num_samples",15000.0
+452,"model=svm,i=0,dataset=clinc,acc_id_0",0.8517777777777777
+453,"model=svm,i=0,dataset=clinc,f1_id_0",0.8517777777777776
+454,"model=svm,i=0,dataset=clinc,predict_duration",9.315757036209106
+455,"model=svm,i=0,dataset=clinc,predict_num_samples",4500.0
+456,"model=svm,i=0,dataset=clinc,acc_id_all",0.8517777777777777
+457,"model=svm,i=0,dataset=clinc,f1_id_all",0.8517777777777776
+458," model=svm,i=0,dataset=clinc,total_duration",53.35845589637756
+459,"model=bert+adapter,i=0,dataset=clinc,train_duration",107.02245664596558
+460,"model=bert+adapter,i=0,dataset=clinc,train_num_samples",15000.0
+461,"model=bert+adapter,i=0,dataset=clinc,acc_id_0",0.9355555555555556
+462,"model=bert+adapter,i=0,dataset=clinc,f1_id_0",0.9355555555555556
+463,"model=bert+adapter,i=0,dataset=clinc,predict_duration",5.569598436355591
+464,"model=bert+adapter,i=0,dataset=clinc,predict_num_samples",4500.0
+465,"model=bert+adapter,i=0,dataset=clinc,acc_id_all",0.9355555555555556
+466,"model=bert+adapter,i=0,dataset=clinc,f1_id_all",0.9355555555555556
+467," model=bert+adapter,i=0,dataset=clinc,total_duration",118.8459701538086
+468,"model=bert-base-uncased,i=0,dataset=clinc,train_duration",1710.4012751579285
+469,"model=bert-base-uncased,i=0,dataset=clinc,train_num_samples",15000.0
+470,"model=bert-base-uncased,i=0,dataset=clinc,acc_id_0",0.9128888888888889
+471,"model=bert-base-uncased,i=0,dataset=clinc,f1_id_0",0.9128888888888889
+472,"model=bert-base-uncased,i=0,dataset=clinc,predict_duration",5.330293655395508
+473,"model=bert-base-uncased,i=0,dataset=clinc,predict_num_samples",4500.0
+474,"model=bert-base-uncased,i=0,dataset=clinc,acc_id_all",0.9128888888888889
+475,"model=bert-base-uncased,i=0,dataset=clinc,f1_id_all",0.9128888888888889
+476," model=bert-base-uncased,i=0,dataset=clinc,total_duration",1721.6786708831787
+477,"model=distilbert+adapter,i=0,dataset=clinc,train_duration",81.86282420158386
+478,"model=distilbert+adapter,i=0,dataset=clinc,train_num_samples",15000.0
+479,"model=distilbert+adapter,i=0,dataset=clinc,acc_id_0",0.9317777777777778
+480,"model=distilbert+adapter,i=0,dataset=clinc,f1_id_0",0.9317777777777778
+481,"model=distilbert+adapter,i=0,dataset=clinc,predict_duration",3.5272951126098633
+482,"model=distilbert+adapter,i=0,dataset=clinc,predict_num_samples",4500.0
+483,"model=distilbert+adapter,i=0,dataset=clinc,acc_id_all",0.9317777777777778
+484,"model=distilbert+adapter,i=0,dataset=clinc,f1_id_all",0.9317777777777778
+485," model=distilbert+adapter,i=0,dataset=clinc,total_duration",90.88087630271912
+486,"model=distilbert-base-uncased,i=0,dataset=clinc,train_duration",857.271918296814
+487,"model=distilbert-base-uncased,i=0,dataset=clinc,train_num_samples",15000.0
+488,"model=distilbert-base-uncased,i=0,dataset=clinc,acc_id_0",0.9508888888888889
+489,"model=distilbert-base-uncased,i=0,dataset=clinc,f1_id_0",0.9508888888888889
+490,"model=distilbert-base-uncased,i=0,dataset=clinc,predict_duration",3.445582151412964
+491,"model=distilbert-base-uncased,i=0,dataset=clinc,predict_num_samples",4500.0
+492,"model=distilbert-base-uncased,i=0,dataset=clinc,acc_id_all",0.9508888888888889
+493,"model=distilbert-base-uncased,i=0,dataset=clinc,f1_id_all",0.9508888888888889
+494," model=distilbert-base-uncased,i=0,dataset=clinc,total_duration",866.2668421268463
+495,"model=svm,i=1,dataset=clinc,train_duration",7.361745119094849
+496,"model=svm,i=1,dataset=clinc,train_num_samples",15000.0
+497,"model=svm,i=1,dataset=clinc,acc_id_0",0.8517777777777777
+498,"model=svm,i=1,dataset=clinc,f1_id_0",0.8517777777777776
+499,"model=svm,i=1,dataset=clinc,predict_duration",9.322510004043579
+500,"model=svm,i=1,dataset=clinc,predict_num_samples",4500.0
+501,"model=svm,i=1,dataset=clinc,acc_id_all",0.8517777777777777
+502,"model=svm,i=1,dataset=clinc,f1_id_all",0.8517777777777776
+503," model=svm,i=1,dataset=clinc,total_duration",53.32834482192993
+504,"model=bert+adapter,i=1,dataset=clinc,train_duration",143.30640172958374
+505,"model=bert+adapter,i=1,dataset=clinc,train_num_samples",15000.0
+506,"model=bert+adapter,i=1,dataset=clinc,acc_id_0",0.9431111111111111
+507,"model=bert+adapter,i=1,dataset=clinc,f1_id_0",0.9431111111111111
+508,"model=bert+adapter,i=1,dataset=clinc,predict_duration",5.588397741317749
+509,"model=bert+adapter,i=1,dataset=clinc,predict_num_samples",4500.0
+510,"model=bert+adapter,i=1,dataset=clinc,acc_id_all",0.9431111111111111
+511,"model=bert+adapter,i=1,dataset=clinc,f1_id_all",0.9431111111111111
+512," model=bert+adapter,i=1,dataset=clinc,total_duration",155.08709049224854
+513,"model=bert-base-uncased,i=1,dataset=clinc,train_duration",1555.4165256023407
+514,"model=bert-base-uncased,i=1,dataset=clinc,train_num_samples",15000.0
+515,"model=bert-base-uncased,i=1,dataset=clinc,acc_id_0",0.9115555555555556
+516,"model=bert-base-uncased,i=1,dataset=clinc,f1_id_0",0.9115555555555556
+517,"model=bert-base-uncased,i=1,dataset=clinc,predict_duration",5.329089403152466
+518,"model=bert-base-uncased,i=1,dataset=clinc,predict_num_samples",4500.0
+519,"model=bert-base-uncased,i=1,dataset=clinc,acc_id_all",0.9115555555555556
+520,"model=bert-base-uncased,i=1,dataset=clinc,f1_id_all",0.9115555555555556
+521," model=bert-base-uncased,i=1,dataset=clinc,total_duration",1566.7776007652283
+522,"model=distilbert+adapter,i=1,dataset=clinc,train_duration",81.6837248802185
+523,"model=distilbert+adapter,i=1,dataset=clinc,train_num_samples",15000.0
+524,"model=distilbert+adapter,i=1,dataset=clinc,acc_id_0",0.9375555555555556
+525,"model=distilbert+adapter,i=1,dataset=clinc,f1_id_0",0.9375555555555556
+526,"model=distilbert+adapter,i=1,dataset=clinc,predict_duration",3.5317180156707764
+527,"model=distilbert+adapter,i=1,dataset=clinc,predict_num_samples",4500.0
+528,"model=distilbert+adapter,i=1,dataset=clinc,acc_id_all",0.9375555555555556
+529,"model=distilbert+adapter,i=1,dataset=clinc,f1_id_all",0.9375555555555556
+530," model=distilbert+adapter,i=1,dataset=clinc,total_duration",90.64703512191772
+531,"model=distilbert-base-uncased,i=1,dataset=clinc,train_duration",848.1518161296844
+532,"model=distilbert-base-uncased,i=1,dataset=clinc,train_num_samples",15000.0
+533,"model=distilbert-base-uncased,i=1,dataset=clinc,acc_id_0",0.9508888888888889
+534,"model=distilbert-base-uncased,i=1,dataset=clinc,f1_id_0",0.9508888888888889
+535,"model=distilbert-base-uncased,i=1,dataset=clinc,predict_duration",3.422553777694702
+536,"model=distilbert-base-uncased,i=1,dataset=clinc,predict_num_samples",4500.0
+537,"model=distilbert-base-uncased,i=1,dataset=clinc,acc_id_all",0.9508888888888889
+538,"model=distilbert-base-uncased,i=1,dataset=clinc,f1_id_all",0.9508888888888889
+539," model=distilbert-base-uncased,i=1,dataset=clinc,total_duration",857.0305049419403
+540,"model=svm,i=2,dataset=clinc,train_duration",7.357405185699463
+541,"model=svm,i=2,dataset=clinc,train_num_samples",15000.0
+542,"model=svm,i=2,dataset=clinc,acc_id_0",0.8517777777777777
+543,"model=svm,i=2,dataset=clinc,f1_id_0",0.8517777777777776
+544,"model=svm,i=2,dataset=clinc,predict_duration",9.626305103302002
+545,"model=svm,i=2,dataset=clinc,predict_num_samples",4500.0
+546,"model=svm,i=2,dataset=clinc,acc_id_all",0.8517777777777777
+547,"model=svm,i=2,dataset=clinc,f1_id_all",0.8517777777777776
+548," model=svm,i=2,dataset=clinc,total_duration",53.91586232185364
+549,"model=bert+adapter,i=2,dataset=clinc,train_duration",142.36714911460876
+550,"model=bert+adapter,i=2,dataset=clinc,train_num_samples",15000.0
+551,"model=bert+adapter,i=2,dataset=clinc,acc_id_0",0.9431111111111111
+552,"model=bert+adapter,i=2,dataset=clinc,f1_id_0",0.9431111111111111
+553,"model=bert+adapter,i=2,dataset=clinc,predict_duration",5.5581066608428955
+554,"model=bert+adapter,i=2,dataset=clinc,predict_num_samples",4500.0
+555,"model=bert+adapter,i=2,dataset=clinc,acc_id_all",0.9431111111111111
+556,"model=bert+adapter,i=2,dataset=clinc,f1_id_all",0.9431111111111111
+557," model=bert+adapter,i=2,dataset=clinc,total_duration",153.96333718299866
+558,"model=bert-base-uncased,i=2,dataset=clinc,train_duration",1569.3580996990204
+559,"model=bert-base-uncased,i=2,dataset=clinc,train_num_samples",15000.0
+560,"model=bert-base-uncased,i=2,dataset=clinc,acc_id_0",0.9115555555555556
+561,"model=bert-base-uncased,i=2,dataset=clinc,f1_id_0",0.9115555555555556
+562,"model=bert-base-uncased,i=2,dataset=clinc,predict_duration",5.35338282585144
+563,"model=bert-base-uncased,i=2,dataset=clinc,predict_num_samples",4500.0
+564,"model=bert-base-uncased,i=2,dataset=clinc,acc_id_all",0.9115555555555556
+565,"model=bert-base-uncased,i=2,dataset=clinc,f1_id_all",0.9115555555555556
+566," model=bert-base-uncased,i=2,dataset=clinc,total_duration",1580.773051738739
+567,"model=distilbert+adapter,i=2,dataset=clinc,train_duration",81.94941902160645
+568,"model=distilbert+adapter,i=2,dataset=clinc,train_num_samples",15000.0
+569,"model=distilbert+adapter,i=2,dataset=clinc,acc_id_0",0.9375555555555556
+570,"model=distilbert+adapter,i=2,dataset=clinc,f1_id_0",0.9375555555555556
+571,"model=distilbert+adapter,i=2,dataset=clinc,predict_duration",3.5572242736816406
+572,"model=distilbert+adapter,i=2,dataset=clinc,predict_num_samples",4500.0
+573,"model=distilbert+adapter,i=2,dataset=clinc,acc_id_all",0.9375555555555556
+574,"model=distilbert+adapter,i=2,dataset=clinc,f1_id_all",0.9375555555555556
+575," model=distilbert+adapter,i=2,dataset=clinc,total_duration",93.15805006027222
+576,"model=distilbert-base-uncased,i=2,dataset=clinc,train_duration",845.324090719223
+577,"model=distilbert-base-uncased,i=2,dataset=clinc,train_num_samples",15000.0
+578,"model=distilbert-base-uncased,i=2,dataset=clinc,acc_id_0",0.9508888888888889
+579,"model=distilbert-base-uncased,i=2,dataset=clinc,f1_id_0",0.9508888888888889
+580,"model=distilbert-base-uncased,i=2,dataset=clinc,predict_duration",3.458040952682495
+581,"model=distilbert-base-uncased,i=2,dataset=clinc,predict_num_samples",4500.0
+582,"model=distilbert-base-uncased,i=2,dataset=clinc,acc_id_all",0.9508888888888889
+583,"model=distilbert-base-uncased,i=2,dataset=clinc,f1_id_all",0.9508888888888889
+584," model=distilbert-base-uncased,i=2,dataset=clinc,total_duration",854.2452375888824
+585,"model=svm,i=3,dataset=clinc,train_duration",7.35667085647583
+586,"model=svm,i=3,dataset=clinc,train_num_samples",15000.0
+587,"model=svm,i=3,dataset=clinc,acc_id_0",0.8517777777777777
+588,"model=svm,i=3,dataset=clinc,f1_id_0",0.8517777777777776
+589,"model=svm,i=3,dataset=clinc,predict_duration",9.770843505859375
+590,"model=svm,i=3,dataset=clinc,predict_num_samples",4500.0
+591,"model=svm,i=3,dataset=clinc,acc_id_all",0.8517777777777777
+592,"model=svm,i=3,dataset=clinc,f1_id_all",0.8517777777777776
+593," model=svm,i=3,dataset=clinc,total_duration",54.037941455841064
+594,"model=bert+adapter,i=3,dataset=clinc,train_duration",142.59469747543335
+595,"model=bert+adapter,i=3,dataset=clinc,train_num_samples",15000.0
+596,"model=bert+adapter,i=3,dataset=clinc,acc_id_0",0.9431111111111111
+597,"model=bert+adapter,i=3,dataset=clinc,f1_id_0",0.9431111111111111
+598,"model=bert+adapter,i=3,dataset=clinc,predict_duration",5.56924295425415
+599,"model=bert+adapter,i=3,dataset=clinc,predict_num_samples",4500.0
+600,"model=bert+adapter,i=3,dataset=clinc,acc_id_all",0.9431111111111111
+601,"model=bert+adapter,i=3,dataset=clinc,f1_id_all",0.9431111111111111
+602," model=bert+adapter,i=3,dataset=clinc,total_duration",154.24554800987244
+603,"model=bert-base-uncased,i=3,dataset=clinc,train_duration",1552.4486632347107
+604,"model=bert-base-uncased,i=3,dataset=clinc,train_num_samples",15000.0
+605,"model=bert-base-uncased,i=3,dataset=clinc,acc_id_0",0.9115555555555556
+606,"model=bert-base-uncased,i=3,dataset=clinc,f1_id_0",0.9115555555555556
+607,"model=bert-base-uncased,i=3,dataset=clinc,predict_duration",5.345329999923706
+608,"model=bert-base-uncased,i=3,dataset=clinc,predict_num_samples",4500.0
+609,"model=bert-base-uncased,i=3,dataset=clinc,acc_id_all",0.9115555555555556
+610,"model=bert-base-uncased,i=3,dataset=clinc,f1_id_all",0.9115555555555556
+611," model=bert-base-uncased,i=3,dataset=clinc,total_duration",1564.8056330680847
+612,"model=distilbert+adapter,i=3,dataset=clinc,train_duration",81.97703075408936
+613,"model=distilbert+adapter,i=3,dataset=clinc,train_num_samples",15000.0
+614,"model=distilbert+adapter,i=3,dataset=clinc,acc_id_0",0.9375555555555556
+615,"model=distilbert+adapter,i=3,dataset=clinc,f1_id_0",0.9375555555555556
+616,"model=distilbert+adapter,i=3,dataset=clinc,predict_duration",3.5630555152893066
+617,"model=distilbert+adapter,i=3,dataset=clinc,predict_num_samples",4500.0
+618,"model=distilbert+adapter,i=3,dataset=clinc,acc_id_all",0.9375555555555556
+619,"model=distilbert+adapter,i=3,dataset=clinc,f1_id_all",0.9375555555555556
+620," model=distilbert+adapter,i=3,dataset=clinc,total_duration",90.88577151298523
+621,"model=distilbert-base-uncased,i=3,dataset=clinc,train_duration",850.6052117347717
+622,"model=distilbert-base-uncased,i=3,dataset=clinc,train_num_samples",15000.0
+623,"model=distilbert-base-uncased,i=3,dataset=clinc,acc_id_0",0.9508888888888889
+624,"model=distilbert-base-uncased,i=3,dataset=clinc,f1_id_0",0.9508888888888889
+625,"model=distilbert-base-uncased,i=3,dataset=clinc,predict_duration",3.444859266281128
+626,"model=distilbert-base-uncased,i=3,dataset=clinc,predict_num_samples",4500.0
+627,"model=distilbert-base-uncased,i=3,dataset=clinc,acc_id_all",0.9508888888888889
+628,"model=distilbert-base-uncased,i=3,dataset=clinc,f1_id_all",0.9508888888888889
+629," model=distilbert-base-uncased,i=3,dataset=clinc,total_duration",859.4524052143097
+630,"model=svm,i=4,dataset=clinc,train_duration",7.3693156242370605
+631,"model=svm,i=4,dataset=clinc,train_num_samples",15000.0
+632,"model=svm,i=4,dataset=clinc,acc_id_0",0.8517777777777777
+633,"model=svm,i=4,dataset=clinc,f1_id_0",0.8517777777777776
+634,"model=svm,i=4,dataset=clinc,predict_duration",9.778489112854004
+635,"model=svm,i=4,dataset=clinc,predict_num_samples",4500.0
+636,"model=svm,i=4,dataset=clinc,acc_id_all",0.8517777777777777
+637,"model=svm,i=4,dataset=clinc,f1_id_all",0.8517777777777776
+638," model=svm,i=4,dataset=clinc,total_duration",54.31065654754639
+639,"model=bert+adapter,i=4,dataset=clinc,train_duration",142.91802501678467
+640,"model=bert+adapter,i=4,dataset=clinc,train_num_samples",15000.0
+641,"model=bert+adapter,i=4,dataset=clinc,acc_id_0",0.9431111111111111
+642,"model=bert+adapter,i=4,dataset=clinc,f1_id_0",0.9431111111111111
+643,"model=bert+adapter,i=4,dataset=clinc,predict_duration",5.572372913360596
+644,"model=bert+adapter,i=4,dataset=clinc,predict_num_samples",4500.0
+645,"model=bert+adapter,i=4,dataset=clinc,acc_id_all",0.9431111111111111
+646,"model=bert+adapter,i=4,dataset=clinc,f1_id_all",0.9431111111111111
+647," model=bert+adapter,i=4,dataset=clinc,total_duration",154.6228151321411
+648,"model=bert-base-uncased,i=4,dataset=clinc,train_duration",1541.250473499298
+649,"model=bert-base-uncased,i=4,dataset=clinc,train_num_samples",15000.0
+650,"model=bert-base-uncased,i=4,dataset=clinc,acc_id_0",0.9115555555555556
+651,"model=bert-base-uncased,i=4,dataset=clinc,f1_id_0",0.9115555555555556
+652,"model=bert-base-uncased,i=4,dataset=clinc,predict_duration",5.329850912094116
+653,"model=bert-base-uncased,i=4,dataset=clinc,predict_num_samples",4500.0
+654,"model=bert-base-uncased,i=4,dataset=clinc,acc_id_all",0.9115555555555556
+655,"model=bert-base-uncased,i=4,dataset=clinc,f1_id_all",0.9115555555555556
+656," model=bert-base-uncased,i=4,dataset=clinc,total_duration",1552.709956407547
+657,"model=distilbert+adapter,i=4,dataset=clinc,train_duration",81.6195936203003
+658,"model=distilbert+adapter,i=4,dataset=clinc,train_num_samples",15000.0
+659,"model=distilbert+adapter,i=4,dataset=clinc,acc_id_0",0.9375555555555556
+660,"model=distilbert+adapter,i=4,dataset=clinc,f1_id_0",0.9375555555555556
+661,"model=distilbert+adapter,i=4,dataset=clinc,predict_duration",3.5293052196502686
+662,"model=distilbert+adapter,i=4,dataset=clinc,predict_num_samples",4500.0
+663,"model=distilbert+adapter,i=4,dataset=clinc,acc_id_all",0.9375555555555556
+664,"model=distilbert+adapter,i=4,dataset=clinc,f1_id_all",0.9375555555555556
+665," model=distilbert+adapter,i=4,dataset=clinc,total_duration",90.6616907119751
+666,"model=distilbert-base-uncased,i=4,dataset=clinc,train_duration",842.3261680603027
+667,"model=distilbert-base-uncased,i=4,dataset=clinc,train_num_samples",15000.0
+668,"model=distilbert-base-uncased,i=4,dataset=clinc,acc_id_0",0.9508888888888889
+669,"model=distilbert-base-uncased,i=4,dataset=clinc,f1_id_0",0.9508888888888889
+670,"model=distilbert-base-uncased,i=4,dataset=clinc,predict_duration",3.4646925926208496
+671,"model=distilbert-base-uncased,i=4,dataset=clinc,predict_num_samples",4500.0
+672,"model=distilbert-base-uncased,i=4,dataset=clinc,acc_id_all",0.9508888888888889
+673,"model=distilbert-base-uncased,i=4,dataset=clinc,f1_id_all",0.9508888888888889
+674," model=distilbert-base-uncased,i=4,dataset=clinc,total_duration",851.2147035598755
+675,"model=svm,i=5,dataset=clinc,train_duration",7.326760292053223
+676,"model=svm,i=5,dataset=clinc,train_num_samples",15000.0
+677,"model=svm,i=5,dataset=clinc,acc_id_0",0.8517777777777777
+678,"model=svm,i=5,dataset=clinc,f1_id_0",0.8517777777777776
+679,"model=svm,i=5,dataset=clinc,predict_duration",9.46482539176941
+680,"model=svm,i=5,dataset=clinc,predict_num_samples",4500.0
+681,"model=svm,i=5,dataset=clinc,acc_id_all",0.8517777777777777
+682,"model=svm,i=5,dataset=clinc,f1_id_all",0.8517777777777776
+683," model=svm,i=5,dataset=clinc,total_duration",53.5958788394928
+684,"model=bert+adapter,i=5,dataset=clinc,train_duration",142.3753719329834
+685,"model=bert+adapter,i=5,dataset=clinc,train_num_samples",15000.0
+686,"model=bert+adapter,i=5,dataset=clinc,acc_id_0",0.9431111111111111
+687,"model=bert+adapter,i=5,dataset=clinc,f1_id_0",0.9431111111111111
+688,"model=bert+adapter,i=5,dataset=clinc,predict_duration",5.559362173080444
+689,"model=bert+adapter,i=5,dataset=clinc,predict_num_samples",4500.0
+690,"model=bert+adapter,i=5,dataset=clinc,acc_id_all",0.9431111111111111
+691,"model=bert+adapter,i=5,dataset=clinc,f1_id_all",0.9431111111111111
+692," model=bert+adapter,i=5,dataset=clinc,total_duration",153.91903829574585
+693,"model=bert-base-uncased,i=5,dataset=clinc,train_duration",1539.7809665203094
+694,"model=bert-base-uncased,i=5,dataset=clinc,train_num_samples",15000.0
+695,"model=bert-base-uncased,i=5,dataset=clinc,acc_id_0",0.9115555555555556
+696,"model=bert-base-uncased,i=5,dataset=clinc,f1_id_0",0.9115555555555556
+697,"model=bert-base-uncased,i=5,dataset=clinc,predict_duration",5.329385995864868
+698,"model=bert-base-uncased,i=5,dataset=clinc,predict_num_samples",4500.0
+699,"model=bert-base-uncased,i=5,dataset=clinc,acc_id_all",0.9115555555555556
+700,"model=bert-base-uncased,i=5,dataset=clinc,f1_id_all",0.9115555555555556
+701," model=bert-base-uncased,i=5,dataset=clinc,total_duration",1551.0601544380188
+702,"model=distilbert+adapter,i=5,dataset=clinc,train_duration",81.76072645187378
+703,"model=distilbert+adapter,i=5,dataset=clinc,train_num_samples",15000.0
+704,"model=distilbert+adapter,i=5,dataset=clinc,acc_id_0",0.9375555555555556
+705,"model=distilbert+adapter,i=5,dataset=clinc,f1_id_0",0.9375555555555556
+706,"model=distilbert+adapter,i=5,dataset=clinc,predict_duration",3.5385031700134277
+707,"model=distilbert+adapter,i=5,dataset=clinc,predict_num_samples",4500.0
+708,"model=distilbert+adapter,i=5,dataset=clinc,acc_id_all",0.9375555555555556
+709,"model=distilbert+adapter,i=5,dataset=clinc,f1_id_all",0.9375555555555556
+710," model=distilbert+adapter,i=5,dataset=clinc,total_duration",90.6566743850708
+711,"model=distilbert-base-uncased,i=5,dataset=clinc,train_duration",842.549821138382
+712,"model=distilbert-base-uncased,i=5,dataset=clinc,train_num_samples",15000.0
+713,"model=distilbert-base-uncased,i=5,dataset=clinc,acc_id_0",0.9508888888888889
+714,"model=distilbert-base-uncased,i=5,dataset=clinc,f1_id_0",0.9508888888888889
+715,"model=distilbert-base-uncased,i=5,dataset=clinc,predict_duration",3.448334217071533
+716,"model=distilbert-base-uncased,i=5,dataset=clinc,predict_num_samples",4500.0
+717,"model=distilbert-base-uncased,i=5,dataset=clinc,acc_id_all",0.9508888888888889
+718,"model=distilbert-base-uncased,i=5,dataset=clinc,f1_id_all",0.9508888888888889
+719," model=distilbert-base-uncased,i=5,dataset=clinc,total_duration",851.4235792160034
+720,"model=svm,i=6,dataset=clinc,train_duration",7.339493274688721
+721,"model=svm,i=6,dataset=clinc,train_num_samples",15000.0
+722,"model=svm,i=6,dataset=clinc,acc_id_0",0.8517777777777777
+723,"model=svm,i=6,dataset=clinc,f1_id_0",0.8517777777777776
+724,"model=svm,i=6,dataset=clinc,predict_duration",9.537090063095093
+725,"model=svm,i=6,dataset=clinc,predict_num_samples",4500.0
+726,"model=svm,i=6,dataset=clinc,acc_id_all",0.8517777777777777
+727,"model=svm,i=6,dataset=clinc,f1_id_all",0.8517777777777776
+728," model=svm,i=6,dataset=clinc,total_duration",53.706552028656006
+729,"model=bert+adapter,i=6,dataset=clinc,train_duration",142.45032119750977
+730,"model=bert+adapter,i=6,dataset=clinc,train_num_samples",15000.0
+731,"model=bert+adapter,i=6,dataset=clinc,acc_id_0",0.9431111111111111
+732,"model=bert+adapter,i=6,dataset=clinc,f1_id_0",0.9431111111111111
+733,"model=bert+adapter,i=6,dataset=clinc,predict_duration",5.573235988616943
+734,"model=bert+adapter,i=6,dataset=clinc,predict_num_samples",4500.0
+735,"model=bert+adapter,i=6,dataset=clinc,acc_id_all",0.9431111111111111
+736,"model=bert+adapter,i=6,dataset=clinc,f1_id_all",0.9431111111111111
+737," model=bert+adapter,i=6,dataset=clinc,total_duration",154.0203185081482
+738,"model=bert-base-uncased,i=6,dataset=clinc,train_duration",1540.7424132823944
+739,"model=bert-base-uncased,i=6,dataset=clinc,train_num_samples",15000.0
+740,"model=bert-base-uncased,i=6,dataset=clinc,acc_id_0",0.9115555555555556
+741,"model=bert-base-uncased,i=6,dataset=clinc,f1_id_0",0.9115555555555556
+742,"model=bert-base-uncased,i=6,dataset=clinc,predict_duration",5.341624736785889
+743,"model=bert-base-uncased,i=6,dataset=clinc,predict_num_samples",4500.0
+744,"model=bert-base-uncased,i=6,dataset=clinc,acc_id_all",0.9115555555555556
+745,"model=bert-base-uncased,i=6,dataset=clinc,f1_id_all",0.9115555555555556
+746," model=bert-base-uncased,i=6,dataset=clinc,total_duration",1552.0954349040985
+747,"model=distilbert+adapter,i=6,dataset=clinc,train_duration",81.66718339920044
+748,"model=distilbert+adapter,i=6,dataset=clinc,train_num_samples",15000.0
+749,"model=distilbert+adapter,i=6,dataset=clinc,acc_id_0",0.9375555555555556
+750,"model=distilbert+adapter,i=6,dataset=clinc,f1_id_0",0.9375555555555556
+751,"model=distilbert+adapter,i=6,dataset=clinc,predict_duration",3.5203094482421875
+752,"model=distilbert+adapter,i=6,dataset=clinc,predict_num_samples",4500.0
+753,"model=distilbert+adapter,i=6,dataset=clinc,acc_id_all",0.9375555555555556
+754,"model=distilbert+adapter,i=6,dataset=clinc,f1_id_all",0.9375555555555556
+755," model=distilbert+adapter,i=6,dataset=clinc,total_duration",90.53500771522522
+756,"model=distilbert-base-uncased,i=6,dataset=clinc,train_duration",842.9785785675049
+757,"model=distilbert-base-uncased,i=6,dataset=clinc,train_num_samples",15000.0
+758,"model=distilbert-base-uncased,i=6,dataset=clinc,acc_id_0",0.9508888888888889
+759,"model=distilbert-base-uncased,i=6,dataset=clinc,f1_id_0",0.9508888888888889
+760,"model=distilbert-base-uncased,i=6,dataset=clinc,predict_duration",3.3966457843780518
+761,"model=distilbert-base-uncased,i=6,dataset=clinc,predict_num_samples",4500.0
+762,"model=distilbert-base-uncased,i=6,dataset=clinc,acc_id_all",0.9508888888888889
+763,"model=distilbert-base-uncased,i=6,dataset=clinc,f1_id_all",0.9508888888888889
+764," model=distilbert-base-uncased,i=6,dataset=clinc,total_duration",851.8414769172668
+765,"model=svm,i=7,dataset=clinc,train_duration",7.329267740249634
+766,"model=svm,i=7,dataset=clinc,train_num_samples",15000.0
+767,"model=svm,i=7,dataset=clinc,acc_id_0",0.8517777777777777
+768,"model=svm,i=7,dataset=clinc,f1_id_0",0.8517777777777776
+769,"model=svm,i=7,dataset=clinc,predict_duration",9.1930091381073
+770,"model=svm,i=7,dataset=clinc,predict_num_samples",4500.0
+771,"model=svm,i=7,dataset=clinc,acc_id_all",0.8517777777777777
+772,"model=svm,i=7,dataset=clinc,f1_id_all",0.8517777777777776
+773," model=svm,i=7,dataset=clinc,total_duration",52.984625816345215
+774,"model=bert+adapter,i=7,dataset=clinc,train_duration",142.43975639343262
+775,"model=bert+adapter,i=7,dataset=clinc,train_num_samples",15000.0
+776,"model=bert+adapter,i=7,dataset=clinc,acc_id_0",0.9431111111111111
+777,"model=bert+adapter,i=7,dataset=clinc,f1_id_0",0.9431111111111111
+778,"model=bert+adapter,i=7,dataset=clinc,predict_duration",5.566201210021973
+779,"model=bert+adapter,i=7,dataset=clinc,predict_num_samples",4500.0
+780,"model=bert+adapter,i=7,dataset=clinc,acc_id_all",0.9431111111111111
+781,"model=bert+adapter,i=7,dataset=clinc,f1_id_all",0.9431111111111111
+782," model=bert+adapter,i=7,dataset=clinc,total_duration",154.36938428878784
+783,"model=bert-base-uncased,i=7,dataset=clinc,train_duration",1540.0612103939056
+784,"model=bert-base-uncased,i=7,dataset=clinc,train_num_samples",15000.0
+785,"model=bert-base-uncased,i=7,dataset=clinc,acc_id_0",0.9115555555555556
+786,"model=bert-base-uncased,i=7,dataset=clinc,f1_id_0",0.9115555555555556
+787,"model=bert-base-uncased,i=7,dataset=clinc,predict_duration",5.3124024868011475
+788,"model=bert-base-uncased,i=7,dataset=clinc,predict_num_samples",4500.0
+789,"model=bert-base-uncased,i=7,dataset=clinc,acc_id_all",0.9115555555555556
+790,"model=bert-base-uncased,i=7,dataset=clinc,f1_id_all",0.9115555555555556
+791," model=bert-base-uncased,i=7,dataset=clinc,total_duration",1551.3415880203247
+792,"model=distilbert+adapter,i=7,dataset=clinc,train_duration",81.41598391532898
+793,"model=distilbert+adapter,i=7,dataset=clinc,train_num_samples",15000.0
+794,"model=distilbert+adapter,i=7,dataset=clinc,acc_id_0",0.9375555555555556
+795,"model=distilbert+adapter,i=7,dataset=clinc,f1_id_0",0.9375555555555556
+796,"model=distilbert+adapter,i=7,dataset=clinc,predict_duration",3.537496566772461
+797,"model=distilbert+adapter,i=7,dataset=clinc,predict_num_samples",4500.0
+798,"model=distilbert+adapter,i=7,dataset=clinc,acc_id_all",0.9375555555555556
+799,"model=distilbert+adapter,i=7,dataset=clinc,f1_id_all",0.9375555555555556
+800," model=distilbert+adapter,i=7,dataset=clinc,total_duration",90.32082295417786
+801,"model=distilbert-base-uncased,i=7,dataset=clinc,train_duration",844.1165976524353
+802,"model=distilbert-base-uncased,i=7,dataset=clinc,train_num_samples",15000.0
+803,"model=distilbert-base-uncased,i=7,dataset=clinc,acc_id_0",0.9508888888888889
+804,"model=distilbert-base-uncased,i=7,dataset=clinc,f1_id_0",0.9508888888888889
+805,"model=distilbert-base-uncased,i=7,dataset=clinc,predict_duration",3.4414939880371094
+806,"model=distilbert-base-uncased,i=7,dataset=clinc,predict_num_samples",4500.0
+807,"model=distilbert-base-uncased,i=7,dataset=clinc,acc_id_all",0.9508888888888889
+808,"model=distilbert-base-uncased,i=7,dataset=clinc,f1_id_all",0.9508888888888889
+809," model=distilbert-base-uncased,i=7,dataset=clinc,total_duration",852.933513879776
+810,"model=svm,i=8,dataset=clinc,train_duration",7.492203235626221
+811,"model=svm,i=8,dataset=clinc,train_num_samples",15000.0
+812,"model=svm,i=8,dataset=clinc,acc_id_0",0.8517777777777777
+813,"model=svm,i=8,dataset=clinc,f1_id_0",0.8517777777777776
+814,"model=svm,i=8,dataset=clinc,predict_duration",9.275841474533081
+815,"model=svm,i=8,dataset=clinc,predict_num_samples",4500.0
+816,"model=svm,i=8,dataset=clinc,acc_id_all",0.8517777777777777
+817,"model=svm,i=8,dataset=clinc,f1_id_all",0.8517777777777776
+818," model=svm,i=8,dataset=clinc,total_duration",53.282658100128174
+819,"model=bert+adapter,i=8,dataset=clinc,train_duration",142.29583263397217
+820,"model=bert+adapter,i=8,dataset=clinc,train_num_samples",15000.0
+821,"model=bert+adapter,i=8,dataset=clinc,acc_id_0",0.9431111111111111
+822,"model=bert+adapter,i=8,dataset=clinc,f1_id_0",0.9431111111111111
+823,"model=bert+adapter,i=8,dataset=clinc,predict_duration",5.5661704540252686
+824,"model=bert+adapter,i=8,dataset=clinc,predict_num_samples",4500.0
+825,"model=bert+adapter,i=8,dataset=clinc,acc_id_all",0.9431111111111111
+826,"model=bert+adapter,i=8,dataset=clinc,f1_id_all",0.9431111111111111
+827," model=bert+adapter,i=8,dataset=clinc,total_duration",154.0853271484375
+828,"model=bert-base-uncased,i=8,dataset=clinc,train_duration",1534.3446071147919
+829,"model=bert-base-uncased,i=8,dataset=clinc,train_num_samples",15000.0
+830,"model=bert-base-uncased,i=8,dataset=clinc,acc_id_0",0.9115555555555556
+831,"model=bert-base-uncased,i=8,dataset=clinc,f1_id_0",0.9115555555555556
+832,"model=bert-base-uncased,i=8,dataset=clinc,predict_duration",5.307327747344971
+833,"model=bert-base-uncased,i=8,dataset=clinc,predict_num_samples",4500.0
+834,"model=bert-base-uncased,i=8,dataset=clinc,acc_id_all",0.9115555555555556
+835,"model=bert-base-uncased,i=8,dataset=clinc,f1_id_all",0.9115555555555556
+836," model=bert-base-uncased,i=8,dataset=clinc,total_duration",1545.6278331279755
+837,"model=distilbert+adapter,i=8,dataset=clinc,train_duration",81.17116951942444
+838,"model=distilbert+adapter,i=8,dataset=clinc,train_num_samples",15000.0
+839,"model=distilbert+adapter,i=8,dataset=clinc,acc_id_0",0.9375555555555556
+840,"model=distilbert+adapter,i=8,dataset=clinc,f1_id_0",0.9375555555555556
+841,"model=distilbert+adapter,i=8,dataset=clinc,predict_duration",3.4982099533081055
+842,"model=distilbert+adapter,i=8,dataset=clinc,predict_num_samples",4500.0
+843,"model=distilbert+adapter,i=8,dataset=clinc,acc_id_all",0.9375555555555556
+844,"model=distilbert+adapter,i=8,dataset=clinc,f1_id_all",0.9375555555555556
+845," model=distilbert+adapter,i=8,dataset=clinc,total_duration",90.05643653869629
+846,"model=distilbert-base-uncased,i=8,dataset=clinc,train_duration",835.5546391010284
+847,"model=distilbert-base-uncased,i=8,dataset=clinc,train_num_samples",15000.0
+848,"model=distilbert-base-uncased,i=8,dataset=clinc,acc_id_0",0.9508888888888889
+849,"model=distilbert-base-uncased,i=8,dataset=clinc,f1_id_0",0.9508888888888889
+850,"model=distilbert-base-uncased,i=8,dataset=clinc,predict_duration",3.4066543579101562
+851,"model=distilbert-base-uncased,i=8,dataset=clinc,predict_num_samples",4500.0
+852,"model=distilbert-base-uncased,i=8,dataset=clinc,acc_id_all",0.9508888888888889
+853,"model=distilbert-base-uncased,i=8,dataset=clinc,f1_id_all",0.9508888888888889
+854," model=distilbert-base-uncased,i=8,dataset=clinc,total_duration",844.3167958259583
+855,"model=svm,i=9,dataset=clinc,train_duration",7.315885305404663
+856,"model=svm,i=9,dataset=clinc,train_num_samples",15000.0
+857,"model=svm,i=9,dataset=clinc,acc_id_0",0.8517777777777777
+858,"model=svm,i=9,dataset=clinc,f1_id_0",0.8517777777777776
+859,"model=svm,i=9,dataset=clinc,predict_duration",9.11179494857788
+860,"model=svm,i=9,dataset=clinc,predict_num_samples",4500.0
+861,"model=svm,i=9,dataset=clinc,acc_id_all",0.8517777777777777
+862,"model=svm,i=9,dataset=clinc,f1_id_all",0.8517777777777776
+863," model=svm,i=9,dataset=clinc,total_duration",52.55007791519165
+864,"model=bert+adapter,i=9,dataset=clinc,train_duration",141.6862359046936
+865,"model=bert+adapter,i=9,dataset=clinc,train_num_samples",15000.0
+866,"model=bert+adapter,i=9,dataset=clinc,acc_id_0",0.9431111111111111
+867,"model=bert+adapter,i=9,dataset=clinc,f1_id_0",0.9431111111111111
+868,"model=bert+adapter,i=9,dataset=clinc,predict_duration",5.520521640777588
+869,"model=bert+adapter,i=9,dataset=clinc,predict_num_samples",4500.0
+870,"model=bert+adapter,i=9,dataset=clinc,acc_id_all",0.9431111111111111
+871,"model=bert+adapter,i=9,dataset=clinc,f1_id_all",0.9431111111111111
+872," model=bert+adapter,i=9,dataset=clinc,total_duration",153.152907371521
+873,"model=bert-base-uncased,i=9,dataset=clinc,train_duration",1539.4238686561584
+874,"model=bert-base-uncased,i=9,dataset=clinc,train_num_samples",15000.0
+875,"model=bert-base-uncased,i=9,dataset=clinc,acc_id_0",0.9115555555555556
+876,"model=bert-base-uncased,i=9,dataset=clinc,f1_id_0",0.9115555555555556
+877,"model=bert-base-uncased,i=9,dataset=clinc,predict_duration",5.302090167999268
+878,"model=bert-base-uncased,i=9,dataset=clinc,predict_num_samples",4500.0
+879,"model=bert-base-uncased,i=9,dataset=clinc,acc_id_all",0.9115555555555556
+880,"model=bert-base-uncased,i=9,dataset=clinc,f1_id_all",0.9115555555555556
+881," model=bert-base-uncased,i=9,dataset=clinc,total_duration",1550.8914022445679
+882,"model=distilbert+adapter,i=9,dataset=clinc,train_duration",80.94874739646912
+883,"model=distilbert+adapter,i=9,dataset=clinc,train_num_samples",15000.0
+884,"model=distilbert+adapter,i=9,dataset=clinc,acc_id_0",0.9375555555555556
+885,"model=distilbert+adapter,i=9,dataset=clinc,f1_id_0",0.9375555555555556
+886,"model=distilbert+adapter,i=9,dataset=clinc,predict_duration",3.5024728775024414
+887,"model=distilbert+adapter,i=9,dataset=clinc,predict_num_samples",4500.0
+888,"model=distilbert+adapter,i=9,dataset=clinc,acc_id_all",0.9375555555555556
+889,"model=distilbert+adapter,i=9,dataset=clinc,f1_id_all",0.9375555555555556
+890," model=distilbert+adapter,i=9,dataset=clinc,total_duration",89.82061290740967
+891,"model=distilbert-base-uncased,i=9,dataset=clinc,train_duration",841.0155313014984
+892,"model=distilbert-base-uncased,i=9,dataset=clinc,train_num_samples",15000.0
+893,"model=distilbert-base-uncased,i=9,dataset=clinc,acc_id_0",0.9508888888888889
+894,"model=distilbert-base-uncased,i=9,dataset=clinc,f1_id_0",0.9508888888888889
+895,"model=distilbert-base-uncased,i=9,dataset=clinc,predict_duration",3.3893144130706787
+896,"model=distilbert-base-uncased,i=9,dataset=clinc,predict_num_samples",4500.0
+897,"model=distilbert-base-uncased,i=9,dataset=clinc,acc_id_all",0.9508888888888889
+898,"model=distilbert-base-uncased,i=9,dataset=clinc,f1_id_all",0.9508888888888889
+899," model=distilbert-base-uncased,i=9,dataset=clinc,total_duration",849.7725083827972
+900,"model=svm,i=0,dataset=hwu_orig,train_duration",9.919481992721558
+901,"model=svm,i=0,dataset=hwu_orig,train_num_samples",19879.0
+902,"model=svm,i=0,dataset=hwu_orig,acc_id_0",0.8346613545816733
+903,"model=svm,i=0,dataset=hwu_orig,f1_id_0",0.8346613545816733
+904,"model=svm,i=0,dataset=hwu_orig,predict_duration",3.0868818759918213
+905,"model=svm,i=0,dataset=hwu_orig,predict_num_samples",2510.0
+906,"model=svm,i=0,dataset=hwu_orig,acc_id_all",0.8346613545816733
+907,"model=svm,i=0,dataset=hwu_orig,f1_id_all",0.8346613545816733
+908," model=svm,i=0,dataset=hwu_orig,total_duration",41.357194900512695
+909,"model=bert+adapter,i=0,dataset=hwu_orig,train_duration",179.5996105670929
+910,"model=bert+adapter,i=0,dataset=hwu_orig,train_num_samples",19879.0
+911,"model=bert+adapter,i=0,dataset=hwu_orig,acc_id_0",0.901195219123506
+912,"model=bert+adapter,i=0,dataset=hwu_orig,f1_id_0",0.901195219123506
+913,"model=bert+adapter,i=0,dataset=hwu_orig,predict_duration",3.0765254497528076
+914,"model=bert+adapter,i=0,dataset=hwu_orig,predict_num_samples",2510.0
+915,"model=bert+adapter,i=0,dataset=hwu_orig,acc_id_all",0.901195219123506
+916,"model=bert+adapter,i=0,dataset=hwu_orig,f1_id_all",0.901195219123506
+917," model=bert+adapter,i=0,dataset=hwu_orig,total_duration",188.6403636932373
+918,"model=bert-base-uncased,i=0,dataset=hwu_orig,train_duration",1093.3821382522583
+919,"model=bert-base-uncased,i=0,dataset=hwu_orig,train_num_samples",19879.0
+920,"model=bert-base-uncased,i=0,dataset=hwu_orig,acc_id_0",0.8717131474103585
+921,"model=bert-base-uncased,i=0,dataset=hwu_orig,f1_id_0",0.8717131474103585
+922,"model=bert-base-uncased,i=0,dataset=hwu_orig,predict_duration",2.936239719390869
+923,"model=bert-base-uncased,i=0,dataset=hwu_orig,predict_num_samples",2510.0
+924,"model=bert-base-uncased,i=0,dataset=hwu_orig,acc_id_all",0.8717131474103585
+925,"model=bert-base-uncased,i=0,dataset=hwu_orig,f1_id_all",0.8717131474103585
+926," model=bert-base-uncased,i=0,dataset=hwu_orig,total_duration",1102.2112970352173
+927,"model=distilbert+adapter,i=0,dataset=hwu_orig,train_duration",76.0124773979187
+928,"model=distilbert+adapter,i=0,dataset=hwu_orig,train_num_samples",19879.0
+929,"model=distilbert+adapter,i=0,dataset=hwu_orig,acc_id_0",0.8960159362549801
+930,"model=distilbert+adapter,i=0,dataset=hwu_orig,f1_id_0",0.8960159362549801
+931,"model=distilbert+adapter,i=0,dataset=hwu_orig,predict_duration",1.9404311180114746
+932,"model=distilbert+adapter,i=0,dataset=hwu_orig,predict_num_samples",2510.0
+933,"model=distilbert+adapter,i=0,dataset=hwu_orig,acc_id_all",0.8960159362549801
+934,"model=distilbert+adapter,i=0,dataset=hwu_orig,f1_id_all",0.8960159362549801
+935," model=distilbert+adapter,i=0,dataset=hwu_orig,total_duration",83.30056834220886
+936,"model=distilbert-base-uncased,i=0,dataset=hwu_orig,train_duration",609.1871638298035
+937,"model=distilbert-base-uncased,i=0,dataset=hwu_orig,train_num_samples",19879.0
+938,"model=distilbert-base-uncased,i=0,dataset=hwu_orig,acc_id_0",0.9071713147410359
+939,"model=distilbert-base-uncased,i=0,dataset=hwu_orig,f1_id_0",0.9071713147410357
+940,"model=distilbert-base-uncased,i=0,dataset=hwu_orig,predict_duration",1.8439428806304932
+941,"model=distilbert-base-uncased,i=0,dataset=hwu_orig,predict_num_samples",2510.0
+942,"model=distilbert-base-uncased,i=0,dataset=hwu_orig,acc_id_all",0.9071713147410359
+943,"model=distilbert-base-uncased,i=0,dataset=hwu_orig,f1_id_all",0.9071713147410357
+944," model=distilbert-base-uncased,i=0,dataset=hwu_orig,total_duration",616.5347697734833
+945,"model=svm,i=1,dataset=hwu_orig,train_duration",9.939328670501709
+946,"model=svm,i=1,dataset=hwu_orig,train_num_samples",19879.0
+947,"model=svm,i=1,dataset=hwu_orig,acc_id_0",0.8346613545816733
+948,"model=svm,i=1,dataset=hwu_orig,f1_id_0",0.8346613545816733
+949,"model=svm,i=1,dataset=hwu_orig,predict_duration",3.1028406620025635
+950,"model=svm,i=1,dataset=hwu_orig,predict_num_samples",2510.0
+951,"model=svm,i=1,dataset=hwu_orig,acc_id_all",0.8346613545816733
+952,"model=svm,i=1,dataset=hwu_orig,f1_id_all",0.8346613545816733
+953," model=svm,i=1,dataset=hwu_orig,total_duration",41.65880250930786
+954,"model=bert+adapter,i=1,dataset=hwu_orig,train_duration",89.29639482498169
+955,"model=bert+adapter,i=1,dataset=hwu_orig,train_num_samples",19879.0
+956,"model=bert+adapter,i=1,dataset=hwu_orig,acc_id_0",0.8689243027888446
+957,"model=bert+adapter,i=1,dataset=hwu_orig,f1_id_0",0.8689243027888445
+958,"model=bert+adapter,i=1,dataset=hwu_orig,predict_duration",3.0608701705932617
+959,"model=bert+adapter,i=1,dataset=hwu_orig,predict_num_samples",2510.0
+960,"model=bert+adapter,i=1,dataset=hwu_orig,acc_id_all",0.8689243027888446
+961,"model=bert+adapter,i=1,dataset=hwu_orig,f1_id_all",0.8689243027888445
+962," model=bert+adapter,i=1,dataset=hwu_orig,total_duration",98.29885363578796
+963,"model=bert-base-uncased,i=1,dataset=hwu_orig,train_duration",1095.865557193756
+964,"model=bert-base-uncased,i=1,dataset=hwu_orig,train_num_samples",19879.0
+965,"model=bert-base-uncased,i=1,dataset=hwu_orig,acc_id_0",0.8784860557768924
+966,"model=bert-base-uncased,i=1,dataset=hwu_orig,f1_id_0",0.8784860557768924
+967,"model=bert-base-uncased,i=1,dataset=hwu_orig,predict_duration",2.926347255706787
+968,"model=bert-base-uncased,i=1,dataset=hwu_orig,predict_num_samples",2510.0
+969,"model=bert-base-uncased,i=1,dataset=hwu_orig,acc_id_all",0.8784860557768924
+970,"model=bert-base-uncased,i=1,dataset=hwu_orig,f1_id_all",0.8784860557768924
+971," model=bert-base-uncased,i=1,dataset=hwu_orig,total_duration",1104.6793353557587
+972,"model=distilbert+adapter,i=1,dataset=hwu_orig,train_duration",76.30901074409485
+973,"model=distilbert+adapter,i=1,dataset=hwu_orig,train_num_samples",19879.0
+974,"model=distilbert+adapter,i=1,dataset=hwu_orig,acc_id_0",0.8960159362549801
+975,"model=distilbert+adapter,i=1,dataset=hwu_orig,f1_id_0",0.8960159362549801
+976,"model=distilbert+adapter,i=1,dataset=hwu_orig,predict_duration",1.9449002742767334
+977,"model=distilbert+adapter,i=1,dataset=hwu_orig,predict_num_samples",2510.0
+978,"model=distilbert+adapter,i=1,dataset=hwu_orig,acc_id_all",0.8960159362549801
+979,"model=distilbert+adapter,i=1,dataset=hwu_orig,f1_id_all",0.8960159362549801
+980," model=distilbert+adapter,i=1,dataset=hwu_orig,total_duration",83.66404485702515
+981,"model=distilbert-base-uncased,i=1,dataset=hwu_orig,train_duration",611.2763469219208
+982,"model=distilbert-base-uncased,i=1,dataset=hwu_orig,train_num_samples",19879.0
+983,"model=distilbert-base-uncased,i=1,dataset=hwu_orig,acc_id_0",0.9071713147410359
+984,"model=distilbert-base-uncased,i=1,dataset=hwu_orig,f1_id_0",0.9071713147410357
+985,"model=distilbert-base-uncased,i=1,dataset=hwu_orig,predict_duration",1.9160792827606201
+986,"model=distilbert-base-uncased,i=1,dataset=hwu_orig,predict_num_samples",2510.0
+987,"model=distilbert-base-uncased,i=1,dataset=hwu_orig,acc_id_all",0.9071713147410359
+988,"model=distilbert-base-uncased,i=1,dataset=hwu_orig,f1_id_all",0.9071713147410357
+989," model=distilbert-base-uncased,i=1,dataset=hwu_orig,total_duration",618.5186877250671
+990,"model=svm,i=2,dataset=hwu_orig,train_duration",9.954727172851562
+991,"model=svm,i=2,dataset=hwu_orig,train_num_samples",19879.0
+992,"model=svm,i=2,dataset=hwu_orig,acc_id_0",0.8346613545816733
+993,"model=svm,i=2,dataset=hwu_orig,f1_id_0",0.8346613545816733
+994,"model=svm,i=2,dataset=hwu_orig,predict_duration",3.10306715965271
+995,"model=svm,i=2,dataset=hwu_orig,predict_num_samples",2510.0
+996,"model=svm,i=2,dataset=hwu_orig,acc_id_all",0.8346613545816733
+997,"model=svm,i=2,dataset=hwu_orig,f1_id_all",0.8346613545816733
+998," model=svm,i=2,dataset=hwu_orig,total_duration",41.6449921131134
+999,"model=bert+adapter,i=2,dataset=hwu_orig,train_duration",89.5081160068512
+1000,"model=bert+adapter,i=2,dataset=hwu_orig,train_num_samples",19879.0
+1001,"model=bert+adapter,i=2,dataset=hwu_orig,acc_id_0",0.8689243027888446
+1002,"model=bert+adapter,i=2,dataset=hwu_orig,f1_id_0",0.8689243027888445
+1003,"model=bert+adapter,i=2,dataset=hwu_orig,predict_duration",3.0655155181884766
+1004,"model=bert+adapter,i=2,dataset=hwu_orig,predict_num_samples",2510.0
+1005,"model=bert+adapter,i=2,dataset=hwu_orig,acc_id_all",0.8689243027888446
+1006,"model=bert+adapter,i=2,dataset=hwu_orig,f1_id_all",0.8689243027888445
+1007," model=bert+adapter,i=2,dataset=hwu_orig,total_duration",98.63824081420898
+1008,"model=bert-base-uncased,i=2,dataset=hwu_orig,train_duration",1094.9122915267944
+1009,"model=bert-base-uncased,i=2,dataset=hwu_orig,train_num_samples",19879.0
+1010,"model=bert-base-uncased,i=2,dataset=hwu_orig,acc_id_0",0.8784860557768924
+1011,"model=bert-base-uncased,i=2,dataset=hwu_orig,f1_id_0",0.8784860557768924
+1012,"model=bert-base-uncased,i=2,dataset=hwu_orig,predict_duration",2.9528987407684326
+1013,"model=bert-base-uncased,i=2,dataset=hwu_orig,predict_num_samples",2510.0
+1014,"model=bert-base-uncased,i=2,dataset=hwu_orig,acc_id_all",0.8784860557768924
+1015,"model=bert-base-uncased,i=2,dataset=hwu_orig,f1_id_all",0.8784860557768924
+1016," model=bert-base-uncased,i=2,dataset=hwu_orig,total_duration",1103.8120062351227
+1017,"model=distilbert+adapter,i=2,dataset=hwu_orig,train_duration",76.5650007724762
+1018,"model=distilbert+adapter,i=2,dataset=hwu_orig,train_num_samples",19879.0
+1019,"model=distilbert+adapter,i=2,dataset=hwu_orig,acc_id_0",0.8960159362549801
+1020,"model=distilbert+adapter,i=2,dataset=hwu_orig,f1_id_0",0.8960159362549801
+1021,"model=distilbert+adapter,i=2,dataset=hwu_orig,predict_duration",1.954216480255127
+1022,"model=distilbert+adapter,i=2,dataset=hwu_orig,predict_num_samples",2510.0
+1023,"model=distilbert+adapter,i=2,dataset=hwu_orig,acc_id_all",0.8960159362549801
+1024,"model=distilbert+adapter,i=2,dataset=hwu_orig,f1_id_all",0.8960159362549801
+1025," model=distilbert+adapter,i=2,dataset=hwu_orig,total_duration",84.10539627075195
+1026,"model=distilbert-base-uncased,i=2,dataset=hwu_orig,train_duration",613.5764021873474
+1027,"model=distilbert-base-uncased,i=2,dataset=hwu_orig,train_num_samples",19879.0
+1028,"model=distilbert-base-uncased,i=2,dataset=hwu_orig,acc_id_0",0.9071713147410359
+1029,"model=distilbert-base-uncased,i=2,dataset=hwu_orig,f1_id_0",0.9071713147410357
+1030,"model=distilbert-base-uncased,i=2,dataset=hwu_orig,predict_duration",1.9221491813659668
+1031,"model=distilbert-base-uncased,i=2,dataset=hwu_orig,predict_num_samples",2510.0
+1032,"model=distilbert-base-uncased,i=2,dataset=hwu_orig,acc_id_all",0.9071713147410359
+1033,"model=distilbert-base-uncased,i=2,dataset=hwu_orig,f1_id_all",0.9071713147410357
+1034," model=distilbert-base-uncased,i=2,dataset=hwu_orig,total_duration",621.1599614620209
+1035,"model=svm,i=3,dataset=hwu_orig,train_duration",9.947045087814331
+1036,"model=svm,i=3,dataset=hwu_orig,train_num_samples",19879.0
+1037,"model=svm,i=3,dataset=hwu_orig,acc_id_0",0.8346613545816733
+1038,"model=svm,i=3,dataset=hwu_orig,f1_id_0",0.8346613545816733
+1039,"model=svm,i=3,dataset=hwu_orig,predict_duration",3.0806710720062256
+1040,"model=svm,i=3,dataset=hwu_orig,predict_num_samples",2510.0
+1041,"model=svm,i=3,dataset=hwu_orig,acc_id_all",0.8346613545816733
+1042,"model=svm,i=3,dataset=hwu_orig,f1_id_all",0.8346613545816733
+1043," model=svm,i=3,dataset=hwu_orig,total_duration",41.570618629455566
+1044,"model=bert+adapter,i=3,dataset=hwu_orig,train_duration",90.05169081687927
+1045,"model=bert+adapter,i=3,dataset=hwu_orig,train_num_samples",19879.0
+1046,"model=bert+adapter,i=3,dataset=hwu_orig,acc_id_0",0.8689243027888446
+1047,"model=bert+adapter,i=3,dataset=hwu_orig,f1_id_0",0.8689243027888445
+1048,"model=bert+adapter,i=3,dataset=hwu_orig,predict_duration",3.0811643600463867
+1049,"model=bert+adapter,i=3,dataset=hwu_orig,predict_num_samples",2510.0
+1050,"model=bert+adapter,i=3,dataset=hwu_orig,acc_id_all",0.8689243027888446
+1051,"model=bert+adapter,i=3,dataset=hwu_orig,f1_id_all",0.8689243027888445
+1052," model=bert+adapter,i=3,dataset=hwu_orig,total_duration",99.31955885887146
+1053,"model=bert-base-uncased,i=3,dataset=hwu_orig,train_duration",1098.4064095020294
+1054,"model=bert-base-uncased,i=3,dataset=hwu_orig,train_num_samples",19879.0
+1055,"model=bert-base-uncased,i=3,dataset=hwu_orig,acc_id_0",0.8784860557768924
+1056,"model=bert-base-uncased,i=3,dataset=hwu_orig,f1_id_0",0.8784860557768924
+1057,"model=bert-base-uncased,i=3,dataset=hwu_orig,predict_duration",2.9925029277801514
+1058,"model=bert-base-uncased,i=3,dataset=hwu_orig,predict_num_samples",2510.0
+1059,"model=bert-base-uncased,i=3,dataset=hwu_orig,acc_id_all",0.8784860557768924
+1060,"model=bert-base-uncased,i=3,dataset=hwu_orig,f1_id_all",0.8784860557768924
+1061," model=bert-base-uncased,i=3,dataset=hwu_orig,total_duration",1107.3587112426758
+1062,"model=distilbert+adapter,i=3,dataset=hwu_orig,train_duration",76.7801284790039
+1063,"model=distilbert+adapter,i=3,dataset=hwu_orig,train_num_samples",19879.0
+1064,"model=distilbert+adapter,i=3,dataset=hwu_orig,acc_id_0",0.8960159362549801
+1065,"model=distilbert+adapter,i=3,dataset=hwu_orig,f1_id_0",0.8960159362549801
+1066,"model=distilbert+adapter,i=3,dataset=hwu_orig,predict_duration",1.9539790153503418
+1067,"model=distilbert+adapter,i=3,dataset=hwu_orig,predict_num_samples",2510.0
+1068,"model=distilbert+adapter,i=3,dataset=hwu_orig,acc_id_all",0.8960159362549801
+1069,"model=distilbert+adapter,i=3,dataset=hwu_orig,f1_id_all",0.8960159362549801
+1070," model=distilbert+adapter,i=3,dataset=hwu_orig,total_duration",84.3069076538086
+1071,"model=distilbert-base-uncased,i=3,dataset=hwu_orig,train_duration",614.8195326328278
+1072,"model=distilbert-base-uncased,i=3,dataset=hwu_orig,train_num_samples",19879.0
+1073,"model=distilbert-base-uncased,i=3,dataset=hwu_orig,acc_id_0",0.9071713147410359
+1074,"model=distilbert-base-uncased,i=3,dataset=hwu_orig,f1_id_0",0.9071713147410357
+1075,"model=distilbert-base-uncased,i=3,dataset=hwu_orig,predict_duration",1.937882423400879
+1076,"model=distilbert-base-uncased,i=3,dataset=hwu_orig,predict_num_samples",2510.0
+1077,"model=distilbert-base-uncased,i=3,dataset=hwu_orig,acc_id_all",0.9071713147410359
+1078,"model=distilbert-base-uncased,i=3,dataset=hwu_orig,f1_id_all",0.9071713147410357
+1079," model=distilbert-base-uncased,i=3,dataset=hwu_orig,total_duration",622.3010857105255
+1080,"model=svm,i=4,dataset=hwu_orig,train_duration",10.010301351547241
+1081,"model=svm,i=4,dataset=hwu_orig,train_num_samples",19879.0
+1082,"model=svm,i=4,dataset=hwu_orig,acc_id_0",0.8346613545816733
+1083,"model=svm,i=4,dataset=hwu_orig,f1_id_0",0.8346613545816733
+1084,"model=svm,i=4,dataset=hwu_orig,predict_duration",3.0784659385681152
+1085,"model=svm,i=4,dataset=hwu_orig,predict_num_samples",2510.0
+1086,"model=svm,i=4,dataset=hwu_orig,acc_id_all",0.8346613545816733
+1087,"model=svm,i=4,dataset=hwu_orig,f1_id_all",0.8346613545816733
+1088," model=svm,i=4,dataset=hwu_orig,total_duration",41.54020929336548
+1089,"model=bert+adapter,i=4,dataset=hwu_orig,train_duration",89.78679418563843
+1090,"model=bert+adapter,i=4,dataset=hwu_orig,train_num_samples",19879.0
+1091,"model=bert+adapter,i=4,dataset=hwu_orig,acc_id_0",0.8689243027888446
+1092,"model=bert+adapter,i=4,dataset=hwu_orig,f1_id_0",0.8689243027888445
+1093,"model=bert+adapter,i=4,dataset=hwu_orig,predict_duration",3.081617832183838
+1094,"model=bert+adapter,i=4,dataset=hwu_orig,predict_num_samples",2510.0
+1095,"model=bert+adapter,i=4,dataset=hwu_orig,acc_id_all",0.8689243027888446
+1096,"model=bert+adapter,i=4,dataset=hwu_orig,f1_id_all",0.8689243027888445
+1097," model=bert+adapter,i=4,dataset=hwu_orig,total_duration",99.12062978744507
+1098,"model=bert-base-uncased,i=4,dataset=hwu_orig,train_duration",1099.9491276741028
+1099,"model=bert-base-uncased,i=4,dataset=hwu_orig,train_num_samples",19879.0
+1100,"model=bert-base-uncased,i=4,dataset=hwu_orig,acc_id_0",0.8784860557768924
+1101,"model=bert-base-uncased,i=4,dataset=hwu_orig,f1_id_0",0.8784860557768924
+1102,"model=bert-base-uncased,i=4,dataset=hwu_orig,predict_duration",2.9699032306671143
+1103,"model=bert-base-uncased,i=4,dataset=hwu_orig,predict_num_samples",2510.0
+1104,"model=bert-base-uncased,i=4,dataset=hwu_orig,acc_id_all",0.8784860557768924
+1105,"model=bert-base-uncased,i=4,dataset=hwu_orig,f1_id_all",0.8784860557768924
+1106," model=bert-base-uncased,i=4,dataset=hwu_orig,total_duration",1108.889488697052
+1107,"model=distilbert+adapter,i=4,dataset=hwu_orig,train_duration",76.72494769096375
+1108,"model=distilbert+adapter,i=4,dataset=hwu_orig,train_num_samples",19879.0
+1109,"model=distilbert+adapter,i=4,dataset=hwu_orig,acc_id_0",0.8960159362549801
+1110,"model=distilbert+adapter,i=4,dataset=hwu_orig,f1_id_0",0.8960159362549801
+1111,"model=distilbert+adapter,i=4,dataset=hwu_orig,predict_duration",1.966151237487793
+1112,"model=distilbert+adapter,i=4,dataset=hwu_orig,predict_num_samples",2510.0
+1113,"model=distilbert+adapter,i=4,dataset=hwu_orig,acc_id_all",0.8960159362549801
+1114,"model=distilbert+adapter,i=4,dataset=hwu_orig,f1_id_all",0.8960159362549801
+1115," model=distilbert+adapter,i=4,dataset=hwu_orig,total_duration",84.23974895477295
+1116,"model=distilbert-base-uncased,i=4,dataset=hwu_orig,train_duration",615.491863489151
+1117,"model=distilbert-base-uncased,i=4,dataset=hwu_orig,train_num_samples",19879.0
+1118,"model=distilbert-base-uncased,i=4,dataset=hwu_orig,acc_id_0",0.9071713147410359
+1119,"model=distilbert-base-uncased,i=4,dataset=hwu_orig,f1_id_0",0.9071713147410357
+1120,"model=distilbert-base-uncased,i=4,dataset=hwu_orig,predict_duration",1.9347326755523682
+1121,"model=distilbert-base-uncased,i=4,dataset=hwu_orig,predict_num_samples",2510.0
+1122,"model=distilbert-base-uncased,i=4,dataset=hwu_orig,acc_id_all",0.9071713147410359
+1123,"model=distilbert-base-uncased,i=4,dataset=hwu_orig,f1_id_all",0.9071713147410357
+1124," model=distilbert-base-uncased,i=4,dataset=hwu_orig,total_duration",623.0259404182434
+1125,"model=svm,i=5,dataset=hwu_orig,train_duration",9.965901136398315
+1126,"model=svm,i=5,dataset=hwu_orig,train_num_samples",19879.0
+1127,"model=svm,i=5,dataset=hwu_orig,acc_id_0",0.8346613545816733
+1128,"model=svm,i=5,dataset=hwu_orig,f1_id_0",0.8346613545816733
+1129,"model=svm,i=5,dataset=hwu_orig,predict_duration",3.082956552505493
+1130,"model=svm,i=5,dataset=hwu_orig,predict_num_samples",2510.0
+1131,"model=svm,i=5,dataset=hwu_orig,acc_id_all",0.8346613545816733
+1132,"model=svm,i=5,dataset=hwu_orig,f1_id_all",0.8346613545816733
+1133," model=svm,i=5,dataset=hwu_orig,total_duration",41.63052153587341
+1134,"model=bert+adapter,i=5,dataset=hwu_orig,train_duration",90.24317646026611
+1135,"model=bert+adapter,i=5,dataset=hwu_orig,train_num_samples",19879.0
+1136,"model=bert+adapter,i=5,dataset=hwu_orig,acc_id_0",0.8689243027888446
+1137,"model=bert+adapter,i=5,dataset=hwu_orig,f1_id_0",0.8689243027888445
+1138,"model=bert+adapter,i=5,dataset=hwu_orig,predict_duration",3.093217134475708
+1139,"model=bert+adapter,i=5,dataset=hwu_orig,predict_num_samples",2510.0
+1140,"model=bert+adapter,i=5,dataset=hwu_orig,acc_id_all",0.8689243027888446
+1141,"model=bert+adapter,i=5,dataset=hwu_orig,f1_id_all",0.8689243027888445
+1142," model=bert+adapter,i=5,dataset=hwu_orig,total_duration",99.60411596298218
+1143,"model=bert-base-uncased,i=5,dataset=hwu_orig,train_duration",1100.435313463211
+1144,"model=bert-base-uncased,i=5,dataset=hwu_orig,train_num_samples",19879.0
+1145,"model=bert-base-uncased,i=5,dataset=hwu_orig,acc_id_0",0.8784860557768924
+1146,"model=bert-base-uncased,i=5,dataset=hwu_orig,f1_id_0",0.8784860557768924
+1147,"model=bert-base-uncased,i=5,dataset=hwu_orig,predict_duration",2.9735896587371826
+1148,"model=bert-base-uncased,i=5,dataset=hwu_orig,predict_num_samples",2510.0
+1149,"model=bert-base-uncased,i=5,dataset=hwu_orig,acc_id_all",0.8784860557768924
+1150,"model=bert-base-uncased,i=5,dataset=hwu_orig,f1_id_all",0.8784860557768924
+1151," model=bert-base-uncased,i=5,dataset=hwu_orig,total_duration",1109.3515763282776
+1152,"model=distilbert+adapter,i=5,dataset=hwu_orig,train_duration",76.94203400611877
+1153,"model=distilbert+adapter,i=5,dataset=hwu_orig,train_num_samples",19879.0
+1154,"model=distilbert+adapter,i=5,dataset=hwu_orig,acc_id_0",0.8960159362549801
+1155,"model=distilbert+adapter,i=5,dataset=hwu_orig,f1_id_0",0.8960159362549801
+1156,"model=distilbert+adapter,i=5,dataset=hwu_orig,predict_duration",1.9664349555969238
+1157,"model=distilbert+adapter,i=5,dataset=hwu_orig,predict_num_samples",2510.0
+1158,"model=distilbert+adapter,i=5,dataset=hwu_orig,acc_id_all",0.8960159362549801
+1159,"model=distilbert+adapter,i=5,dataset=hwu_orig,f1_id_all",0.8960159362549801
+1160," model=distilbert+adapter,i=5,dataset=hwu_orig,total_duration",84.70290923118591
+1161,"model=distilbert-base-uncased,i=5,dataset=hwu_orig,train_duration",615.0794169902802
+1162,"model=distilbert-base-uncased,i=5,dataset=hwu_orig,train_num_samples",19879.0
+1163,"model=distilbert-base-uncased,i=5,dataset=hwu_orig,acc_id_0",0.9071713147410359
+1164,"model=distilbert-base-uncased,i=5,dataset=hwu_orig,f1_id_0",0.9071713147410357
+1165,"model=distilbert-base-uncased,i=5,dataset=hwu_orig,predict_duration",1.9004368782043457
+1166,"model=distilbert-base-uncased,i=5,dataset=hwu_orig,predict_num_samples",2510.0
+1167,"model=distilbert-base-uncased,i=5,dataset=hwu_orig,acc_id_all",0.9071713147410359
+1168,"model=distilbert-base-uncased,i=5,dataset=hwu_orig,f1_id_all",0.9071713147410357
+1169," model=distilbert-base-uncased,i=5,dataset=hwu_orig,total_duration",622.3899857997894
+1170,"model=svm,i=6,dataset=hwu_orig,train_duration",10.045055150985718
+1171,"model=svm,i=6,dataset=hwu_orig,train_num_samples",19879.0
+1172,"model=svm,i=6,dataset=hwu_orig,acc_id_0",0.8346613545816733
+1173,"model=svm,i=6,dataset=hwu_orig,f1_id_0",0.8346613545816733
+1174,"model=svm,i=6,dataset=hwu_orig,predict_duration",3.0881173610687256
+1175,"model=svm,i=6,dataset=hwu_orig,predict_num_samples",2510.0
+1176,"model=svm,i=6,dataset=hwu_orig,acc_id_all",0.8346613545816733
+1177,"model=svm,i=6,dataset=hwu_orig,f1_id_all",0.8346613545816733
+1178," model=svm,i=6,dataset=hwu_orig,total_duration",42.43404197692871
+1179,"model=bert+adapter,i=6,dataset=hwu_orig,train_duration",90.29972410202026
+1180,"model=bert+adapter,i=6,dataset=hwu_orig,train_num_samples",19879.0
+1181,"model=bert+adapter,i=6,dataset=hwu_orig,acc_id_0",0.8689243027888446
+1182,"model=bert+adapter,i=6,dataset=hwu_orig,f1_id_0",0.8689243027888445
+1183,"model=bert+adapter,i=6,dataset=hwu_orig,predict_duration",3.0968403816223145
+1184,"model=bert+adapter,i=6,dataset=hwu_orig,predict_num_samples",2510.0
+1185,"model=bert+adapter,i=6,dataset=hwu_orig,acc_id_all",0.8689243027888446
+1186,"model=bert+adapter,i=6,dataset=hwu_orig,f1_id_all",0.8689243027888445
+1187," model=bert+adapter,i=6,dataset=hwu_orig,total_duration",99.37263178825378
+1188,"model=bert-base-uncased,i=6,dataset=hwu_orig,train_duration",1104.5456476211548
+1189,"model=bert-base-uncased,i=6,dataset=hwu_orig,train_num_samples",19879.0
+1190,"model=bert-base-uncased,i=6,dataset=hwu_orig,acc_id_0",0.8784860557768924
+1191,"model=bert-base-uncased,i=6,dataset=hwu_orig,f1_id_0",0.8784860557768924
+1192,"model=bert-base-uncased,i=6,dataset=hwu_orig,predict_duration",2.988523244857788
+1193,"model=bert-base-uncased,i=6,dataset=hwu_orig,predict_num_samples",2510.0
+1194,"model=bert-base-uncased,i=6,dataset=hwu_orig,acc_id_all",0.8784860557768924
+1195,"model=bert-base-uncased,i=6,dataset=hwu_orig,f1_id_all",0.8784860557768924
+1196," model=bert-base-uncased,i=6,dataset=hwu_orig,total_duration",1113.476634979248
+1197,"model=distilbert+adapter,i=6,dataset=hwu_orig,train_duration",76.98529696464539
+1198,"model=distilbert+adapter,i=6,dataset=hwu_orig,train_num_samples",19879.0
+1199,"model=distilbert+adapter,i=6,dataset=hwu_orig,acc_id_0",0.8960159362549801
+1200,"model=distilbert+adapter,i=6,dataset=hwu_orig,f1_id_0",0.8960159362549801
+1201,"model=distilbert+adapter,i=6,dataset=hwu_orig,predict_duration",1.9640402793884277
+1202,"model=distilbert+adapter,i=6,dataset=hwu_orig,predict_num_samples",2510.0
+1203,"model=distilbert+adapter,i=6,dataset=hwu_orig,acc_id_all",0.8960159362549801
+1204,"model=distilbert+adapter,i=6,dataset=hwu_orig,f1_id_all",0.8960159362549801
+1205," model=distilbert+adapter,i=6,dataset=hwu_orig,total_duration",84.76884126663208
+1206,"model=distilbert-base-uncased,i=6,dataset=hwu_orig,train_duration",617.9873406887054
+1207,"model=distilbert-base-uncased,i=6,dataset=hwu_orig,train_num_samples",19879.0
+1208,"model=distilbert-base-uncased,i=6,dataset=hwu_orig,acc_id_0",0.9071713147410359
+1209,"model=distilbert-base-uncased,i=6,dataset=hwu_orig,f1_id_0",0.9071713147410357
+1210,"model=distilbert-base-uncased,i=6,dataset=hwu_orig,predict_duration",1.9412312507629395
+1211,"model=distilbert-base-uncased,i=6,dataset=hwu_orig,predict_num_samples",2510.0
+1212,"model=distilbert-base-uncased,i=6,dataset=hwu_orig,acc_id_all",0.9071713147410359
+1213,"model=distilbert-base-uncased,i=6,dataset=hwu_orig,f1_id_all",0.9071713147410357
+1214," model=distilbert-base-uncased,i=6,dataset=hwu_orig,total_duration",625.6171016693115
+1215,"model=svm,i=7,dataset=hwu_orig,train_duration",9.968626499176025
+1216,"model=svm,i=7,dataset=hwu_orig,train_num_samples",19879.0
+1217,"model=svm,i=7,dataset=hwu_orig,acc_id_0",0.8346613545816733
+1218,"model=svm,i=7,dataset=hwu_orig,f1_id_0",0.8346613545816733
+1219,"model=svm,i=7,dataset=hwu_orig,predict_duration",3.0787465572357178
+1220,"model=svm,i=7,dataset=hwu_orig,predict_num_samples",2510.0
+1221,"model=svm,i=7,dataset=hwu_orig,acc_id_all",0.8346613545816733
+1222,"model=svm,i=7,dataset=hwu_orig,f1_id_all",0.8346613545816733
+1223," model=svm,i=7,dataset=hwu_orig,total_duration",41.58901596069336
+1224,"model=bert+adapter,i=7,dataset=hwu_orig,train_duration",90.03959083557129
+1225,"model=bert+adapter,i=7,dataset=hwu_orig,train_num_samples",19879.0
+1226,"model=bert+adapter,i=7,dataset=hwu_orig,acc_id_0",0.8689243027888446
+1227,"model=bert+adapter,i=7,dataset=hwu_orig,f1_id_0",0.8689243027888445
+1228,"model=bert+adapter,i=7,dataset=hwu_orig,predict_duration",3.079245090484619
+1229,"model=bert+adapter,i=7,dataset=hwu_orig,predict_num_samples",2510.0
+1230,"model=bert+adapter,i=7,dataset=hwu_orig,acc_id_all",0.8689243027888446
+1231,"model=bert+adapter,i=7,dataset=hwu_orig,f1_id_all",0.8689243027888445
+1232," model=bert+adapter,i=7,dataset=hwu_orig,total_duration",99.49068140983582
+1233,"model=bert-base-uncased,i=7,dataset=hwu_orig,train_duration",1102.1917026042938
+1234,"model=bert-base-uncased,i=7,dataset=hwu_orig,train_num_samples",19879.0
+1235,"model=bert-base-uncased,i=7,dataset=hwu_orig,acc_id_0",0.8784860557768924
+1236,"model=bert-base-uncased,i=7,dataset=hwu_orig,f1_id_0",0.8784860557768924
+1237,"model=bert-base-uncased,i=7,dataset=hwu_orig,predict_duration",2.974698305130005
+1238,"model=bert-base-uncased,i=7,dataset=hwu_orig,predict_num_samples",2510.0
+1239,"model=bert-base-uncased,i=7,dataset=hwu_orig,acc_id_all",0.8784860557768924
+1240,"model=bert-base-uncased,i=7,dataset=hwu_orig,f1_id_all",0.8784860557768924
+1241," model=bert-base-uncased,i=7,dataset=hwu_orig,total_duration",1111.160043001175
+1242,"model=distilbert+adapter,i=7,dataset=hwu_orig,train_duration",77.03245878219604
+1243,"model=distilbert+adapter,i=7,dataset=hwu_orig,train_num_samples",19879.0
+1244,"model=distilbert+adapter,i=7,dataset=hwu_orig,acc_id_0",0.8960159362549801
+1245,"model=distilbert+adapter,i=7,dataset=hwu_orig,f1_id_0",0.8960159362549801
+1246,"model=distilbert+adapter,i=7,dataset=hwu_orig,predict_duration",1.9656016826629639
+1247,"model=distilbert+adapter,i=7,dataset=hwu_orig,predict_num_samples",2510.0
+1248,"model=distilbert+adapter,i=7,dataset=hwu_orig,acc_id_all",0.8960159362549801
+1249,"model=distilbert+adapter,i=7,dataset=hwu_orig,f1_id_all",0.8960159362549801
+1250," model=distilbert+adapter,i=7,dataset=hwu_orig,total_duration",84.61822724342346
+1251,"model=distilbert-base-uncased,i=7,dataset=hwu_orig,train_duration",618.2686123847961
+1252,"model=distilbert-base-uncased,i=7,dataset=hwu_orig,train_num_samples",19879.0
+1253,"model=distilbert-base-uncased,i=7,dataset=hwu_orig,acc_id_0",0.9071713147410359
+1254,"model=distilbert-base-uncased,i=7,dataset=hwu_orig,f1_id_0",0.9071713147410357
+1255,"model=distilbert-base-uncased,i=7,dataset=hwu_orig,predict_duration",1.9304742813110352
+1256,"model=distilbert-base-uncased,i=7,dataset=hwu_orig,predict_num_samples",2510.0
+1257,"model=distilbert-base-uncased,i=7,dataset=hwu_orig,acc_id_all",0.9071713147410359
+1258,"model=distilbert-base-uncased,i=7,dataset=hwu_orig,f1_id_all",0.9071713147410357
+1259," model=distilbert-base-uncased,i=7,dataset=hwu_orig,total_duration",625.8671350479126
+1260,"model=svm,i=8,dataset=hwu_orig,train_duration",9.99489688873291
+1261,"model=svm,i=8,dataset=hwu_orig,train_num_samples",19879.0
+1262,"model=svm,i=8,dataset=hwu_orig,acc_id_0",0.8346613545816733
+1263,"model=svm,i=8,dataset=hwu_orig,f1_id_0",0.8346613545816733
+1264,"model=svm,i=8,dataset=hwu_orig,predict_duration",3.1066231727600098
+1265,"model=svm,i=8,dataset=hwu_orig,predict_num_samples",2510.0
+1266,"model=svm,i=8,dataset=hwu_orig,acc_id_all",0.8346613545816733
+1267,"model=svm,i=8,dataset=hwu_orig,f1_id_all",0.8346613545816733
+1268," model=svm,i=8,dataset=hwu_orig,total_duration",41.746187686920166
+1269,"model=bert+adapter,i=8,dataset=hwu_orig,train_duration",90.0420651435852
+1270,"model=bert+adapter,i=8,dataset=hwu_orig,train_num_samples",19879.0
+1271,"model=bert+adapter,i=8,dataset=hwu_orig,acc_id_0",0.8689243027888446
+1272,"model=bert+adapter,i=8,dataset=hwu_orig,f1_id_0",0.8689243027888445
+1273,"model=bert+adapter,i=8,dataset=hwu_orig,predict_duration",3.0864875316619873
+1274,"model=bert+adapter,i=8,dataset=hwu_orig,predict_num_samples",2510.0
+1275,"model=bert+adapter,i=8,dataset=hwu_orig,acc_id_all",0.8689243027888446
+1276,"model=bert+adapter,i=8,dataset=hwu_orig,f1_id_all",0.8689243027888445
+1277," model=bert+adapter,i=8,dataset=hwu_orig,total_duration",99.49981784820557
+1278,"model=bert-base-uncased,i=8,dataset=hwu_orig,train_duration",1104.1670670509338
+1279,"model=bert-base-uncased,i=8,dataset=hwu_orig,train_num_samples",19879.0
+1280,"model=bert-base-uncased,i=8,dataset=hwu_orig,acc_id_0",0.8784860557768924
+1281,"model=bert-base-uncased,i=8,dataset=hwu_orig,f1_id_0",0.8784860557768924
+1282,"model=bert-base-uncased,i=8,dataset=hwu_orig,predict_duration",2.9788424968719482
+1283,"model=bert-base-uncased,i=8,dataset=hwu_orig,predict_num_samples",2510.0
+1284,"model=bert-base-uncased,i=8,dataset=hwu_orig,acc_id_all",0.8784860557768924
+1285,"model=bert-base-uncased,i=8,dataset=hwu_orig,f1_id_all",0.8784860557768924
+1286," model=bert-base-uncased,i=8,dataset=hwu_orig,total_duration",1113.1971232891083
+1287,"model=distilbert+adapter,i=8,dataset=hwu_orig,train_duration",76.8988037109375
+1288,"model=distilbert+adapter,i=8,dataset=hwu_orig,train_num_samples",19879.0
+1289,"model=distilbert+adapter,i=8,dataset=hwu_orig,acc_id_0",0.8960159362549801
+1290,"model=distilbert+adapter,i=8,dataset=hwu_orig,f1_id_0",0.8960159362549801
+1291,"model=distilbert+adapter,i=8,dataset=hwu_orig,predict_duration",1.9598610401153564
+1292,"model=distilbert+adapter,i=8,dataset=hwu_orig,predict_num_samples",2510.0
+1293,"model=distilbert+adapter,i=8,dataset=hwu_orig,acc_id_all",0.8960159362549801
+1294,"model=distilbert+adapter,i=8,dataset=hwu_orig,f1_id_all",0.8960159362549801
+1295," model=distilbert+adapter,i=8,dataset=hwu_orig,total_duration",84.57400679588318
+1296,"model=distilbert-base-uncased,i=8,dataset=hwu_orig,train_duration",618.5100905895233
+1297,"model=distilbert-base-uncased,i=8,dataset=hwu_orig,train_num_samples",19879.0
+1298,"model=distilbert-base-uncased,i=8,dataset=hwu_orig,acc_id_0",0.9071713147410359
+1299,"model=distilbert-base-uncased,i=8,dataset=hwu_orig,f1_id_0",0.9071713147410357
+1300,"model=distilbert-base-uncased,i=8,dataset=hwu_orig,predict_duration",1.9274277687072754
+1301,"model=distilbert-base-uncased,i=8,dataset=hwu_orig,predict_num_samples",2510.0
+1302,"model=distilbert-base-uncased,i=8,dataset=hwu_orig,acc_id_all",0.9071713147410359
+1303,"model=distilbert-base-uncased,i=8,dataset=hwu_orig,f1_id_all",0.9071713147410357
+1304," model=distilbert-base-uncased,i=8,dataset=hwu_orig,total_duration",628.0797641277313
+1305,"model=svm,i=9,dataset=hwu_orig,train_duration",9.963475465774536
+1306,"model=svm,i=9,dataset=hwu_orig,train_num_samples",19879.0
+1307,"model=svm,i=9,dataset=hwu_orig,acc_id_0",0.8346613545816733
+1308,"model=svm,i=9,dataset=hwu_orig,f1_id_0",0.8346613545816733
+1309,"model=svm,i=9,dataset=hwu_orig,predict_duration",3.082376718521118
+1310,"model=svm,i=9,dataset=hwu_orig,predict_num_samples",2510.0
+1311,"model=svm,i=9,dataset=hwu_orig,acc_id_all",0.8346613545816733
+1312,"model=svm,i=9,dataset=hwu_orig,f1_id_all",0.8346613545816733
+1313," model=svm,i=9,dataset=hwu_orig,total_duration",41.53753209114075
+1314,"model=bert+adapter,i=9,dataset=hwu_orig,train_duration",90.31903672218323
+1315,"model=bert+adapter,i=9,dataset=hwu_orig,train_num_samples",19879.0
+1316,"model=bert+adapter,i=9,dataset=hwu_orig,acc_id_0",0.8689243027888446
+1317,"model=bert+adapter,i=9,dataset=hwu_orig,f1_id_0",0.8689243027888445
+1318,"model=bert+adapter,i=9,dataset=hwu_orig,predict_duration",3.1010587215423584
+1319,"model=bert+adapter,i=9,dataset=hwu_orig,predict_num_samples",2510.0
+1320,"model=bert+adapter,i=9,dataset=hwu_orig,acc_id_all",0.8689243027888446
+1321,"model=bert+adapter,i=9,dataset=hwu_orig,f1_id_all",0.8689243027888445
+1322," model=bert+adapter,i=9,dataset=hwu_orig,total_duration",99.84755158424377
+1323,"model=bert-base-uncased,i=9,dataset=hwu_orig,train_duration",1102.781257867813
+1324,"model=bert-base-uncased,i=9,dataset=hwu_orig,train_num_samples",19879.0
+1325,"model=bert-base-uncased,i=9,dataset=hwu_orig,acc_id_0",0.8784860557768924
+1326,"model=bert-base-uncased,i=9,dataset=hwu_orig,f1_id_0",0.8784860557768924
+1327,"model=bert-base-uncased,i=9,dataset=hwu_orig,predict_duration",2.9892079830169678
+1328,"model=bert-base-uncased,i=9,dataset=hwu_orig,predict_num_samples",2510.0
+1329,"model=bert-base-uncased,i=9,dataset=hwu_orig,acc_id_all",0.8784860557768924
+1330,"model=bert-base-uncased,i=9,dataset=hwu_orig,f1_id_all",0.8784860557768924
+1331," model=bert-base-uncased,i=9,dataset=hwu_orig,total_duration",1111.7595145702362
+1332,"model=distilbert+adapter,i=9,dataset=hwu_orig,train_duration",76.71204853057861
+1333,"model=distilbert+adapter,i=9,dataset=hwu_orig,train_num_samples",19879.0
+1334,"model=distilbert+adapter,i=9,dataset=hwu_orig,acc_id_0",0.8960159362549801
+1335,"model=distilbert+adapter,i=9,dataset=hwu_orig,f1_id_0",0.8960159362549801
+1336,"model=distilbert+adapter,i=9,dataset=hwu_orig,predict_duration",1.963216781616211
+1337,"model=distilbert+adapter,i=9,dataset=hwu_orig,predict_num_samples",2510.0
+1338,"model=distilbert+adapter,i=9,dataset=hwu_orig,acc_id_all",0.8960159362549801
+1339,"model=distilbert+adapter,i=9,dataset=hwu_orig,f1_id_all",0.8960159362549801
+1340," model=distilbert+adapter,i=9,dataset=hwu_orig,total_duration",84.32526326179504
+1341,"model=distilbert-base-uncased,i=9,dataset=hwu_orig,train_duration",615.9186794757843
+1342,"model=distilbert-base-uncased,i=9,dataset=hwu_orig,train_num_samples",19879.0
+1343,"model=distilbert-base-uncased,i=9,dataset=hwu_orig,acc_id_0",0.9071713147410359
+1344,"model=distilbert-base-uncased,i=9,dataset=hwu_orig,f1_id_0",0.9071713147410357
+1345,"model=distilbert-base-uncased,i=9,dataset=hwu_orig,predict_duration",1.9283497333526611
+1346,"model=distilbert-base-uncased,i=9,dataset=hwu_orig,predict_num_samples",2510.0
+1347,"model=distilbert-base-uncased,i=9,dataset=hwu_orig,acc_id_all",0.9071713147410359
+1348,"model=distilbert-base-uncased,i=9,dataset=hwu_orig,f1_id_all",0.9071713147410357
+1349," model=distilbert-base-uncased,i=9,dataset=hwu_orig,total_duration",623.4626190662384
+1350,"model=svm,i=0,dataset=atis,train_duration",0.5564866065979004
+1351,"model=svm,i=0,dataset=atis,train_num_samples",4480.0
+1352,"model=svm,i=0,dataset=atis,acc_id_0",0.9193729003359462
+1353,"model=svm,i=0,dataset=atis,f1_id_0",0.9193729003359462
+1354,"model=svm,i=0,dataset=atis,predict_duration",0.09920883178710938
+1355,"model=svm,i=0,dataset=atis,predict_num_samples",893.0
+1356,"model=svm,i=0,dataset=atis,acc_id_all",0.9193729003359462
+1357,"model=svm,i=0,dataset=atis,f1_id_all",0.9193729003359462
+1358," model=svm,i=0,dataset=atis,total_duration",12.115832328796387
+1359,"model=bert+adapter,i=0,dataset=atis,train_duration",52.67783546447754
+1360,"model=bert+adapter,i=0,dataset=atis,train_num_samples",4480.0
+1361,"model=bert+adapter,i=0,dataset=atis,acc_id_0",0.9664053751399776
+1362,"model=bert+adapter,i=0,dataset=atis,f1_id_0",0.9664053751399776
+1363,"model=bert+adapter,i=0,dataset=atis,predict_duration",1.1835963726043701
+1364,"model=bert+adapter,i=0,dataset=atis,predict_num_samples",893.0
+1365,"model=bert+adapter,i=0,dataset=atis,acc_id_all",0.9664053751399776
+1366,"model=bert+adapter,i=0,dataset=atis,f1_id_all",0.9664053751399776
+1367," model=bert+adapter,i=0,dataset=atis,total_duration",60.186474323272705
+1368,"model=bert-base-uncased,i=0,dataset=atis,train_duration",239.26391673088074
+1369,"model=bert-base-uncased,i=0,dataset=atis,train_num_samples",4480.0
+1370,"model=bert-base-uncased,i=0,dataset=atis,acc_id_0",0.883538633818589
+1371,"model=bert-base-uncased,i=0,dataset=atis,f1_id_0",0.883538633818589
+1372,"model=bert-base-uncased,i=0,dataset=atis,predict_duration",1.1524524688720703
+1373,"model=bert-base-uncased,i=0,dataset=atis,predict_num_samples",893.0
+1374,"model=bert-base-uncased,i=0,dataset=atis,acc_id_all",0.883538633818589
+1375,"model=bert-base-uncased,i=0,dataset=atis,f1_id_all",0.883538633818589
+1376," model=bert-base-uncased,i=0,dataset=atis,total_duration",246.3753068447113
+1377,"model=distilbert+adapter,i=0,dataset=atis,train_duration",24.697479724884033
+1378,"model=distilbert+adapter,i=0,dataset=atis,train_num_samples",4480.0
+1379,"model=distilbert+adapter,i=0,dataset=atis,acc_id_0",0.9742441209406495
+1380,"model=distilbert+adapter,i=0,dataset=atis,f1_id_0",0.9742441209406495
+1381,"model=distilbert+adapter,i=0,dataset=atis,predict_duration",0.7828419208526611
+1382,"model=distilbert+adapter,i=0,dataset=atis,predict_num_samples",893.0
+1383,"model=distilbert+adapter,i=0,dataset=atis,acc_id_all",0.9742441209406495
+1384,"model=distilbert+adapter,i=0,dataset=atis,f1_id_all",0.9742441209406495
+1385," model=distilbert+adapter,i=0,dataset=atis,total_duration",31.06952953338623
+1386,"model=distilbert-base-uncased,i=0,dataset=atis,train_duration",218.38926672935486
+1387,"model=distilbert-base-uncased,i=0,dataset=atis,train_num_samples",4480.0
+1388,"model=distilbert-base-uncased,i=0,dataset=atis,acc_id_0",0.9708846584546472
+1389,"model=distilbert-base-uncased,i=0,dataset=atis,f1_id_0",0.9708846584546472
+1390,"model=distilbert-base-uncased,i=0,dataset=atis,predict_duration",0.7925260066986084
+1391,"model=distilbert-base-uncased,i=0,dataset=atis,predict_num_samples",893.0
+1392,"model=distilbert-base-uncased,i=0,dataset=atis,acc_id_all",0.9708846584546472
+1393,"model=distilbert-base-uncased,i=0,dataset=atis,f1_id_all",0.9708846584546472
+1394," model=distilbert-base-uncased,i=0,dataset=atis,total_duration",224.8552315235138
+1395,"model=svm,i=1,dataset=atis,train_duration",0.5613172054290771
+1396,"model=svm,i=1,dataset=atis,train_num_samples",4480.0
+1397,"model=svm,i=1,dataset=atis,acc_id_0",0.9193729003359462
+1398,"model=svm,i=1,dataset=atis,f1_id_0",0.9193729003359462
+1399,"model=svm,i=1,dataset=atis,predict_duration",0.09859466552734375
+1400,"model=svm,i=1,dataset=atis,predict_num_samples",893.0
+1401,"model=svm,i=1,dataset=atis,acc_id_all",0.9193729003359462
+1402,"model=svm,i=1,dataset=atis,f1_id_all",0.9193729003359462
+1403," model=svm,i=1,dataset=atis,total_duration",12.164237022399902
+1404,"model=bert+adapter,i=1,dataset=atis,train_duration",115.84107303619385
+1405,"model=bert+adapter,i=1,dataset=atis,train_num_samples",4480.0
+1406,"model=bert+adapter,i=1,dataset=atis,acc_id_0",0.8868980963045913
+1407,"model=bert+adapter,i=1,dataset=atis,f1_id_0",0.8868980963045913
+1408,"model=bert+adapter,i=1,dataset=atis,predict_duration",1.17207670211792
+1409,"model=bert+adapter,i=1,dataset=atis,predict_num_samples",893.0
+1410,"model=bert+adapter,i=1,dataset=atis,acc_id_all",0.8868980963045913
+1411,"model=bert+adapter,i=1,dataset=atis,f1_id_all",0.8868980963045913
+1412," model=bert+adapter,i=1,dataset=atis,total_duration",123.4401421546936
+1413,"model=bert-base-uncased,i=1,dataset=atis,train_duration",221.55329394340515
+1414,"model=bert-base-uncased,i=1,dataset=atis,train_num_samples",4480.0
+1415,"model=bert-base-uncased,i=1,dataset=atis,acc_id_0",0.8756998880179171
+1416,"model=bert-base-uncased,i=1,dataset=atis,f1_id_0",0.8756998880179171
+1417,"model=bert-base-uncased,i=1,dataset=atis,predict_duration",1.151597261428833
+1418,"model=bert-base-uncased,i=1,dataset=atis,predict_num_samples",893.0
+1419,"model=bert-base-uncased,i=1,dataset=atis,acc_id_all",0.8756998880179171
+1420,"model=bert-base-uncased,i=1,dataset=atis,f1_id_all",0.8756998880179171
+1421," model=bert-base-uncased,i=1,dataset=atis,total_duration",228.80368208885193
+1422,"model=distilbert+adapter,i=1,dataset=atis,train_duration",18.52806258201599
+1423,"model=distilbert+adapter,i=1,dataset=atis,train_num_samples",4480.0
+1424,"model=distilbert+adapter,i=1,dataset=atis,acc_id_0",0.961926091825308
+1425,"model=distilbert+adapter,i=1,dataset=atis,f1_id_0",0.961926091825308
+1426,"model=distilbert+adapter,i=1,dataset=atis,predict_duration",0.7894113063812256
+1427,"model=distilbert+adapter,i=1,dataset=atis,predict_num_samples",893.0
+1428,"model=distilbert+adapter,i=1,dataset=atis,acc_id_all",0.961926091825308
+1429,"model=distilbert+adapter,i=1,dataset=atis,f1_id_all",0.961926091825308
+1430," model=distilbert+adapter,i=1,dataset=atis,total_duration",25.084229707717896
+1431,"model=distilbert-base-uncased,i=1,dataset=atis,train_duration",228.71056413650513
+1432,"model=distilbert-base-uncased,i=1,dataset=atis,train_num_samples",4480.0
+1433,"model=distilbert-base-uncased,i=1,dataset=atis,acc_id_0",0.9720044792833147
+1434,"model=distilbert-base-uncased,i=1,dataset=atis,f1_id_0",0.9720044792833148
+1435,"model=distilbert-base-uncased,i=1,dataset=atis,predict_duration",0.7926466464996338
+1436,"model=distilbert-base-uncased,i=1,dataset=atis,predict_num_samples",893.0
+1437,"model=distilbert-base-uncased,i=1,dataset=atis,acc_id_all",0.9720044792833147
+1438,"model=distilbert-base-uncased,i=1,dataset=atis,f1_id_all",0.9720044792833148
+1439," model=distilbert-base-uncased,i=1,dataset=atis,total_duration",235.16815161705017
+1440,"model=svm,i=2,dataset=atis,train_duration",0.5520823001861572
+1441,"model=svm,i=2,dataset=atis,train_num_samples",4480.0
+1442,"model=svm,i=2,dataset=atis,acc_id_0",0.9193729003359462
+1443,"model=svm,i=2,dataset=atis,f1_id_0",0.9193729003359462
+1444,"model=svm,i=2,dataset=atis,predict_duration",0.09801983833312988
+1445,"model=svm,i=2,dataset=atis,predict_num_samples",893.0
+1446,"model=svm,i=2,dataset=atis,acc_id_all",0.9193729003359462
+1447,"model=svm,i=2,dataset=atis,f1_id_all",0.9193729003359462
+1448," model=svm,i=2,dataset=atis,total_duration",12.179919242858887
+1449,"model=bert+adapter,i=2,dataset=atis,train_duration",84.66028213500977
+1450,"model=bert+adapter,i=2,dataset=atis,train_num_samples",4480.0
+1451,"model=bert+adapter,i=2,dataset=atis,acc_id_0",0.9675251959686451
+1452,"model=bert+adapter,i=2,dataset=atis,f1_id_0",0.9675251959686451
+1453,"model=bert+adapter,i=2,dataset=atis,predict_duration",1.1855785846710205
+1454,"model=bert+adapter,i=2,dataset=atis,predict_num_samples",893.0
+1455,"model=bert+adapter,i=2,dataset=atis,acc_id_all",0.9675251959686451
+1456,"model=bert+adapter,i=2,dataset=atis,f1_id_all",0.9675251959686451
+1457," model=bert+adapter,i=2,dataset=atis,total_duration",92.29948949813843
+1458,"model=bert-base-uncased,i=2,dataset=atis,train_duration",175.25066900253296
+1459,"model=bert-base-uncased,i=2,dataset=atis,train_num_samples",4480.0
+1460,"model=bert-base-uncased,i=2,dataset=atis,acc_id_0",0.858902575587906
+1461,"model=bert-base-uncased,i=2,dataset=atis,f1_id_0",0.858902575587906
+1462,"model=bert-base-uncased,i=2,dataset=atis,predict_duration",1.1543867588043213
+1463,"model=bert-base-uncased,i=2,dataset=atis,predict_num_samples",893.0
+1464,"model=bert-base-uncased,i=2,dataset=atis,acc_id_all",0.858902575587906
+1465,"model=bert-base-uncased,i=2,dataset=atis,f1_id_all",0.858902575587906
+1466," model=bert-base-uncased,i=2,dataset=atis,total_duration",182.3317334651947
+1467,"model=distilbert+adapter,i=2,dataset=atis,train_duration",30.889124393463135
+1468,"model=distilbert+adapter,i=2,dataset=atis,train_num_samples",4480.0
+1469,"model=distilbert+adapter,i=2,dataset=atis,acc_id_0",0.9664053751399776
+1470,"model=distilbert+adapter,i=2,dataset=atis,f1_id_0",0.9664053751399776
+1471,"model=distilbert+adapter,i=2,dataset=atis,predict_duration",0.7851603031158447
+1472,"model=distilbert+adapter,i=2,dataset=atis,predict_num_samples",893.0
+1473,"model=distilbert+adapter,i=2,dataset=atis,acc_id_all",0.9664053751399776
+1474,"model=distilbert+adapter,i=2,dataset=atis,f1_id_all",0.9664053751399776
+1475," model=distilbert+adapter,i=2,dataset=atis,total_duration",37.771350145339966
+1476,"model=distilbert-base-uncased,i=2,dataset=atis,train_duration",228.02532315254211
+1477,"model=distilbert-base-uncased,i=2,dataset=atis,train_num_samples",4480.0
+1478,"model=distilbert-base-uncased,i=2,dataset=atis,acc_id_0",0.9720044792833147
+1479,"model=distilbert-base-uncased,i=2,dataset=atis,f1_id_0",0.9720044792833148
+1480,"model=distilbert-base-uncased,i=2,dataset=atis,predict_duration",0.7710602283477783
+1481,"model=distilbert-base-uncased,i=2,dataset=atis,predict_num_samples",893.0
+1482,"model=distilbert-base-uncased,i=2,dataset=atis,acc_id_all",0.9720044792833147
+1483,"model=distilbert-base-uncased,i=2,dataset=atis,f1_id_all",0.9720044792833148
+1484," model=distilbert-base-uncased,i=2,dataset=atis,total_duration",234.78774738311768
+1485,"model=svm,i=3,dataset=atis,train_duration",0.5552749633789062
+1486,"model=svm,i=3,dataset=atis,train_num_samples",4480.0
+1487,"model=svm,i=3,dataset=atis,acc_id_0",0.9193729003359462
+1488,"model=svm,i=3,dataset=atis,f1_id_0",0.9193729003359462
+1489,"model=svm,i=3,dataset=atis,predict_duration",0.09804391860961914
+1490,"model=svm,i=3,dataset=atis,predict_num_samples",893.0
+1491,"model=svm,i=3,dataset=atis,acc_id_all",0.9193729003359462
+1492,"model=svm,i=3,dataset=atis,f1_id_all",0.9193729003359462
+1493," model=svm,i=3,dataset=atis,total_duration",12.162434577941895
+1494,"model=bert+adapter,i=3,dataset=atis,train_duration",84.31234288215637
+1495,"model=bert+adapter,i=3,dataset=atis,train_num_samples",4480.0
+1496,"model=bert+adapter,i=3,dataset=atis,acc_id_0",0.9675251959686451
+1497,"model=bert+adapter,i=3,dataset=atis,f1_id_0",0.9675251959686451
+1498,"model=bert+adapter,i=3,dataset=atis,predict_duration",1.1822397708892822
+1499,"model=bert+adapter,i=3,dataset=atis,predict_num_samples",893.0
+1500,"model=bert+adapter,i=3,dataset=atis,acc_id_all",0.9675251959686451
+1501,"model=bert+adapter,i=3,dataset=atis,f1_id_all",0.9675251959686451
+1502," model=bert+adapter,i=3,dataset=atis,total_duration",92.77496361732483
+1503,"model=bert-base-uncased,i=3,dataset=atis,train_duration",176.24845170974731
+1504,"model=bert-base-uncased,i=3,dataset=atis,train_num_samples",4480.0
+1505,"model=bert-base-uncased,i=3,dataset=atis,acc_id_0",0.858902575587906
+1506,"model=bert-base-uncased,i=3,dataset=atis,f1_id_0",0.858902575587906
+1507,"model=bert-base-uncased,i=3,dataset=atis,predict_duration",1.1517808437347412
+1508,"model=bert-base-uncased,i=3,dataset=atis,predict_num_samples",893.0
+1509,"model=bert-base-uncased,i=3,dataset=atis,acc_id_all",0.858902575587906
+1510,"model=bert-base-uncased,i=3,dataset=atis,f1_id_all",0.858902575587906
+1511," model=bert-base-uncased,i=3,dataset=atis,total_duration",183.3321783542633
+1512,"model=distilbert+adapter,i=3,dataset=atis,train_duration",30.696471452713013
+1513,"model=distilbert+adapter,i=3,dataset=atis,train_num_samples",4480.0
+1514,"model=distilbert+adapter,i=3,dataset=atis,acc_id_0",0.9664053751399776
+1515,"model=distilbert+adapter,i=3,dataset=atis,f1_id_0",0.9664053751399776
+1516,"model=distilbert+adapter,i=3,dataset=atis,predict_duration",0.7855660915374756
+1517,"model=distilbert+adapter,i=3,dataset=atis,predict_num_samples",893.0
+1518,"model=distilbert+adapter,i=3,dataset=atis,acc_id_all",0.9664053751399776
+1519,"model=distilbert+adapter,i=3,dataset=atis,f1_id_all",0.9664053751399776
+1520," model=distilbert+adapter,i=3,dataset=atis,total_duration",37.01920747756958
+1521,"model=distilbert-base-uncased,i=3,dataset=atis,train_duration",228.68740034103394
+1522,"model=distilbert-base-uncased,i=3,dataset=atis,train_num_samples",4480.0
+1523,"model=distilbert-base-uncased,i=3,dataset=atis,acc_id_0",0.9720044792833147
+1524,"model=distilbert-base-uncased,i=3,dataset=atis,f1_id_0",0.9720044792833148
+1525,"model=distilbert-base-uncased,i=3,dataset=atis,predict_duration",0.7798938751220703
+1526,"model=distilbert-base-uncased,i=3,dataset=atis,predict_num_samples",893.0
+1527,"model=distilbert-base-uncased,i=3,dataset=atis,acc_id_all",0.9720044792833147
+1528,"model=distilbert-base-uncased,i=3,dataset=atis,f1_id_all",0.9720044792833148
+1529," model=distilbert-base-uncased,i=3,dataset=atis,total_duration",235.87563610076904
+1530,"model=svm,i=4,dataset=atis,train_duration",0.563953161239624
+1531,"model=svm,i=4,dataset=atis,train_num_samples",4480.0
+1532,"model=svm,i=4,dataset=atis,acc_id_0",0.9193729003359462
+1533,"model=svm,i=4,dataset=atis,f1_id_0",0.9193729003359462
+1534,"model=svm,i=4,dataset=atis,predict_duration",0.09868955612182617
+1535,"model=svm,i=4,dataset=atis,predict_num_samples",893.0
+1536,"model=svm,i=4,dataset=atis,acc_id_all",0.9193729003359462
+1537,"model=svm,i=4,dataset=atis,f1_id_all",0.9193729003359462
+1538," model=svm,i=4,dataset=atis,total_duration",12.174658298492432
+1539,"model=bert+adapter,i=4,dataset=atis,train_duration",84.33579301834106
+1540,"model=bert+adapter,i=4,dataset=atis,train_num_samples",4480.0
+1541,"model=bert+adapter,i=4,dataset=atis,acc_id_0",0.9675251959686451
+1542,"model=bert+adapter,i=4,dataset=atis,f1_id_0",0.9675251959686451
+1543,"model=bert+adapter,i=4,dataset=atis,predict_duration",1.191983699798584
+1544,"model=bert+adapter,i=4,dataset=atis,predict_num_samples",893.0
+1545,"model=bert+adapter,i=4,dataset=atis,acc_id_all",0.9675251959686451
+1546,"model=bert+adapter,i=4,dataset=atis,f1_id_all",0.9675251959686451
+1547," model=bert+adapter,i=4,dataset=atis,total_duration",92.04050493240356
+1548,"model=bert-base-uncased,i=4,dataset=atis,train_duration",174.55290246009827
+1549,"model=bert-base-uncased,i=4,dataset=atis,train_num_samples",4480.0
+1550,"model=bert-base-uncased,i=4,dataset=atis,acc_id_0",0.858902575587906
+1551,"model=bert-base-uncased,i=4,dataset=atis,f1_id_0",0.858902575587906
+1552,"model=bert-base-uncased,i=4,dataset=atis,predict_duration",1.1503064632415771
+1553,"model=bert-base-uncased,i=4,dataset=atis,predict_num_samples",893.0
+1554,"model=bert-base-uncased,i=4,dataset=atis,acc_id_all",0.858902575587906
+1555,"model=bert-base-uncased,i=4,dataset=atis,f1_id_all",0.858902575587906
+1556," model=bert-base-uncased,i=4,dataset=atis,total_duration",181.6637783050537
+1557,"model=distilbert+adapter,i=4,dataset=atis,train_duration",30.74373149871826
+1558,"model=distilbert+adapter,i=4,dataset=atis,train_num_samples",4480.0
+1559,"model=distilbert+adapter,i=4,dataset=atis,acc_id_0",0.9664053751399776
+1560,"model=distilbert+adapter,i=4,dataset=atis,f1_id_0",0.9664053751399776
+1561,"model=distilbert+adapter,i=4,dataset=atis,predict_duration",0.7844336032867432
+1562,"model=distilbert+adapter,i=4,dataset=atis,predict_num_samples",893.0
+1563,"model=distilbert+adapter,i=4,dataset=atis,acc_id_all",0.9664053751399776
+1564,"model=distilbert+adapter,i=4,dataset=atis,f1_id_all",0.9664053751399776
+1565," model=distilbert+adapter,i=4,dataset=atis,total_duration",37.11555194854736
+1566,"model=distilbert-base-uncased,i=4,dataset=atis,train_duration",227.68051075935364
+1567,"model=distilbert-base-uncased,i=4,dataset=atis,train_num_samples",4480.0
+1568,"model=distilbert-base-uncased,i=4,dataset=atis,acc_id_0",0.9720044792833147
+1569,"model=distilbert-base-uncased,i=4,dataset=atis,f1_id_0",0.9720044792833148
+1570,"model=distilbert-base-uncased,i=4,dataset=atis,predict_duration",0.7834465503692627
+1571,"model=distilbert-base-uncased,i=4,dataset=atis,predict_num_samples",893.0
+1572,"model=distilbert-base-uncased,i=4,dataset=atis,acc_id_all",0.9720044792833147
+1573,"model=distilbert-base-uncased,i=4,dataset=atis,f1_id_all",0.9720044792833148
+1574," model=distilbert-base-uncased,i=4,dataset=atis,total_duration",234.07858085632324
+1575,"model=svm,i=5,dataset=atis,train_duration",0.5527133941650391
+1576,"model=svm,i=5,dataset=atis,train_num_samples",4480.0
+1577,"model=svm,i=5,dataset=atis,acc_id_0",0.9193729003359462
+1578,"model=svm,i=5,dataset=atis,f1_id_0",0.9193729003359462
+1579,"model=svm,i=5,dataset=atis,predict_duration",0.0978538990020752
+1580,"model=svm,i=5,dataset=atis,predict_num_samples",893.0
+1581,"model=svm,i=5,dataset=atis,acc_id_all",0.9193729003359462
+1582,"model=svm,i=5,dataset=atis,f1_id_all",0.9193729003359462
+1583," model=svm,i=5,dataset=atis,total_duration",12.1244957447052
+1584,"model=bert+adapter,i=5,dataset=atis,train_duration",84.3864254951477
+1585,"model=bert+adapter,i=5,dataset=atis,train_num_samples",4480.0
+1586,"model=bert+adapter,i=5,dataset=atis,acc_id_0",0.9675251959686451
+1587,"model=bert+adapter,i=5,dataset=atis,f1_id_0",0.9675251959686451
+1588,"model=bert+adapter,i=5,dataset=atis,predict_duration",1.182558536529541
+1589,"model=bert+adapter,i=5,dataset=atis,predict_num_samples",893.0
+1590,"model=bert+adapter,i=5,dataset=atis,acc_id_all",0.9675251959686451
+1591,"model=bert+adapter,i=5,dataset=atis,f1_id_all",0.9675251959686451
+1592," model=bert+adapter,i=5,dataset=atis,total_duration",92.01732873916626
+1593,"model=bert-base-uncased,i=5,dataset=atis,train_duration",176.20528721809387
+1594,"model=bert-base-uncased,i=5,dataset=atis,train_num_samples",4480.0
+1595,"model=bert-base-uncased,i=5,dataset=atis,acc_id_0",0.858902575587906
+1596,"model=bert-base-uncased,i=5,dataset=atis,f1_id_0",0.858902575587906
+1597,"model=bert-base-uncased,i=5,dataset=atis,predict_duration",1.151048183441162
+1598,"model=bert-base-uncased,i=5,dataset=atis,predict_num_samples",893.0
+1599,"model=bert-base-uncased,i=5,dataset=atis,acc_id_all",0.858902575587906
+1600,"model=bert-base-uncased,i=5,dataset=atis,f1_id_all",0.858902575587906
+1601," model=bert-base-uncased,i=5,dataset=atis,total_duration",183.24633169174194
+1602,"model=distilbert+adapter,i=5,dataset=atis,train_duration",30.767898082733154
+1603,"model=distilbert+adapter,i=5,dataset=atis,train_num_samples",4480.0
+1604,"model=distilbert+adapter,i=5,dataset=atis,acc_id_0",0.9664053751399776
+1605,"model=distilbert+adapter,i=5,dataset=atis,f1_id_0",0.9664053751399776
+1606,"model=distilbert+adapter,i=5,dataset=atis,predict_duration",0.7857856750488281
+1607,"model=distilbert+adapter,i=5,dataset=atis,predict_num_samples",893.0
+1608,"model=distilbert+adapter,i=5,dataset=atis,acc_id_all",0.9664053751399776
+1609,"model=distilbert+adapter,i=5,dataset=atis,f1_id_all",0.9664053751399776
+1610," model=distilbert+adapter,i=5,dataset=atis,total_duration",37.04041862487793
+1611,"model=distilbert-base-uncased,i=5,dataset=atis,train_duration",227.30875158309937
+1612,"model=distilbert-base-uncased,i=5,dataset=atis,train_num_samples",4480.0
+1613,"model=distilbert-base-uncased,i=5,dataset=atis,acc_id_0",0.9720044792833147
+1614,"model=distilbert-base-uncased,i=5,dataset=atis,f1_id_0",0.9720044792833148
+1615,"model=distilbert-base-uncased,i=5,dataset=atis,predict_duration",0.8047339916229248
+1616,"model=distilbert-base-uncased,i=5,dataset=atis,predict_num_samples",893.0
+1617,"model=distilbert-base-uncased,i=5,dataset=atis,acc_id_all",0.9720044792833147
+1618,"model=distilbert-base-uncased,i=5,dataset=atis,f1_id_all",0.9720044792833148
+1619," model=distilbert-base-uncased,i=5,dataset=atis,total_duration",233.62651991844177
+1620,"model=svm,i=6,dataset=atis,train_duration",0.5530500411987305
+1621,"model=svm,i=6,dataset=atis,train_num_samples",4480.0
+1622,"model=svm,i=6,dataset=atis,acc_id_0",0.9193729003359462
+1623,"model=svm,i=6,dataset=atis,f1_id_0",0.9193729003359462
+1624,"model=svm,i=6,dataset=atis,predict_duration",0.09750056266784668
+1625,"model=svm,i=6,dataset=atis,predict_num_samples",893.0
+1626,"model=svm,i=6,dataset=atis,acc_id_all",0.9193729003359462
+1627,"model=svm,i=6,dataset=atis,f1_id_all",0.9193729003359462
+1628," model=svm,i=6,dataset=atis,total_duration",12.107802629470825
+1629,"model=bert+adapter,i=6,dataset=atis,train_duration",84.33231830596924
+1630,"model=bert+adapter,i=6,dataset=atis,train_num_samples",4480.0
+1631,"model=bert+adapter,i=6,dataset=atis,acc_id_0",0.9675251959686451
+1632,"model=bert+adapter,i=6,dataset=atis,f1_id_0",0.9675251959686451
+1633,"model=bert+adapter,i=6,dataset=atis,predict_duration",1.1815810203552246
+1634,"model=bert+adapter,i=6,dataset=atis,predict_num_samples",893.0
+1635,"model=bert+adapter,i=6,dataset=atis,acc_id_all",0.9675251959686451
+1636,"model=bert+adapter,i=6,dataset=atis,f1_id_all",0.9675251959686451
+1637," model=bert+adapter,i=6,dataset=atis,total_duration",91.87239265441895
+1638,"model=bert-base-uncased,i=6,dataset=atis,train_duration",175.18108534812927
+1639,"model=bert-base-uncased,i=6,dataset=atis,train_num_samples",4480.0
+1640,"model=bert-base-uncased,i=6,dataset=atis,acc_id_0",0.858902575587906
+1641,"model=bert-base-uncased,i=6,dataset=atis,f1_id_0",0.858902575587906
+1642,"model=bert-base-uncased,i=6,dataset=atis,predict_duration",1.1535627841949463
+1643,"model=bert-base-uncased,i=6,dataset=atis,predict_num_samples",893.0
+1644,"model=bert-base-uncased,i=6,dataset=atis,acc_id_all",0.858902575587906
+1645,"model=bert-base-uncased,i=6,dataset=atis,f1_id_all",0.858902575587906
+1646," model=bert-base-uncased,i=6,dataset=atis,total_duration",182.23223042488098
+1647,"model=distilbert+adapter,i=6,dataset=atis,train_duration",30.850631952285767
+1648,"model=distilbert+adapter,i=6,dataset=atis,train_num_samples",4480.0
+1649,"model=distilbert+adapter,i=6,dataset=atis,acc_id_0",0.9664053751399776
+1650,"model=distilbert+adapter,i=6,dataset=atis,f1_id_0",0.9664053751399776
+1651,"model=distilbert+adapter,i=6,dataset=atis,predict_duration",0.7858288288116455
+1652,"model=distilbert+adapter,i=6,dataset=atis,predict_num_samples",893.0
+1653,"model=distilbert+adapter,i=6,dataset=atis,acc_id_all",0.9664053751399776
+1654,"model=distilbert+adapter,i=6,dataset=atis,f1_id_all",0.9664053751399776
+1655," model=distilbert+adapter,i=6,dataset=atis,total_duration",37.17356729507446
+1656,"model=distilbert-base-uncased,i=6,dataset=atis,train_duration",226.6406238079071
+1657,"model=distilbert-base-uncased,i=6,dataset=atis,train_num_samples",4480.0
+1658,"model=distilbert-base-uncased,i=6,dataset=atis,acc_id_0",0.9720044792833147
+1659,"model=distilbert-base-uncased,i=6,dataset=atis,f1_id_0",0.9720044792833148
+1660,"model=distilbert-base-uncased,i=6,dataset=atis,predict_duration",0.7711367607116699
+1661,"model=distilbert-base-uncased,i=6,dataset=atis,predict_num_samples",893.0
+1662,"model=distilbert-base-uncased,i=6,dataset=atis,acc_id_all",0.9720044792833147
+1663,"model=distilbert-base-uncased,i=6,dataset=atis,f1_id_all",0.9720044792833148
+1664," model=distilbert-base-uncased,i=6,dataset=atis,total_duration",233.10441136360168
+1665,"model=svm,i=7,dataset=atis,train_duration",0.5598442554473877
+1666,"model=svm,i=7,dataset=atis,train_num_samples",4480.0
+1667,"model=svm,i=7,dataset=atis,acc_id_0",0.9193729003359462
+1668,"model=svm,i=7,dataset=atis,f1_id_0",0.9193729003359462
+1669,"model=svm,i=7,dataset=atis,predict_duration",0.09909677505493164
+1670,"model=svm,i=7,dataset=atis,predict_num_samples",893.0
+1671,"model=svm,i=7,dataset=atis,acc_id_all",0.9193729003359462
+1672,"model=svm,i=7,dataset=atis,f1_id_all",0.9193729003359462
+1673," model=svm,i=7,dataset=atis,total_duration",12.06222939491272
+1674,"model=bert+adapter,i=7,dataset=atis,train_duration",84.44284725189209
+1675,"model=bert+adapter,i=7,dataset=atis,train_num_samples",4480.0
+1676,"model=bert+adapter,i=7,dataset=atis,acc_id_0",0.9675251959686451
+1677,"model=bert+adapter,i=7,dataset=atis,f1_id_0",0.9675251959686451
+1678,"model=bert+adapter,i=7,dataset=atis,predict_duration",1.1958622932434082
+1679,"model=bert+adapter,i=7,dataset=atis,predict_num_samples",893.0
+1680,"model=bert+adapter,i=7,dataset=atis,acc_id_all",0.9675251959686451
+1681,"model=bert+adapter,i=7,dataset=atis,f1_id_all",0.9675251959686451
+1682," model=bert+adapter,i=7,dataset=atis,total_duration",92.18745946884155
+1683,"model=bert-base-uncased,i=7,dataset=atis,train_duration",175.4058277606964
+1684,"model=bert-base-uncased,i=7,dataset=atis,train_num_samples",4480.0
+1685,"model=bert-base-uncased,i=7,dataset=atis,acc_id_0",0.858902575587906
+1686,"model=bert-base-uncased,i=7,dataset=atis,f1_id_0",0.858902575587906
+1687,"model=bert-base-uncased,i=7,dataset=atis,predict_duration",1.1277532577514648
+1688,"model=bert-base-uncased,i=7,dataset=atis,predict_num_samples",893.0
+1689,"model=bert-base-uncased,i=7,dataset=atis,acc_id_all",0.858902575587906
+1690,"model=bert-base-uncased,i=7,dataset=atis,f1_id_all",0.858902575587906
+1691," model=bert-base-uncased,i=7,dataset=atis,total_duration",182.44493889808655
+1692,"model=distilbert+adapter,i=7,dataset=atis,train_duration",30.763048887252808
+1693,"model=distilbert+adapter,i=7,dataset=atis,train_num_samples",4480.0
+1694,"model=distilbert+adapter,i=7,dataset=atis,acc_id_0",0.9664053751399776
+1695,"model=distilbert+adapter,i=7,dataset=atis,f1_id_0",0.9664053751399776
+1696,"model=distilbert+adapter,i=7,dataset=atis,predict_duration",0.7827792167663574
+1697,"model=distilbert+adapter,i=7,dataset=atis,predict_num_samples",893.0
+1698,"model=distilbert+adapter,i=7,dataset=atis,acc_id_all",0.9664053751399776
+1699,"model=distilbert+adapter,i=7,dataset=atis,f1_id_all",0.9664053751399776
+1700," model=distilbert+adapter,i=7,dataset=atis,total_duration",37.16267800331116
+1701,"model=distilbert-base-uncased,i=7,dataset=atis,train_duration",227.9060115814209
+1702,"model=distilbert-base-uncased,i=7,dataset=atis,train_num_samples",4480.0
+1703,"model=distilbert-base-uncased,i=7,dataset=atis,acc_id_0",0.9720044792833147
+1704,"model=distilbert-base-uncased,i=7,dataset=atis,f1_id_0",0.9720044792833148
+1705,"model=distilbert-base-uncased,i=7,dataset=atis,predict_duration",0.7981534004211426
+1706,"model=distilbert-base-uncased,i=7,dataset=atis,predict_num_samples",893.0
+1707,"model=distilbert-base-uncased,i=7,dataset=atis,acc_id_all",0.9720044792833147
+1708,"model=distilbert-base-uncased,i=7,dataset=atis,f1_id_all",0.9720044792833148
+1709," model=distilbert-base-uncased,i=7,dataset=atis,total_duration",234.5235435962677
+1710,"model=svm,i=8,dataset=atis,train_duration",0.5498244762420654
+1711,"model=svm,i=8,dataset=atis,train_num_samples",4480.0
+1712,"model=svm,i=8,dataset=atis,acc_id_0",0.9193729003359462
+1713,"model=svm,i=8,dataset=atis,f1_id_0",0.9193729003359462
+1714,"model=svm,i=8,dataset=atis,predict_duration",0.09844684600830078
+1715,"model=svm,i=8,dataset=atis,predict_num_samples",893.0
+1716,"model=svm,i=8,dataset=atis,acc_id_all",0.9193729003359462
+1717,"model=svm,i=8,dataset=atis,f1_id_all",0.9193729003359462
+1718," model=svm,i=8,dataset=atis,total_duration",12.214747905731201
+1719,"model=bert+adapter,i=8,dataset=atis,train_duration",84.30748057365417
+1720,"model=bert+adapter,i=8,dataset=atis,train_num_samples",4480.0
+1721,"model=bert+adapter,i=8,dataset=atis,acc_id_0",0.9675251959686451
+1722,"model=bert+adapter,i=8,dataset=atis,f1_id_0",0.9675251959686451
+1723,"model=bert+adapter,i=8,dataset=atis,predict_duration",1.1861796379089355
+1724,"model=bert+adapter,i=8,dataset=atis,predict_num_samples",893.0
+1725,"model=bert+adapter,i=8,dataset=atis,acc_id_all",0.9675251959686451
+1726,"model=bert+adapter,i=8,dataset=atis,f1_id_all",0.9675251959686451
+1727," model=bert+adapter,i=8,dataset=atis,total_duration",91.8841462135315
+1728,"model=bert-base-uncased,i=8,dataset=atis,train_duration",175.7146599292755
+1729,"model=bert-base-uncased,i=8,dataset=atis,train_num_samples",4480.0
+1730,"model=bert-base-uncased,i=8,dataset=atis,acc_id_0",0.858902575587906
+1731,"model=bert-base-uncased,i=8,dataset=atis,f1_id_0",0.858902575587906
+1732,"model=bert-base-uncased,i=8,dataset=atis,predict_duration",1.1481351852416992
+1733,"model=bert-base-uncased,i=8,dataset=atis,predict_num_samples",893.0
+1734,"model=bert-base-uncased,i=8,dataset=atis,acc_id_all",0.858902575587906
+1735,"model=bert-base-uncased,i=8,dataset=atis,f1_id_all",0.858902575587906
+1736," model=bert-base-uncased,i=8,dataset=atis,total_duration",182.7845618724823
+1737,"model=distilbert+adapter,i=8,dataset=atis,train_duration",30.734244346618652
+1738,"model=distilbert+adapter,i=8,dataset=atis,train_num_samples",4480.0
+1739,"model=distilbert+adapter,i=8,dataset=atis,acc_id_0",0.9664053751399776
+1740,"model=distilbert+adapter,i=8,dataset=atis,f1_id_0",0.9664053751399776
+1741,"model=distilbert+adapter,i=8,dataset=atis,predict_duration",0.7876467704772949
+1742,"model=distilbert+adapter,i=8,dataset=atis,predict_num_samples",893.0
+1743,"model=distilbert+adapter,i=8,dataset=atis,acc_id_all",0.9664053751399776
+1744,"model=distilbert+adapter,i=8,dataset=atis,f1_id_all",0.9664053751399776
+1745," model=distilbert+adapter,i=8,dataset=atis,total_duration",37.09319519996643
+1746,"model=distilbert-base-uncased,i=8,dataset=atis,train_duration",225.41674995422363
+1747,"model=distilbert-base-uncased,i=8,dataset=atis,train_num_samples",4480.0
+1748,"model=distilbert-base-uncased,i=8,dataset=atis,acc_id_0",0.9720044792833147
+1749,"model=distilbert-base-uncased,i=8,dataset=atis,f1_id_0",0.9720044792833148
+1750,"model=distilbert-base-uncased,i=8,dataset=atis,predict_duration",0.7880711555480957
+1751,"model=distilbert-base-uncased,i=8,dataset=atis,predict_num_samples",893.0
+1752,"model=distilbert-base-uncased,i=8,dataset=atis,acc_id_all",0.9720044792833147
+1753,"model=distilbert-base-uncased,i=8,dataset=atis,f1_id_all",0.9720044792833148
+1754," model=distilbert-base-uncased,i=8,dataset=atis,total_duration",231.86704397201538
+1755,"model=svm,i=9,dataset=atis,train_duration",0.5617754459381104
+1756,"model=svm,i=9,dataset=atis,train_num_samples",4480.0
+1757,"model=svm,i=9,dataset=atis,acc_id_0",0.9193729003359462
+1758,"model=svm,i=9,dataset=atis,f1_id_0",0.9193729003359462
+1759,"model=svm,i=9,dataset=atis,predict_duration",0.09828710556030273
+1760,"model=svm,i=9,dataset=atis,predict_num_samples",893.0
+1761,"model=svm,i=9,dataset=atis,acc_id_all",0.9193729003359462
+1762,"model=svm,i=9,dataset=atis,f1_id_all",0.9193729003359462
+1763," model=svm,i=9,dataset=atis,total_duration",12.17807674407959
+1764,"model=bert+adapter,i=9,dataset=atis,train_duration",84.12596845626831
+1765,"model=bert+adapter,i=9,dataset=atis,train_num_samples",4480.0
+1766,"model=bert+adapter,i=9,dataset=atis,acc_id_0",0.9675251959686451
+1767,"model=bert+adapter,i=9,dataset=atis,f1_id_0",0.9675251959686451
+1768,"model=bert+adapter,i=9,dataset=atis,predict_duration",1.1825389862060547
+1769,"model=bert+adapter,i=9,dataset=atis,predict_num_samples",893.0
+1770,"model=bert+adapter,i=9,dataset=atis,acc_id_all",0.9675251959686451
+1771,"model=bert+adapter,i=9,dataset=atis,f1_id_all",0.9675251959686451
+1772," model=bert+adapter,i=9,dataset=atis,total_duration",91.46229028701782
+1773,"model=bert-base-uncased,i=9,dataset=atis,train_duration",172.62487030029297
+1774,"model=bert-base-uncased,i=9,dataset=atis,train_num_samples",4480.0
+1775,"model=bert-base-uncased,i=9,dataset=atis,acc_id_0",0.858902575587906
+1776,"model=bert-base-uncased,i=9,dataset=atis,f1_id_0",0.858902575587906
+1777,"model=bert-base-uncased,i=9,dataset=atis,predict_duration",1.1320948600769043
+1778,"model=bert-base-uncased,i=9,dataset=atis,predict_num_samples",893.0
+1779,"model=bert-base-uncased,i=9,dataset=atis,acc_id_all",0.858902575587906
+1780,"model=bert-base-uncased,i=9,dataset=atis,f1_id_all",0.858902575587906
+1781," model=bert-base-uncased,i=9,dataset=atis,total_duration",179.63163542747498
+1782,"model=distilbert+adapter,i=9,dataset=atis,train_duration",30.746349811553955
+1783,"model=distilbert+adapter,i=9,dataset=atis,train_num_samples",4480.0
+1784,"model=distilbert+adapter,i=9,dataset=atis,acc_id_0",0.9664053751399776
+1785,"model=distilbert+adapter,i=9,dataset=atis,f1_id_0",0.9664053751399776
+1786,"model=distilbert+adapter,i=9,dataset=atis,predict_duration",0.7860839366912842
+1787,"model=distilbert+adapter,i=9,dataset=atis,predict_num_samples",893.0
+1788,"model=distilbert+adapter,i=9,dataset=atis,acc_id_all",0.9664053751399776
+1789,"model=distilbert+adapter,i=9,dataset=atis,f1_id_all",0.9664053751399776
+1790," model=distilbert+adapter,i=9,dataset=atis,total_duration",36.993438959121704
+1791,"model=distilbert-base-uncased,i=9,dataset=atis,train_duration",224.39600563049316
+1792,"model=distilbert-base-uncased,i=9,dataset=atis,train_num_samples",4480.0
+1793,"model=distilbert-base-uncased,i=9,dataset=atis,acc_id_0",0.9720044792833147
+1794,"model=distilbert-base-uncased,i=9,dataset=atis,f1_id_0",0.9720044792833148
+1795,"model=distilbert-base-uncased,i=9,dataset=atis,predict_duration",0.7664399147033691
+1796,"model=distilbert-base-uncased,i=9,dataset=atis,predict_num_samples",893.0
+1797,"model=distilbert-base-uncased,i=9,dataset=atis,acc_id_all",0.9720044792833147
+1798,"model=distilbert-base-uncased,i=9,dataset=atis,f1_id_all",0.9720044792833148
+1799," model=distilbert-base-uncased,i=9,dataset=atis,total_duration",230.61488437652588
+1800,"model=svm,i=0,dataset=banking77,train_duration",2.691411018371582
+1801,"model=svm,i=0,dataset=banking77,train_num_samples",9003.0
+1802,"model=svm,i=0,dataset=banking77,acc_id_0",0.8636363636363636
+1803,"model=svm,i=0,dataset=banking77,f1_id_0",0.8636363636363636
+1804,"model=svm,i=0,dataset=banking77,predict_duration",2.3706085681915283
+1805,"model=svm,i=0,dataset=banking77,predict_num_samples",3080.0
+1806,"model=svm,i=0,dataset=banking77,acc_id_all",0.8636363636363636
+1807,"model=svm,i=0,dataset=banking77,f1_id_all",0.8636363636363636
+1808," model=svm,i=0,dataset=banking77,total_duration",31.181986093521118
+1809,"model=bert+adapter,i=0,dataset=banking77,train_duration",62.99713706970215
+1810,"model=bert+adapter,i=0,dataset=banking77,train_num_samples",9003.0
+1811,"model=bert+adapter,i=0,dataset=banking77,acc_id_0",0.8782467532467533
+1812,"model=bert+adapter,i=0,dataset=banking77,f1_id_0",0.8782467532467532
+1813,"model=bert+adapter,i=0,dataset=banking77,predict_duration",3.955845832824707
+1814,"model=bert+adapter,i=0,dataset=banking77,predict_num_samples",3080.0
+1815,"model=bert+adapter,i=0,dataset=banking77,acc_id_all",0.8782467532467533
+1816,"model=bert+adapter,i=0,dataset=banking77,f1_id_all",0.8782467532467532
+1817," model=bert+adapter,i=0,dataset=banking77,total_duration",72.96588253974915
+1818,"model=bert-base-uncased,i=0,dataset=banking77,train_duration",1176.5516436100006
+1819,"model=bert-base-uncased,i=0,dataset=banking77,train_num_samples",9003.0
+1820,"model=bert-base-uncased,i=0,dataset=banking77,acc_id_0",0.8954545454545455
+1821,"model=bert-base-uncased,i=0,dataset=banking77,f1_id_0",0.8954545454545455
+1822,"model=bert-base-uncased,i=0,dataset=banking77,predict_duration",3.790924310684204
+1823,"model=bert-base-uncased,i=0,dataset=banking77,predict_num_samples",3080.0
+1824,"model=bert-base-uncased,i=0,dataset=banking77,acc_id_all",0.8954545454545455
+1825,"model=bert-base-uncased,i=0,dataset=banking77,f1_id_all",0.8954545454545455
+1826," model=bert-base-uncased,i=0,dataset=banking77,total_duration",1186.3707962036133
+1827,"model=distilbert+adapter,i=0,dataset=banking77,train_duration",36.58161640167236
+1828,"model=distilbert+adapter,i=0,dataset=banking77,train_num_samples",9003.0
+1829,"model=distilbert+adapter,i=0,dataset=banking77,acc_id_0",0.8691558441558441
+1830,"model=distilbert+adapter,i=0,dataset=banking77,f1_id_0",0.8691558441558441
+1831,"model=distilbert+adapter,i=0,dataset=banking77,predict_duration",2.5573246479034424
+1832,"model=distilbert+adapter,i=0,dataset=banking77,predict_num_samples",3080.0
+1833,"model=distilbert+adapter,i=0,dataset=banking77,acc_id_all",0.8691558441558441
+1834,"model=distilbert+adapter,i=0,dataset=banking77,f1_id_all",0.8691558441558441
+1835," model=distilbert+adapter,i=0,dataset=banking77,total_duration",44.541351556777954
+1836,"model=distilbert-base-uncased,i=0,dataset=banking77,train_duration",635.6731419563293
+1837,"model=distilbert-base-uncased,i=0,dataset=banking77,train_num_samples",9003.0
+1838,"model=distilbert-base-uncased,i=0,dataset=banking77,acc_id_0",0.9168831168831169
+1839,"model=distilbert-base-uncased,i=0,dataset=banking77,f1_id_0",0.9168831168831169
+1840,"model=distilbert-base-uncased,i=0,dataset=banking77,predict_duration",2.491332769393921
+1841,"model=distilbert-base-uncased,i=0,dataset=banking77,predict_num_samples",3080.0
+1842,"model=distilbert-base-uncased,i=0,dataset=banking77,acc_id_all",0.9168831168831169
+1843,"model=distilbert-base-uncased,i=0,dataset=banking77,f1_id_all",0.9168831168831169
+1844," model=distilbert-base-uncased,i=0,dataset=banking77,total_duration",643.5997309684753
+1845,"model=svm,i=1,dataset=banking77,train_duration",2.6929590702056885
+1846,"model=svm,i=1,dataset=banking77,train_num_samples",9003.0
+1847,"model=svm,i=1,dataset=banking77,acc_id_0",0.8636363636363636
+1848,"model=svm,i=1,dataset=banking77,f1_id_0",0.8636363636363636
+1849,"model=svm,i=1,dataset=banking77,predict_duration",2.3872642517089844
+1850,"model=svm,i=1,dataset=banking77,predict_num_samples",3080.0
+1851,"model=svm,i=1,dataset=banking77,acc_id_all",0.8636363636363636
+1852,"model=svm,i=1,dataset=banking77,f1_id_all",0.8636363636363636
+1853," model=svm,i=1,dataset=banking77,total_duration",31.178013801574707
+1854,"model=bert+adapter,i=1,dataset=banking77,train_duration",105.00450778007507
+1855,"model=bert+adapter,i=1,dataset=banking77,train_num_samples",9003.0
+1856,"model=bert+adapter,i=1,dataset=banking77,acc_id_0",0.9032467532467533
+1857,"model=bert+adapter,i=1,dataset=banking77,f1_id_0",0.9032467532467533
+1858,"model=bert+adapter,i=1,dataset=banking77,predict_duration",3.946782112121582
+1859,"model=bert+adapter,i=1,dataset=banking77,predict_num_samples",3080.0
+1860,"model=bert+adapter,i=1,dataset=banking77,acc_id_all",0.9032467532467533
+1861,"model=bert+adapter,i=1,dataset=banking77,f1_id_all",0.9032467532467533
+1862," model=bert+adapter,i=1,dataset=banking77,total_duration",114.94688844680786
+1863,"model=bert-base-uncased,i=1,dataset=banking77,train_duration",884.3058042526245
+1864,"model=bert-base-uncased,i=1,dataset=banking77,train_num_samples",9003.0
+1865,"model=bert-base-uncased,i=1,dataset=banking77,acc_id_0",0.8811688311688312
+1866,"model=bert-base-uncased,i=1,dataset=banking77,f1_id_0",0.8811688311688312
+1867,"model=bert-base-uncased,i=1,dataset=banking77,predict_duration",3.79046630859375
+1868,"model=bert-base-uncased,i=1,dataset=banking77,predict_num_samples",3080.0
+1869,"model=bert-base-uncased,i=1,dataset=banking77,acc_id_all",0.8811688311688312
+1870,"model=bert-base-uncased,i=1,dataset=banking77,f1_id_all",0.8811688311688312
+1871," model=bert-base-uncased,i=1,dataset=banking77,total_duration",894.0808708667755
+1872,"model=distilbert+adapter,i=1,dataset=banking77,train_duration",60.90062665939331
+1873,"model=distilbert+adapter,i=1,dataset=banking77,train_num_samples",9003.0
+1874,"model=distilbert+adapter,i=1,dataset=banking77,acc_id_0",0.8821428571428571
+1875,"model=distilbert+adapter,i=1,dataset=banking77,f1_id_0",0.8821428571428571
+1876,"model=distilbert+adapter,i=1,dataset=banking77,predict_duration",2.5782124996185303
+1877,"model=distilbert+adapter,i=1,dataset=banking77,predict_num_samples",3080.0
+1878,"model=distilbert+adapter,i=1,dataset=banking77,acc_id_all",0.8821428571428571
+1879,"model=distilbert+adapter,i=1,dataset=banking77,f1_id_all",0.8821428571428571
+1880," model=distilbert+adapter,i=1,dataset=banking77,total_duration",70.10302519798279
+1881,"model=distilbert-base-uncased,i=1,dataset=banking77,train_duration",618.853841304779
+1882,"model=distilbert-base-uncased,i=1,dataset=banking77,train_num_samples",9003.0
+1883,"model=distilbert-base-uncased,i=1,dataset=banking77,acc_id_0",0.9159090909090909
+1884,"model=distilbert-base-uncased,i=1,dataset=banking77,f1_id_0",0.9159090909090908
+1885,"model=distilbert-base-uncased,i=1,dataset=banking77,predict_duration",2.480537176132202
+1886,"model=distilbert-base-uncased,i=1,dataset=banking77,predict_num_samples",3080.0
+1887,"model=distilbert-base-uncased,i=1,dataset=banking77,acc_id_all",0.9159090909090909
+1888,"model=distilbert-base-uncased,i=1,dataset=banking77,f1_id_all",0.9159090909090908
+1889," model=distilbert-base-uncased,i=1,dataset=banking77,total_duration",626.7959427833557
+1890,"model=svm,i=2,dataset=banking77,train_duration",2.691864490509033
+1891,"model=svm,i=2,dataset=banking77,train_num_samples",9003.0
+1892,"model=svm,i=2,dataset=banking77,acc_id_0",0.8636363636363636
+1893,"model=svm,i=2,dataset=banking77,f1_id_0",0.8636363636363636
+1894,"model=svm,i=2,dataset=banking77,predict_duration",2.3712379932403564
+1895,"model=svm,i=2,dataset=banking77,predict_num_samples",3080.0
+1896,"model=svm,i=2,dataset=banking77,acc_id_all",0.8636363636363636
+1897,"model=svm,i=2,dataset=banking77,f1_id_all",0.8636363636363636
+1898," model=svm,i=2,dataset=banking77,total_duration",31.339741468429565
+1899,"model=bert+adapter,i=2,dataset=banking77,train_duration",105.1271116733551
+1900,"model=bert+adapter,i=2,dataset=banking77,train_num_samples",9003.0
+1901,"model=bert+adapter,i=2,dataset=banking77,acc_id_0",0.897077922077922
+1902,"model=bert+adapter,i=2,dataset=banking77,f1_id_0",0.8970779220779219
+1903,"model=bert+adapter,i=2,dataset=banking77,predict_duration",3.9475557804107666
+1904,"model=bert+adapter,i=2,dataset=banking77,predict_num_samples",3080.0
+1905,"model=bert+adapter,i=2,dataset=banking77,acc_id_all",0.897077922077922
+1906,"model=bert+adapter,i=2,dataset=banking77,f1_id_all",0.8970779220779219
+1907," model=bert+adapter,i=2,dataset=banking77,total_duration",115.02958154678345
+1908,"model=bert-base-uncased,i=2,dataset=banking77,train_duration",882.8423836231232
+1909,"model=bert-base-uncased,i=2,dataset=banking77,train_num_samples",9003.0
+1910,"model=bert-base-uncased,i=2,dataset=banking77,acc_id_0",0.8811688311688312
+1911,"model=bert-base-uncased,i=2,dataset=banking77,f1_id_0",0.8811688311688312
+1912,"model=bert-base-uncased,i=2,dataset=banking77,predict_duration",3.798833131790161
+1913,"model=bert-base-uncased,i=2,dataset=banking77,predict_num_samples",3080.0
+1914,"model=bert-base-uncased,i=2,dataset=banking77,acc_id_all",0.8811688311688312
+1915,"model=bert-base-uncased,i=2,dataset=banking77,f1_id_all",0.8811688311688312
+1916," model=bert-base-uncased,i=2,dataset=banking77,total_duration",892.7472088336945
+1917,"model=distilbert+adapter,i=2,dataset=banking77,train_duration",60.90828847885132
+1918,"model=distilbert+adapter,i=2,dataset=banking77,train_num_samples",9003.0
+1919,"model=distilbert+adapter,i=2,dataset=banking77,acc_id_0",0.8821428571428571
+1920,"model=distilbert+adapter,i=2,dataset=banking77,f1_id_0",0.8821428571428571
+1921,"model=distilbert+adapter,i=2,dataset=banking77,predict_duration",2.57102370262146
+1922,"model=distilbert+adapter,i=2,dataset=banking77,predict_num_samples",3080.0
+1923,"model=distilbert+adapter,i=2,dataset=banking77,acc_id_all",0.8821428571428571
+1924,"model=distilbert+adapter,i=2,dataset=banking77,f1_id_all",0.8821428571428571
+1925," model=distilbert+adapter,i=2,dataset=banking77,total_duration",68.89332222938538
+1926,"model=distilbert-base-uncased,i=2,dataset=banking77,train_duration",618.3555381298065
+1927,"model=distilbert-base-uncased,i=2,dataset=banking77,train_num_samples",9003.0
+1928,"model=distilbert-base-uncased,i=2,dataset=banking77,acc_id_0",0.9159090909090909
+1929,"model=distilbert-base-uncased,i=2,dataset=banking77,f1_id_0",0.9159090909090908
+1930,"model=distilbert-base-uncased,i=2,dataset=banking77,predict_duration",2.5120670795440674
+1931,"model=distilbert-base-uncased,i=2,dataset=banking77,predict_num_samples",3080.0
+1932,"model=distilbert-base-uncased,i=2,dataset=banking77,acc_id_all",0.9159090909090909
+1933,"model=distilbert-base-uncased,i=2,dataset=banking77,f1_id_all",0.9159090909090908
+1934," model=distilbert-base-uncased,i=2,dataset=banking77,total_duration",626.3495314121246
+1935,"model=svm,i=3,dataset=banking77,train_duration",2.691885471343994
+1936,"model=svm,i=3,dataset=banking77,train_num_samples",9003.0
+1937,"model=svm,i=3,dataset=banking77,acc_id_0",0.8636363636363636
+1938,"model=svm,i=3,dataset=banking77,f1_id_0",0.8636363636363636
+1939,"model=svm,i=3,dataset=banking77,predict_duration",2.371004581451416
+1940,"model=svm,i=3,dataset=banking77,predict_num_samples",3080.0
+1941,"model=svm,i=3,dataset=banking77,acc_id_all",0.8636363636363636
+1942,"model=svm,i=3,dataset=banking77,f1_id_all",0.8636363636363636
+1943," model=svm,i=3,dataset=banking77,total_duration",31.105124473571777
+1944,"model=bert+adapter,i=3,dataset=banking77,train_duration",104.8246476650238
+1945,"model=bert+adapter,i=3,dataset=banking77,train_num_samples",9003.0
+1946,"model=bert+adapter,i=3,dataset=banking77,acc_id_0",0.897077922077922
+1947,"model=bert+adapter,i=3,dataset=banking77,f1_id_0",0.8970779220779219
+1948,"model=bert+adapter,i=3,dataset=banking77,predict_duration",3.965726852416992
+1949,"model=bert+adapter,i=3,dataset=banking77,predict_num_samples",3080.0
+1950,"model=bert+adapter,i=3,dataset=banking77,acc_id_all",0.897077922077922
+1951,"model=bert+adapter,i=3,dataset=banking77,f1_id_all",0.8970779220779219
+1952," model=bert+adapter,i=3,dataset=banking77,total_duration",115.42662930488586
+1953,"model=bert-base-uncased,i=3,dataset=banking77,train_duration",886.3512530326843
+1954,"model=bert-base-uncased,i=3,dataset=banking77,train_num_samples",9003.0
+1955,"model=bert-base-uncased,i=3,dataset=banking77,acc_id_0",0.8811688311688312
+1956,"model=bert-base-uncased,i=3,dataset=banking77,f1_id_0",0.8811688311688312
+1957,"model=bert-base-uncased,i=3,dataset=banking77,predict_duration",3.7591474056243896
+1958,"model=bert-base-uncased,i=3,dataset=banking77,predict_num_samples",3080.0
+1959,"model=bert-base-uncased,i=3,dataset=banking77,acc_id_all",0.8811688311688312
+1960,"model=bert-base-uncased,i=3,dataset=banking77,f1_id_all",0.8811688311688312
+1961," model=bert-base-uncased,i=3,dataset=banking77,total_duration",896.0626602172852
+1962,"model=distilbert+adapter,i=3,dataset=banking77,train_duration",61.162336587905884
+1963,"model=distilbert+adapter,i=3,dataset=banking77,train_num_samples",9003.0
+1964,"model=distilbert+adapter,i=3,dataset=banking77,acc_id_0",0.8821428571428571
+1965,"model=distilbert+adapter,i=3,dataset=banking77,f1_id_0",0.8821428571428571
+1966,"model=distilbert+adapter,i=3,dataset=banking77,predict_duration",2.5695838928222656
+1967,"model=distilbert+adapter,i=3,dataset=banking77,predict_num_samples",3080.0
+1968,"model=distilbert+adapter,i=3,dataset=banking77,acc_id_all",0.8821428571428571
+1969,"model=distilbert+adapter,i=3,dataset=banking77,f1_id_all",0.8821428571428571
+1970," model=distilbert+adapter,i=3,dataset=banking77,total_duration",69.23526930809021
+1971,"model=distilbert-base-uncased,i=3,dataset=banking77,train_duration",617.4603927135468
+1972,"model=distilbert-base-uncased,i=3,dataset=banking77,train_num_samples",9003.0
+1973,"model=distilbert-base-uncased,i=3,dataset=banking77,acc_id_0",0.9159090909090909
+1974,"model=distilbert-base-uncased,i=3,dataset=banking77,f1_id_0",0.9159090909090908
+1975,"model=distilbert-base-uncased,i=3,dataset=banking77,predict_duration",2.5388498306274414
+1976,"model=distilbert-base-uncased,i=3,dataset=banking77,predict_num_samples",3080.0
+1977,"model=distilbert-base-uncased,i=3,dataset=banking77,acc_id_all",0.9159090909090909
+1978,"model=distilbert-base-uncased,i=3,dataset=banking77,f1_id_all",0.9159090909090908
+1979," model=distilbert-base-uncased,i=3,dataset=banking77,total_duration",625.4444043636322
+1980,"model=svm,i=4,dataset=banking77,train_duration",2.6868231296539307
+1981,"model=svm,i=4,dataset=banking77,train_num_samples",9003.0
+1982,"model=svm,i=4,dataset=banking77,acc_id_0",0.8636363636363636
+1983,"model=svm,i=4,dataset=banking77,f1_id_0",0.8636363636363636
+1984,"model=svm,i=4,dataset=banking77,predict_duration",2.3585622310638428
+1985,"model=svm,i=4,dataset=banking77,predict_num_samples",3080.0
+1986,"model=svm,i=4,dataset=banking77,acc_id_all",0.8636363636363636
+1987,"model=svm,i=4,dataset=banking77,f1_id_all",0.8636363636363636
+1988," model=svm,i=4,dataset=banking77,total_duration",31.123750686645508
+1989,"model=bert+adapter,i=4,dataset=banking77,train_duration",104.87564849853516
+1990,"model=bert+adapter,i=4,dataset=banking77,train_num_samples",9003.0
+1991,"model=bert+adapter,i=4,dataset=banking77,acc_id_0",0.897077922077922
+1992,"model=bert+adapter,i=4,dataset=banking77,f1_id_0",0.8970779220779219
+1993,"model=bert+adapter,i=4,dataset=banking77,predict_duration",3.942627191543579
+1994,"model=bert+adapter,i=4,dataset=banking77,predict_num_samples",3080.0
+1995,"model=bert+adapter,i=4,dataset=banking77,acc_id_all",0.897077922077922
+1996,"model=bert+adapter,i=4,dataset=banking77,f1_id_all",0.8970779220779219
+1997," model=bert+adapter,i=4,dataset=banking77,total_duration",114.86886811256409
+1998,"model=bert-base-uncased,i=4,dataset=banking77,train_duration",880.5271496772766
+1999,"model=bert-base-uncased,i=4,dataset=banking77,train_num_samples",9003.0
+2000,"model=bert-base-uncased,i=4,dataset=banking77,acc_id_0",0.8811688311688312
+2001,"model=bert-base-uncased,i=4,dataset=banking77,f1_id_0",0.8811688311688312
+2002,"model=bert-base-uncased,i=4,dataset=banking77,predict_duration",3.791375160217285
+2003,"model=bert-base-uncased,i=4,dataset=banking77,predict_num_samples",3080.0
+2004,"model=bert-base-uncased,i=4,dataset=banking77,acc_id_all",0.8811688311688312
+2005,"model=bert-base-uncased,i=4,dataset=banking77,f1_id_all",0.8811688311688312
+2006," model=bert-base-uncased,i=4,dataset=banking77,total_duration",890.3314554691315
+2007,"model=distilbert+adapter,i=4,dataset=banking77,train_duration",60.62598490715027
+2008,"model=distilbert+adapter,i=4,dataset=banking77,train_num_samples",9003.0
+2009,"model=distilbert+adapter,i=4,dataset=banking77,acc_id_0",0.8821428571428571
+2010,"model=distilbert+adapter,i=4,dataset=banking77,f1_id_0",0.8821428571428571
+2011,"model=distilbert+adapter,i=4,dataset=banking77,predict_duration",2.563058614730835
+2012,"model=distilbert+adapter,i=4,dataset=banking77,predict_num_samples",3080.0
+2013,"model=distilbert+adapter,i=4,dataset=banking77,acc_id_all",0.8821428571428571
+2014,"model=distilbert+adapter,i=4,dataset=banking77,f1_id_all",0.8821428571428571
+2015," model=distilbert+adapter,i=4,dataset=banking77,total_duration",68.54689741134644
+2016,"model=distilbert-base-uncased,i=4,dataset=banking77,train_duration",617.0188431739807
+2017,"model=distilbert-base-uncased,i=4,dataset=banking77,train_num_samples",9003.0
+2018,"model=distilbert-base-uncased,i=4,dataset=banking77,acc_id_0",0.9159090909090909
+2019,"model=distilbert-base-uncased,i=4,dataset=banking77,f1_id_0",0.9159090909090908
+2020,"model=distilbert-base-uncased,i=4,dataset=banking77,predict_duration",2.4829838275909424
+2021,"model=distilbert-base-uncased,i=4,dataset=banking77,predict_num_samples",3080.0
+2022,"model=distilbert-base-uncased,i=4,dataset=banking77,acc_id_all",0.9159090909090909
+2023,"model=distilbert-base-uncased,i=4,dataset=banking77,f1_id_all",0.9159090909090908
+2024," model=distilbert-base-uncased,i=4,dataset=banking77,total_duration",624.9615910053253
+2025,"model=svm,i=5,dataset=banking77,train_duration",2.686316967010498
+2026,"model=svm,i=5,dataset=banking77,train_num_samples",9003.0
+2027,"model=svm,i=5,dataset=banking77,acc_id_0",0.8636363636363636
+2028,"model=svm,i=5,dataset=banking77,f1_id_0",0.8636363636363636
+2029,"model=svm,i=5,dataset=banking77,predict_duration",2.373652696609497
+2030,"model=svm,i=5,dataset=banking77,predict_num_samples",3080.0
+2031,"model=svm,i=5,dataset=banking77,acc_id_all",0.8636363636363636
+2032,"model=svm,i=5,dataset=banking77,f1_id_all",0.8636363636363636
+2033," model=svm,i=5,dataset=banking77,total_duration",30.994961977005005
+2034,"model=bert+adapter,i=5,dataset=banking77,train_duration",104.63809132575989
+2035,"model=bert+adapter,i=5,dataset=banking77,train_num_samples",9003.0
+2036,"model=bert+adapter,i=5,dataset=banking77,acc_id_0",0.897077922077922
+2037,"model=bert+adapter,i=5,dataset=banking77,f1_id_0",0.8970779220779219
+2038,"model=bert+adapter,i=5,dataset=banking77,predict_duration",3.9465103149414062
+2039,"model=bert+adapter,i=5,dataset=banking77,predict_num_samples",3080.0
+2040,"model=bert+adapter,i=5,dataset=banking77,acc_id_all",0.897077922077922
+2041,"model=bert+adapter,i=5,dataset=banking77,f1_id_all",0.8970779220779219
+2042," model=bert+adapter,i=5,dataset=banking77,total_duration",114.59097146987915
+2043,"model=bert-base-uncased,i=5,dataset=banking77,train_duration",883.7818078994751
+2044,"model=bert-base-uncased,i=5,dataset=banking77,train_num_samples",9003.0
+2045,"model=bert-base-uncased,i=5,dataset=banking77,acc_id_0",0.8811688311688312
+2046,"model=bert-base-uncased,i=5,dataset=banking77,f1_id_0",0.8811688311688312
+2047,"model=bert-base-uncased,i=5,dataset=banking77,predict_duration",3.786578416824341
+2048,"model=bert-base-uncased,i=5,dataset=banking77,predict_num_samples",3080.0
+2049,"model=bert-base-uncased,i=5,dataset=banking77,acc_id_all",0.8811688311688312
+2050,"model=bert-base-uncased,i=5,dataset=banking77,f1_id_all",0.8811688311688312
+2051," model=bert-base-uncased,i=5,dataset=banking77,total_duration",893.5856351852417
+2052,"model=distilbert+adapter,i=5,dataset=banking77,train_duration",60.72545671463013
+2053,"model=distilbert+adapter,i=5,dataset=banking77,train_num_samples",9003.0
+2054,"model=distilbert+adapter,i=5,dataset=banking77,acc_id_0",0.8821428571428571
+2055,"model=distilbert+adapter,i=5,dataset=banking77,f1_id_0",0.8821428571428571
+2056,"model=distilbert+adapter,i=5,dataset=banking77,predict_duration",2.5483405590057373
+2057,"model=distilbert+adapter,i=5,dataset=banking77,predict_num_samples",3080.0
+2058,"model=distilbert+adapter,i=5,dataset=banking77,acc_id_all",0.8821428571428571
+2059,"model=distilbert+adapter,i=5,dataset=banking77,f1_id_all",0.8821428571428571
+2060," model=distilbert+adapter,i=5,dataset=banking77,total_duration",68.61768555641174
+2061,"model=distilbert-base-uncased,i=5,dataset=banking77,train_duration",614.0879559516907
+2062,"model=distilbert-base-uncased,i=5,dataset=banking77,train_num_samples",9003.0
+2063,"model=distilbert-base-uncased,i=5,dataset=banking77,acc_id_0",0.9159090909090909
+2064,"model=distilbert-base-uncased,i=5,dataset=banking77,f1_id_0",0.9159090909090908
+2065,"model=distilbert-base-uncased,i=5,dataset=banking77,predict_duration",2.4830620288848877
+2066,"model=distilbert-base-uncased,i=5,dataset=banking77,predict_num_samples",3080.0
+2067,"model=distilbert-base-uncased,i=5,dataset=banking77,acc_id_all",0.9159090909090909
+2068,"model=distilbert-base-uncased,i=5,dataset=banking77,f1_id_all",0.9159090909090908
+2069," model=distilbert-base-uncased,i=5,dataset=banking77,total_duration",621.937052488327
+2070,"model=svm,i=6,dataset=banking77,train_duration",2.6820218563079834
+2071,"model=svm,i=6,dataset=banking77,train_num_samples",9003.0
+2072,"model=svm,i=6,dataset=banking77,acc_id_0",0.8636363636363636
+2073,"model=svm,i=6,dataset=banking77,f1_id_0",0.8636363636363636
+2074,"model=svm,i=6,dataset=banking77,predict_duration",2.368636131286621
+2075,"model=svm,i=6,dataset=banking77,predict_num_samples",3080.0
+2076,"model=svm,i=6,dataset=banking77,acc_id_all",0.8636363636363636
+2077,"model=svm,i=6,dataset=banking77,f1_id_all",0.8636363636363636
+2078," model=svm,i=6,dataset=banking77,total_duration",30.811567544937134
+2079,"model=bert+adapter,i=6,dataset=banking77,train_duration",104.34316086769104
+2080,"model=bert+adapter,i=6,dataset=banking77,train_num_samples",9003.0
+2081,"model=bert+adapter,i=6,dataset=banking77,acc_id_0",0.897077922077922
+2082,"model=bert+adapter,i=6,dataset=banking77,f1_id_0",0.8970779220779219
+2083,"model=bert+adapter,i=6,dataset=banking77,predict_duration",3.927475690841675
+2084,"model=bert+adapter,i=6,dataset=banking77,predict_num_samples",3080.0
+2085,"model=bert+adapter,i=6,dataset=banking77,acc_id_all",0.897077922077922
+2086,"model=bert+adapter,i=6,dataset=banking77,f1_id_all",0.8970779220779219
+2087," model=bert+adapter,i=6,dataset=banking77,total_duration",114.25783562660217
+2088,"model=bert-base-uncased,i=6,dataset=banking77,train_duration",879.2804391384125
+2089,"model=bert-base-uncased,i=6,dataset=banking77,train_num_samples",9003.0
+2090,"model=bert-base-uncased,i=6,dataset=banking77,acc_id_0",0.8811688311688312
+2091,"model=bert-base-uncased,i=6,dataset=banking77,f1_id_0",0.8811688311688312
+2092,"model=bert-base-uncased,i=6,dataset=banking77,predict_duration",3.7577767372131348
+2093,"model=bert-base-uncased,i=6,dataset=banking77,predict_num_samples",3080.0
+2094,"model=bert-base-uncased,i=6,dataset=banking77,acc_id_all",0.8811688311688312
+2095,"model=bert-base-uncased,i=6,dataset=banking77,f1_id_all",0.8811688311688312
+2096," model=bert-base-uncased,i=6,dataset=banking77,total_duration",889.049998998642
+2097,"model=distilbert+adapter,i=6,dataset=banking77,train_duration",60.540000915527344
+2098,"model=distilbert+adapter,i=6,dataset=banking77,train_num_samples",9003.0
+2099,"model=distilbert+adapter,i=6,dataset=banking77,acc_id_0",0.8821428571428571
+2100,"model=distilbert+adapter,i=6,dataset=banking77,f1_id_0",0.8821428571428571
+2101,"model=distilbert+adapter,i=6,dataset=banking77,predict_duration",2.5418810844421387
+2102,"model=distilbert+adapter,i=6,dataset=banking77,predict_num_samples",3080.0
+2103,"model=distilbert+adapter,i=6,dataset=banking77,acc_id_all",0.8821428571428571
+2104,"model=distilbert+adapter,i=6,dataset=banking77,f1_id_all",0.8821428571428571
+2105," model=distilbert+adapter,i=6,dataset=banking77,total_duration",68.57274174690247
+2106,"model=distilbert-base-uncased,i=6,dataset=banking77,train_duration",614.1063520908356
+2107,"model=distilbert-base-uncased,i=6,dataset=banking77,train_num_samples",9003.0
+2108,"model=distilbert-base-uncased,i=6,dataset=banking77,acc_id_0",0.9159090909090909
+2109,"model=distilbert-base-uncased,i=6,dataset=banking77,f1_id_0",0.9159090909090908
+2110,"model=distilbert-base-uncased,i=6,dataset=banking77,predict_duration",2.499495506286621
+2111,"model=distilbert-base-uncased,i=6,dataset=banking77,predict_num_samples",3080.0
+2112,"model=distilbert-base-uncased,i=6,dataset=banking77,acc_id_all",0.9159090909090909
+2113,"model=distilbert-base-uncased,i=6,dataset=banking77,f1_id_all",0.9159090909090908
+2114," model=distilbert-base-uncased,i=6,dataset=banking77,total_duration",621.9786570072174
+2115,"model=svm,i=7,dataset=banking77,train_duration",2.6817965507507324
+2116,"model=svm,i=7,dataset=banking77,train_num_samples",9003.0
+2117,"model=svm,i=7,dataset=banking77,acc_id_0",0.8636363636363636
+2118,"model=svm,i=7,dataset=banking77,f1_id_0",0.8636363636363636
+2119,"model=svm,i=7,dataset=banking77,predict_duration",2.367133617401123
+2120,"model=svm,i=7,dataset=banking77,predict_num_samples",3080.0
+2121,"model=svm,i=7,dataset=banking77,acc_id_all",0.8636363636363636
+2122,"model=svm,i=7,dataset=banking77,f1_id_all",0.8636363636363636
+2123," model=svm,i=7,dataset=banking77,total_duration",30.784603357315063
+2124,"model=bert+adapter,i=7,dataset=banking77,train_duration",104.57254195213318
+2125,"model=bert+adapter,i=7,dataset=banking77,train_num_samples",9003.0
+2126,"model=bert+adapter,i=7,dataset=banking77,acc_id_0",0.897077922077922
+2127,"model=bert+adapter,i=7,dataset=banking77,f1_id_0",0.8970779220779219
+2128,"model=bert+adapter,i=7,dataset=banking77,predict_duration",3.936955213546753
+2129,"model=bert+adapter,i=7,dataset=banking77,predict_num_samples",3080.0
+2130,"model=bert+adapter,i=7,dataset=banking77,acc_id_all",0.897077922077922
+2131,"model=bert+adapter,i=7,dataset=banking77,f1_id_all",0.8970779220779219
+2132," model=bert+adapter,i=7,dataset=banking77,total_duration",114.62600231170654
+2133,"model=bert-base-uncased,i=7,dataset=banking77,train_duration",877.7574346065521
+2134,"model=bert-base-uncased,i=7,dataset=banking77,train_num_samples",9003.0
+2135,"model=bert-base-uncased,i=7,dataset=banking77,acc_id_0",0.8811688311688312
+2136,"model=bert-base-uncased,i=7,dataset=banking77,f1_id_0",0.8811688311688312
+2137,"model=bert-base-uncased,i=7,dataset=banking77,predict_duration",3.764091730117798
+2138,"model=bert-base-uncased,i=7,dataset=banking77,predict_num_samples",3080.0
+2139,"model=bert-base-uncased,i=7,dataset=banking77,acc_id_all",0.8811688311688312
+2140,"model=bert-base-uncased,i=7,dataset=banking77,f1_id_all",0.8811688311688312
+2141," model=bert-base-uncased,i=7,dataset=banking77,total_duration",887.5635969638824
+2142,"model=distilbert+adapter,i=7,dataset=banking77,train_duration",60.45107913017273
+2143,"model=distilbert+adapter,i=7,dataset=banking77,train_num_samples",9003.0
+2144,"model=distilbert+adapter,i=7,dataset=banking77,acc_id_0",0.8821428571428571
+2145,"model=distilbert+adapter,i=7,dataset=banking77,f1_id_0",0.8821428571428571
+2146,"model=distilbert+adapter,i=7,dataset=banking77,predict_duration",2.5513463020324707
+2147,"model=distilbert+adapter,i=7,dataset=banking77,predict_num_samples",3080.0
+2148,"model=distilbert+adapter,i=7,dataset=banking77,acc_id_all",0.8821428571428571
+2149,"model=distilbert+adapter,i=7,dataset=banking77,f1_id_all",0.8821428571428571
+2150," model=distilbert+adapter,i=7,dataset=banking77,total_duration",68.3798246383667
+2151,"model=distilbert-base-uncased,i=7,dataset=banking77,train_duration",614.811420917511
+2152,"model=distilbert-base-uncased,i=7,dataset=banking77,train_num_samples",9003.0
+2153,"model=distilbert-base-uncased,i=7,dataset=banking77,acc_id_0",0.9159090909090909
+2154,"model=distilbert-base-uncased,i=7,dataset=banking77,f1_id_0",0.9159090909090908
+2155,"model=distilbert-base-uncased,i=7,dataset=banking77,predict_duration",2.4475882053375244
+2156,"model=distilbert-base-uncased,i=7,dataset=banking77,predict_num_samples",3080.0
+2157,"model=distilbert-base-uncased,i=7,dataset=banking77,acc_id_all",0.9159090909090909
+2158,"model=distilbert-base-uncased,i=7,dataset=banking77,f1_id_all",0.9159090909090908
+2159," model=distilbert-base-uncased,i=7,dataset=banking77,total_duration",622.6732931137085
+2160,"model=svm,i=8,dataset=banking77,train_duration",2.6859726905822754
+2161,"model=svm,i=8,dataset=banking77,train_num_samples",9003.0
+2162,"model=svm,i=8,dataset=banking77,acc_id_0",0.8636363636363636
+2163,"model=svm,i=8,dataset=banking77,f1_id_0",0.8636363636363636
+2164,"model=svm,i=8,dataset=banking77,predict_duration",2.3825671672821045
+2165,"model=svm,i=8,dataset=banking77,predict_num_samples",3080.0
+2166,"model=svm,i=8,dataset=banking77,acc_id_all",0.8636363636363636
+2167,"model=svm,i=8,dataset=banking77,f1_id_all",0.8636363636363636
+2168," model=svm,i=8,dataset=banking77,total_duration",30.877083778381348
+2169,"model=bert+adapter,i=8,dataset=banking77,train_duration",104.43977570533752
+2170,"model=bert+adapter,i=8,dataset=banking77,train_num_samples",9003.0
+2171,"model=bert+adapter,i=8,dataset=banking77,acc_id_0",0.897077922077922
+2172,"model=bert+adapter,i=8,dataset=banking77,f1_id_0",0.8970779220779219
+2173,"model=bert+adapter,i=8,dataset=banking77,predict_duration",3.932246446609497
+2174,"model=bert+adapter,i=8,dataset=banking77,predict_num_samples",3080.0
+2175,"model=bert+adapter,i=8,dataset=banking77,acc_id_all",0.897077922077922
+2176,"model=bert+adapter,i=8,dataset=banking77,f1_id_all",0.8970779220779219
+2177," model=bert+adapter,i=8,dataset=banking77,total_duration",114.38658142089844
+2178,"model=bert-base-uncased,i=8,dataset=banking77,train_duration",878.6879525184631
+2179,"model=bert-base-uncased,i=8,dataset=banking77,train_num_samples",9003.0
+2180,"model=bert-base-uncased,i=8,dataset=banking77,acc_id_0",0.8811688311688312
+2181,"model=bert-base-uncased,i=8,dataset=banking77,f1_id_0",0.8811688311688312
+2182,"model=bert-base-uncased,i=8,dataset=banking77,predict_duration",3.726270914077759
+2183,"model=bert-base-uncased,i=8,dataset=banking77,predict_num_samples",3080.0
+2184,"model=bert-base-uncased,i=8,dataset=banking77,acc_id_all",0.8811688311688312
+2185,"model=bert-base-uncased,i=8,dataset=banking77,f1_id_all",0.8811688311688312
+2186," model=bert-base-uncased,i=8,dataset=banking77,total_duration",888.4352564811707
+2187,"model=distilbert+adapter,i=8,dataset=banking77,train_duration",60.40013885498047
+2188,"model=distilbert+adapter,i=8,dataset=banking77,train_num_samples",9003.0
+2189,"model=distilbert+adapter,i=8,dataset=banking77,acc_id_0",0.8821428571428571
+2190,"model=distilbert+adapter,i=8,dataset=banking77,f1_id_0",0.8821428571428571
+2191,"model=distilbert+adapter,i=8,dataset=banking77,predict_duration",2.5506701469421387
+2192,"model=distilbert+adapter,i=8,dataset=banking77,predict_num_samples",3080.0
+2193,"model=distilbert+adapter,i=8,dataset=banking77,acc_id_all",0.8821428571428571
+2194,"model=distilbert+adapter,i=8,dataset=banking77,f1_id_all",0.8821428571428571
+2195," model=distilbert+adapter,i=8,dataset=banking77,total_duration",68.44209551811218
+2196,"model=distilbert-base-uncased,i=8,dataset=banking77,train_duration",615.7288043498993
+2197,"model=distilbert-base-uncased,i=8,dataset=banking77,train_num_samples",9003.0
+2198,"model=distilbert-base-uncased,i=8,dataset=banking77,acc_id_0",0.9159090909090909
+2199,"model=distilbert-base-uncased,i=8,dataset=banking77,f1_id_0",0.9159090909090908
+2200,"model=distilbert-base-uncased,i=8,dataset=banking77,predict_duration",2.416536331176758
+2201,"model=distilbert-base-uncased,i=8,dataset=banking77,predict_num_samples",3080.0
+2202,"model=distilbert-base-uncased,i=8,dataset=banking77,acc_id_all",0.9159090909090909
+2203,"model=distilbert-base-uncased,i=8,dataset=banking77,f1_id_all",0.9159090909090908
+2204," model=distilbert-base-uncased,i=8,dataset=banking77,total_duration",623.8670151233673
+2205,"model=svm,i=9,dataset=banking77,train_duration",2.704652786254883
+2206,"model=svm,i=9,dataset=banking77,train_num_samples",9003.0
+2207,"model=svm,i=9,dataset=banking77,acc_id_0",0.8636363636363636
+2208,"model=svm,i=9,dataset=banking77,f1_id_0",0.8636363636363636
+2209,"model=svm,i=9,dataset=banking77,predict_duration",2.3755130767822266
+2210,"model=svm,i=9,dataset=banking77,predict_num_samples",3080.0
+2211,"model=svm,i=9,dataset=banking77,acc_id_all",0.8636363636363636
+2212,"model=svm,i=9,dataset=banking77,f1_id_all",0.8636363636363636
+2213," model=svm,i=9,dataset=banking77,total_duration",31.122469425201416
+2214,"model=bert+adapter,i=9,dataset=banking77,train_duration",104.38053774833679
+2215,"model=bert+adapter,i=9,dataset=banking77,train_num_samples",9003.0
+2216,"model=bert+adapter,i=9,dataset=banking77,acc_id_0",0.897077922077922
+2217,"model=bert+adapter,i=9,dataset=banking77,f1_id_0",0.8970779220779219
+2218,"model=bert+adapter,i=9,dataset=banking77,predict_duration",3.9788830280303955
+2219,"model=bert+adapter,i=9,dataset=banking77,predict_num_samples",3080.0
+2220,"model=bert+adapter,i=9,dataset=banking77,acc_id_all",0.897077922077922
+2221,"model=bert+adapter,i=9,dataset=banking77,f1_id_all",0.8970779220779219
+2222," model=bert+adapter,i=9,dataset=banking77,total_duration",115.62028121948242
+2223,"model=bert-base-uncased,i=9,dataset=banking77,train_duration",896.2697541713715
+2224,"model=bert-base-uncased,i=9,dataset=banking77,train_num_samples",9003.0
+2225,"model=bert-base-uncased,i=9,dataset=banking77,acc_id_0",0.8811688311688312
+2226,"model=bert-base-uncased,i=9,dataset=banking77,f1_id_0",0.8811688311688312
+2227,"model=bert-base-uncased,i=9,dataset=banking77,predict_duration",3.8200767040252686
+2228,"model=bert-base-uncased,i=9,dataset=banking77,predict_num_samples",3080.0
+2229,"model=bert-base-uncased,i=9,dataset=banking77,acc_id_all",0.8811688311688312
+2230,"model=bert-base-uncased,i=9,dataset=banking77,f1_id_all",0.8811688311688312
+2231," model=bert-base-uncased,i=9,dataset=banking77,total_duration",906.1070816516876
+2232,"model=distilbert+adapter,i=9,dataset=banking77,train_duration",62.06707692146301
+2233,"model=distilbert+adapter,i=9,dataset=banking77,train_num_samples",9003.0
+2234,"model=distilbert+adapter,i=9,dataset=banking77,acc_id_0",0.8821428571428571
+2235,"model=distilbert+adapter,i=9,dataset=banking77,f1_id_0",0.8821428571428571
+2236,"model=distilbert+adapter,i=9,dataset=banking77,predict_duration",2.632568597793579
+2237,"model=distilbert+adapter,i=9,dataset=banking77,predict_num_samples",3080.0
+2238,"model=distilbert+adapter,i=9,dataset=banking77,acc_id_all",0.8821428571428571
+2239,"model=distilbert+adapter,i=9,dataset=banking77,f1_id_all",0.8821428571428571
+2240," model=distilbert+adapter,i=9,dataset=banking77,total_duration",70.94568657875061
+2241,"model=distilbert-base-uncased,i=9,dataset=banking77,train_duration",629.4133145809174
+2242,"model=distilbert-base-uncased,i=9,dataset=banking77,train_num_samples",9003.0
+2243,"model=distilbert-base-uncased,i=9,dataset=banking77,acc_id_0",0.9159090909090909
+2244,"model=distilbert-base-uncased,i=9,dataset=banking77,f1_id_0",0.9159090909090908
+2245,"model=distilbert-base-uncased,i=9,dataset=banking77,predict_duration",2.515120029449463
+2246,"model=distilbert-base-uncased,i=9,dataset=banking77,predict_num_samples",3080.0
+2247,"model=distilbert-base-uncased,i=9,dataset=banking77,acc_id_all",0.9159090909090909
+2248,"model=distilbert-base-uncased,i=9,dataset=banking77,f1_id_all",0.9159090909090908
+2249," model=distilbert-base-uncased,i=9,dataset=banking77,total_duration",637.409656047821

@@ -1,0 +1,415 @@
+,key,value
+0,"model=bert,learning_rate=1e-05,batch_size=8,train_duration",375.91646003723145
+1,"model=bert,learning_rate=1e-05,batch_size=8,train_num_samples",8954.0
+2,"model=bert,learning_rate=1e-05,batch_size=8,acc_id_0",0.8680297397769516
+3,"model=bert,learning_rate=1e-05,batch_size=8,f1_id_0",0.8680297397769516
+4,"model=bert,learning_rate=1e-05,batch_size=8,predict_duration",0.6277446746826172
+5,"model=bert,learning_rate=1e-05,batch_size=8,predict_num_samples",1076.0
+6,"model=bert,learning_rate=1e-05,batch_size=8,acc_id_all",0.8680297397769516
+7,"model=bert,learning_rate=1e-05,batch_size=8,f1_id_all",0.8680297397769516
+8," model=bert,learning_rate=1e-05,batch_size=8,total_duration",383.27570509910583
+9,"model=bert,learning_rate=3e-05,batch_size=8,train_duration",322.16067910194397
+10,"model=bert,learning_rate=3e-05,batch_size=8,train_num_samples",8954.0
+11,"model=bert,learning_rate=3e-05,batch_size=8,acc_id_0",0.862453531598513
+12,"model=bert,learning_rate=3e-05,batch_size=8,f1_id_0",0.862453531598513
+13,"model=bert,learning_rate=3e-05,batch_size=8,predict_duration",0.6312556266784668
+14,"model=bert,learning_rate=3e-05,batch_size=8,predict_num_samples",1076.0
+15,"model=bert,learning_rate=3e-05,batch_size=8,acc_id_all",0.862453531598513
+16,"model=bert,learning_rate=3e-05,batch_size=8,f1_id_all",0.862453531598513
+17," model=bert,learning_rate=3e-05,batch_size=8,total_duration",328.28930401802063
+18,"model=bert,learning_rate=5e-05,batch_size=8,train_duration",160.1623077392578
+19,"model=bert,learning_rate=5e-05,batch_size=8,train_num_samples",8954.0
+20,"model=bert,learning_rate=5e-05,batch_size=8,acc_id_0",0.017657992565055763
+21,"model=bert,learning_rate=5e-05,batch_size=8,f1_id_0",0.017657992565055763
+22,"model=bert,learning_rate=5e-05,batch_size=8,predict_duration",0.6292939186096191
+23,"model=bert,learning_rate=5e-05,batch_size=8,predict_num_samples",1076.0
+24,"model=bert,learning_rate=5e-05,batch_size=8,acc_id_all",0.017657992565055763
+25,"model=bert,learning_rate=5e-05,batch_size=8,f1_id_all",0.017657992565055763
+26," model=bert,learning_rate=5e-05,batch_size=8,total_duration",166.23583221435547
+27,"model=bert,learning_rate=1e-05,batch_size=16,train_duration",279.0629012584686
+28,"model=bert,learning_rate=1e-05,batch_size=16,train_num_samples",8954.0
+29,"model=bert,learning_rate=1e-05,batch_size=16,acc_id_0",0.8763940520446096
+30,"model=bert,learning_rate=1e-05,batch_size=16,f1_id_0",0.8763940520446096
+31,"model=bert,learning_rate=1e-05,batch_size=16,predict_duration",0.6322972774505615
+32,"model=bert,learning_rate=1e-05,batch_size=16,predict_num_samples",1076.0
+33,"model=bert,learning_rate=1e-05,batch_size=16,acc_id_all",0.8763940520446096
+34,"model=bert,learning_rate=1e-05,batch_size=16,f1_id_all",0.8763940520446096
+35," model=bert,learning_rate=1e-05,batch_size=16,total_duration",285.1601538658142
+36,"model=bert,learning_rate=3e-05,batch_size=16,train_duration",186.212562084198
+37,"model=bert,learning_rate=3e-05,batch_size=16,train_num_samples",8954.0
+38,"model=bert,learning_rate=3e-05,batch_size=16,acc_id_0",0.8698884758364313
+39,"model=bert,learning_rate=3e-05,batch_size=16,f1_id_0",0.8698884758364313
+40,"model=bert,learning_rate=3e-05,batch_size=16,predict_duration",0.6275386810302734
+41,"model=bert,learning_rate=3e-05,batch_size=16,predict_num_samples",1076.0
+42,"model=bert,learning_rate=3e-05,batch_size=16,acc_id_all",0.8698884758364313
+43,"model=bert,learning_rate=3e-05,batch_size=16,f1_id_all",0.8698884758364313
+44," model=bert,learning_rate=3e-05,batch_size=16,total_duration",192.3283863067627
+45,"model=bert,learning_rate=5e-05,batch_size=16,train_duration",217.76742672920227
+46,"model=bert,learning_rate=5e-05,batch_size=16,train_num_samples",8954.0
+47,"model=bert,learning_rate=5e-05,batch_size=16,acc_id_0",0.8271375464684015
+48,"model=bert,learning_rate=5e-05,batch_size=16,f1_id_0",0.8271375464684015
+49,"model=bert,learning_rate=5e-05,batch_size=16,predict_duration",0.6293773651123047
+50,"model=bert,learning_rate=5e-05,batch_size=16,predict_num_samples",1076.0
+51,"model=bert,learning_rate=5e-05,batch_size=16,acc_id_all",0.8271375464684015
+52,"model=bert,learning_rate=5e-05,batch_size=16,f1_id_all",0.8271375464684015
+53," model=bert,learning_rate=5e-05,batch_size=16,total_duration",224.19244599342346
+54,"model=bert,learning_rate=1e-05,batch_size=32,train_duration",270.2487225532532
+55,"model=bert,learning_rate=1e-05,batch_size=32,train_num_samples",8954.0
+56,"model=bert,learning_rate=1e-05,batch_size=32,acc_id_0",0.8847583643122676
+57,"model=bert,learning_rate=1e-05,batch_size=32,f1_id_0",0.8847583643122676
+58,"model=bert,learning_rate=1e-05,batch_size=32,predict_duration",0.6284205913543701
+59,"model=bert,learning_rate=1e-05,batch_size=32,predict_num_samples",1076.0
+60,"model=bert,learning_rate=1e-05,batch_size=32,acc_id_all",0.8847583643122676
+61,"model=bert,learning_rate=1e-05,batch_size=32,f1_id_all",0.8847583643122676
+62," model=bert,learning_rate=1e-05,batch_size=32,total_duration",276.53166151046753
+63,"model=bert,learning_rate=3e-05,batch_size=32,train_duration",103.93347907066345
+64,"model=bert,learning_rate=3e-05,batch_size=32,train_num_samples",8954.0
+65,"model=bert,learning_rate=3e-05,batch_size=32,acc_id_0",0.8568773234200744
+66,"model=bert,learning_rate=3e-05,batch_size=32,f1_id_0",0.8568773234200745
+67,"model=bert,learning_rate=3e-05,batch_size=32,predict_duration",0.6333913803100586
+68,"model=bert,learning_rate=3e-05,batch_size=32,predict_num_samples",1076.0
+69,"model=bert,learning_rate=3e-05,batch_size=32,acc_id_all",0.8568773234200744
+70,"model=bert,learning_rate=3e-05,batch_size=32,f1_id_all",0.8568773234200745
+71," model=bert,learning_rate=3e-05,batch_size=32,total_duration",110.0287938117981
+72,"model=bert,learning_rate=5e-05,batch_size=32,train_duration",125.07830667495728
+73,"model=bert,learning_rate=5e-05,batch_size=32,train_num_samples",8954.0
+74,"model=bert,learning_rate=5e-05,batch_size=32,acc_id_0",0.8364312267657993
+75,"model=bert,learning_rate=5e-05,batch_size=32,f1_id_0",0.8364312267657993
+76,"model=bert,learning_rate=5e-05,batch_size=32,predict_duration",0.6343226432800293
+77,"model=bert,learning_rate=5e-05,batch_size=32,predict_num_samples",1076.0
+78,"model=bert,learning_rate=5e-05,batch_size=32,acc_id_all",0.8364312267657993
+79,"model=bert,learning_rate=5e-05,batch_size=32,f1_id_all",0.8364312267657993
+80," model=bert,learning_rate=5e-05,batch_size=32,total_duration",131.18110179901123
+81,"model=bert,learning_rate=1e-05,batch_size=64,train_duration",263.6691520214081
+82,"model=bert,learning_rate=1e-05,batch_size=64,train_num_samples",8954.0
+83,"model=bert,learning_rate=1e-05,batch_size=64,acc_id_0",0.8866171003717472
+84,"model=bert,learning_rate=1e-05,batch_size=64,f1_id_0",0.8866171003717472
+85,"model=bert,learning_rate=1e-05,batch_size=64,predict_duration",0.6291482448577881
+86,"model=bert,learning_rate=1e-05,batch_size=64,predict_num_samples",1076.0
+87,"model=bert,learning_rate=1e-05,batch_size=64,acc_id_all",0.8866171003717472
+88,"model=bert,learning_rate=1e-05,batch_size=64,f1_id_all",0.8866171003717472
+89," model=bert,learning_rate=1e-05,batch_size=64,total_duration",269.8643400669098
+90,"model=bert,learning_rate=3e-05,batch_size=64,train_duration",122.67385768890381
+91,"model=bert,learning_rate=3e-05,batch_size=64,train_num_samples",8954.0
+92,"model=bert,learning_rate=3e-05,batch_size=64,acc_id_0",0.8717472118959108
+93,"model=bert,learning_rate=3e-05,batch_size=64,f1_id_0",0.8717472118959108
+94,"model=bert,learning_rate=3e-05,batch_size=64,predict_duration",0.6262876987457275
+95,"model=bert,learning_rate=3e-05,batch_size=64,predict_num_samples",1076.0
+96,"model=bert,learning_rate=3e-05,batch_size=64,acc_id_all",0.8717472118959108
+97,"model=bert,learning_rate=3e-05,batch_size=64,f1_id_all",0.8717472118959108
+98," model=bert,learning_rate=3e-05,batch_size=64,total_duration",128.80166244506836
+99,"model=bert,learning_rate=5e-05,batch_size=64,train_duration",87.15441656112671
+100,"model=bert,learning_rate=5e-05,batch_size=64,train_num_samples",8954.0
+101,"model=bert,learning_rate=5e-05,batch_size=64,acc_id_0",0.870817843866171
+102,"model=bert,learning_rate=5e-05,batch_size=64,f1_id_0",0.870817843866171
+103,"model=bert,learning_rate=5e-05,batch_size=64,predict_duration",0.6313045024871826
+104,"model=bert,learning_rate=5e-05,batch_size=64,predict_num_samples",1076.0
+105,"model=bert,learning_rate=5e-05,batch_size=64,acc_id_all",0.870817843866171
+106,"model=bert,learning_rate=5e-05,batch_size=64,f1_id_all",0.870817843866171
+107," model=bert,learning_rate=5e-05,batch_size=64,total_duration",93.38091802597046
+108,"model=bert,learning_rate=1e-05,batch_size=128,train_duration",337.95405435562134
+109,"model=bert,learning_rate=1e-05,batch_size=128,train_num_samples",8954.0
+110,"model=bert,learning_rate=1e-05,batch_size=128,acc_id_0",0.8782527881040892
+111,"model=bert,learning_rate=1e-05,batch_size=128,f1_id_0",0.8782527881040892
+112,"model=bert,learning_rate=1e-05,batch_size=128,predict_duration",0.6318557262420654
+113,"model=bert,learning_rate=1e-05,batch_size=128,predict_num_samples",1076.0
+114,"model=bert,learning_rate=1e-05,batch_size=128,acc_id_all",0.8782527881040892
+115,"model=bert,learning_rate=1e-05,batch_size=128,f1_id_all",0.8782527881040892
+116," model=bert,learning_rate=1e-05,batch_size=128,total_duration",344.1258108615875
+117,"model=bert,learning_rate=3e-05,batch_size=128,train_duration",170.42505311965942
+118,"model=bert,learning_rate=3e-05,batch_size=128,train_num_samples",8954.0
+119,"model=bert,learning_rate=3e-05,batch_size=128,acc_id_0",0.8763940520446096
+120,"model=bert,learning_rate=3e-05,batch_size=128,f1_id_0",0.8763940520446096
+121,"model=bert,learning_rate=3e-05,batch_size=128,predict_duration",0.6286640167236328
+122,"model=bert,learning_rate=3e-05,batch_size=128,predict_num_samples",1076.0
+123,"model=bert,learning_rate=3e-05,batch_size=128,acc_id_all",0.8763940520446096
+124,"model=bert,learning_rate=3e-05,batch_size=128,f1_id_all",0.8763940520446096
+125," model=bert,learning_rate=3e-05,batch_size=128,total_duration",176.93258118629456
+126,"model=bert,learning_rate=5e-05,batch_size=128,train_duration",92.94523286819458
+127,"model=bert,learning_rate=5e-05,batch_size=128,train_num_samples",8954.0
+128,"model=bert,learning_rate=5e-05,batch_size=128,acc_id_0",0.8726765799256505
+129,"model=bert,learning_rate=5e-05,batch_size=128,f1_id_0",0.8726765799256505
+130,"model=bert,learning_rate=5e-05,batch_size=128,predict_duration",0.6303830146789551
+131,"model=bert,learning_rate=5e-05,batch_size=128,predict_num_samples",1076.0
+132,"model=bert,learning_rate=5e-05,batch_size=128,acc_id_all",0.8726765799256505
+133,"model=bert,learning_rate=5e-05,batch_size=128,f1_id_all",0.8726765799256505
+134," model=bert,learning_rate=5e-05,batch_size=128,total_duration",99.0290756225586
+135,"model=bert,learning_rate=1e-05,batch_size=256,train_duration",445.26095700263977
+136,"model=bert,learning_rate=1e-05,batch_size=256,train_num_samples",8954.0
+137,"model=bert,learning_rate=1e-05,batch_size=256,acc_id_0",0.8903345724907064
+138,"model=bert,learning_rate=1e-05,batch_size=256,f1_id_0",0.8903345724907064
+139,"model=bert,learning_rate=1e-05,batch_size=256,predict_duration",0.6294097900390625
+140,"model=bert,learning_rate=1e-05,batch_size=256,predict_num_samples",1076.0
+141,"model=bert,learning_rate=1e-05,batch_size=256,acc_id_all",0.8903345724907064
+142,"model=bert,learning_rate=1e-05,batch_size=256,f1_id_all",0.8903345724907064
+143," model=bert,learning_rate=1e-05,batch_size=256,total_duration",451.8481230735779
+144,"model=bert,learning_rate=3e-05,batch_size=256,train_duration",188.00918126106262
+145,"model=bert,learning_rate=3e-05,batch_size=256,train_num_samples",8954.0
+146,"model=bert,learning_rate=3e-05,batch_size=256,acc_id_0",0.8745353159851301
+147,"model=bert,learning_rate=3e-05,batch_size=256,f1_id_0",0.8745353159851302
+148,"model=bert,learning_rate=3e-05,batch_size=256,predict_duration",0.6316075325012207
+149,"model=bert,learning_rate=3e-05,batch_size=256,predict_num_samples",1076.0
+150,"model=bert,learning_rate=3e-05,batch_size=256,acc_id_all",0.8745353159851301
+151,"model=bert,learning_rate=3e-05,batch_size=256,f1_id_all",0.8745353159851302
+152," model=bert,learning_rate=3e-05,batch_size=256,total_duration",194.19143772125244
+153,"model=bert,learning_rate=5e-05,batch_size=256,train_duration",143.70834827423096
+154,"model=bert,learning_rate=5e-05,batch_size=256,train_num_samples",8954.0
+155,"model=bert,learning_rate=5e-05,batch_size=256,acc_id_0",0.8782527881040892
+156,"model=bert,learning_rate=5e-05,batch_size=256,f1_id_0",0.8782527881040892
+157,"model=bert,learning_rate=5e-05,batch_size=256,predict_duration",0.6276421546936035
+158,"model=bert,learning_rate=5e-05,batch_size=256,predict_num_samples",1076.0
+159,"model=bert,learning_rate=5e-05,batch_size=256,acc_id_all",0.8782527881040892
+160,"model=bert,learning_rate=5e-05,batch_size=256,f1_id_all",0.8782527881040892
+161," model=bert,learning_rate=5e-05,batch_size=256,total_duration",149.84218835830688
+162,"model=bert+adapter,learning_rate=0.005,batch_size=8,train_duration",76.38578295707703
+163,"model=bert+adapter,learning_rate=0.005,batch_size=8,train_num_samples",8954.0
+164,"model=bert+adapter,learning_rate=0.005,batch_size=8,acc_id_0",0.017657992565055763
+165,"model=bert+adapter,learning_rate=0.005,batch_size=8,f1_id_0",0.017657992565055763
+166,"model=bert+adapter,learning_rate=0.005,batch_size=8,predict_duration",0.6971359252929688
+167,"model=bert+adapter,learning_rate=0.005,batch_size=8,predict_num_samples",1076.0
+168,"model=bert+adapter,learning_rate=0.005,batch_size=8,acc_id_all",0.017657992565055763
+169,"model=bert+adapter,learning_rate=0.005,batch_size=8,f1_id_all",0.017657992565055763
+170," model=bert+adapter,learning_rate=0.005,batch_size=8,total_duration",84.20699381828308
+171,"model=bert+adapter,learning_rate=0.0001,batch_size=8,train_duration",76.15061259269714
+172,"model=bert+adapter,learning_rate=0.0001,batch_size=8,train_num_samples",8954.0
+173,"model=bert+adapter,learning_rate=0.0001,batch_size=8,acc_id_0",0.017657992565055763
+174,"model=bert+adapter,learning_rate=0.0001,batch_size=8,f1_id_0",0.017657992565055763
+175,"model=bert+adapter,learning_rate=0.0001,batch_size=8,predict_duration",0.6973469257354736
+176,"model=bert+adapter,learning_rate=0.0001,batch_size=8,predict_num_samples",1076.0
+177,"model=bert+adapter,learning_rate=0.0001,batch_size=8,acc_id_all",0.017657992565055763
+178,"model=bert+adapter,learning_rate=0.0001,batch_size=8,f1_id_all",0.017657992565055763
+179," model=bert+adapter,learning_rate=0.0001,batch_size=8,total_duration",83.05977988243103
+180,"model=bert+adapter,learning_rate=0.0003,batch_size=8,train_duration",76.43336725234985
+181,"model=bert+adapter,learning_rate=0.0003,batch_size=8,train_num_samples",8954.0
+182,"model=bert+adapter,learning_rate=0.0003,batch_size=8,acc_id_0",0.017657992565055763
+183,"model=bert+adapter,learning_rate=0.0003,batch_size=8,f1_id_0",0.017657992565055763
+184,"model=bert+adapter,learning_rate=0.0003,batch_size=8,predict_duration",0.6980440616607666
+185,"model=bert+adapter,learning_rate=0.0003,batch_size=8,predict_num_samples",1076.0
+186,"model=bert+adapter,learning_rate=0.0003,batch_size=8,acc_id_all",0.017657992565055763
+187,"model=bert+adapter,learning_rate=0.0003,batch_size=8,f1_id_all",0.017657992565055763
+188," model=bert+adapter,learning_rate=0.0003,batch_size=8,total_duration",83.14218211174011
+189,"model=bert+adapter,learning_rate=0.0005,batch_size=8,train_duration",77.40836548805237
+190,"model=bert+adapter,learning_rate=0.0005,batch_size=8,train_num_samples",8954.0
+191,"model=bert+adapter,learning_rate=0.0005,batch_size=8,acc_id_0",0.017657992565055763
+192,"model=bert+adapter,learning_rate=0.0005,batch_size=8,f1_id_0",0.017657992565055763
+193,"model=bert+adapter,learning_rate=0.0005,batch_size=8,predict_duration",0.7004945278167725
+194,"model=bert+adapter,learning_rate=0.0005,batch_size=8,predict_num_samples",1076.0
+195,"model=bert+adapter,learning_rate=0.0005,batch_size=8,acc_id_all",0.017657992565055763
+196,"model=bert+adapter,learning_rate=0.0005,batch_size=8,f1_id_all",0.017657992565055763
+197," model=bert+adapter,learning_rate=0.0005,batch_size=8,total_duration",83.83505344390869
+198,"model=bert+adapter,learning_rate=0.005,batch_size=16,train_duration",42.12253665924072
+199,"model=bert+adapter,learning_rate=0.005,batch_size=16,train_num_samples",8954.0
+200,"model=bert+adapter,learning_rate=0.005,batch_size=16,acc_id_0",0.7537174721189591
+201,"model=bert+adapter,learning_rate=0.005,batch_size=16,f1_id_0",0.7537174721189591
+202,"model=bert+adapter,learning_rate=0.005,batch_size=16,predict_duration",0.7020974159240723
+203,"model=bert+adapter,learning_rate=0.005,batch_size=16,predict_num_samples",1076.0
+204,"model=bert+adapter,learning_rate=0.005,batch_size=16,acc_id_all",0.7537174721189591
+205,"model=bert+adapter,learning_rate=0.005,batch_size=16,f1_id_all",0.7537174721189591
+206," model=bert+adapter,learning_rate=0.005,batch_size=16,total_duration",48.50362300872803
+207,"model=bert+adapter,learning_rate=0.0001,batch_size=16,train_duration",42.140334129333496
+208,"model=bert+adapter,learning_rate=0.0001,batch_size=16,train_num_samples",8954.0
+209,"model=bert+adapter,learning_rate=0.0001,batch_size=16,acc_id_0",0.7537174721189591
+210,"model=bert+adapter,learning_rate=0.0001,batch_size=16,f1_id_0",0.7537174721189591
+211,"model=bert+adapter,learning_rate=0.0001,batch_size=16,predict_duration",0.7019617557525635
+212,"model=bert+adapter,learning_rate=0.0001,batch_size=16,predict_num_samples",1076.0
+213,"model=bert+adapter,learning_rate=0.0001,batch_size=16,acc_id_all",0.7537174721189591
+214,"model=bert+adapter,learning_rate=0.0001,batch_size=16,f1_id_all",0.7537174721189591
+215," model=bert+adapter,learning_rate=0.0001,batch_size=16,total_duration",48.52429986000061
+216,"model=bert+adapter,learning_rate=0.0003,batch_size=16,train_duration",42.374845027923584
+217,"model=bert+adapter,learning_rate=0.0003,batch_size=16,train_num_samples",8954.0
+218,"model=bert+adapter,learning_rate=0.0003,batch_size=16,acc_id_0",0.7537174721189591
+219,"model=bert+adapter,learning_rate=0.0003,batch_size=16,f1_id_0",0.7537174721189591
+220,"model=bert+adapter,learning_rate=0.0003,batch_size=16,predict_duration",0.7001230716705322
+221,"model=bert+adapter,learning_rate=0.0003,batch_size=16,predict_num_samples",1076.0
+222,"model=bert+adapter,learning_rate=0.0003,batch_size=16,acc_id_all",0.7537174721189591
+223,"model=bert+adapter,learning_rate=0.0003,batch_size=16,f1_id_all",0.7537174721189591
+224," model=bert+adapter,learning_rate=0.0003,batch_size=16,total_duration",49.994871377944946
+225,"model=bert+adapter,learning_rate=0.0005,batch_size=16,train_duration",42.340999364852905
+226,"model=bert+adapter,learning_rate=0.0005,batch_size=16,train_num_samples",8954.0
+227,"model=bert+adapter,learning_rate=0.0005,batch_size=16,acc_id_0",0.7537174721189591
+228,"model=bert+adapter,learning_rate=0.0005,batch_size=16,f1_id_0",0.7537174721189591
+229,"model=bert+adapter,learning_rate=0.0005,batch_size=16,predict_duration",0.6996543407440186
+230,"model=bert+adapter,learning_rate=0.0005,batch_size=16,predict_num_samples",1076.0
+231,"model=bert+adapter,learning_rate=0.0005,batch_size=16,acc_id_all",0.7537174721189591
+232,"model=bert+adapter,learning_rate=0.0005,batch_size=16,f1_id_all",0.7537174721189591
+233," model=bert+adapter,learning_rate=0.0005,batch_size=16,total_duration",48.75519800186157
+234,"model=bert+adapter,learning_rate=0.005,batch_size=32,train_duration",26.23649001121521
+235,"model=bert+adapter,learning_rate=0.005,batch_size=32,train_num_samples",8954.0
+236,"model=bert+adapter,learning_rate=0.005,batch_size=32,acc_id_0",0.7964684014869888
+237,"model=bert+adapter,learning_rate=0.005,batch_size=32,f1_id_0",0.7964684014869888
+238,"model=bert+adapter,learning_rate=0.005,batch_size=32,predict_duration",0.7018842697143555
+239,"model=bert+adapter,learning_rate=0.005,batch_size=32,predict_num_samples",1076.0
+240,"model=bert+adapter,learning_rate=0.005,batch_size=32,acc_id_all",0.7964684014869888
+241,"model=bert+adapter,learning_rate=0.005,batch_size=32,f1_id_all",0.7964684014869888
+242," model=bert+adapter,learning_rate=0.005,batch_size=32,total_duration",32.97938370704651
+243,"model=bert+adapter,learning_rate=0.0001,batch_size=32,train_duration",26.298535585403442
+244,"model=bert+adapter,learning_rate=0.0001,batch_size=32,train_num_samples",8954.0
+245,"model=bert+adapter,learning_rate=0.0001,batch_size=32,acc_id_0",0.7964684014869888
+246,"model=bert+adapter,learning_rate=0.0001,batch_size=32,f1_id_0",0.7964684014869888
+247,"model=bert+adapter,learning_rate=0.0001,batch_size=32,predict_duration",0.6993145942687988
+248,"model=bert+adapter,learning_rate=0.0001,batch_size=32,predict_num_samples",1076.0
+249,"model=bert+adapter,learning_rate=0.0001,batch_size=32,acc_id_all",0.7964684014869888
+250,"model=bert+adapter,learning_rate=0.0001,batch_size=32,f1_id_all",0.7964684014869888
+251," model=bert+adapter,learning_rate=0.0001,batch_size=32,total_duration",32.67988991737366
+252,"model=bert+adapter,learning_rate=0.0003,batch_size=32,train_duration",26.184739351272583
+253,"model=bert+adapter,learning_rate=0.0003,batch_size=32,train_num_samples",8954.0
+254,"model=bert+adapter,learning_rate=0.0003,batch_size=32,acc_id_0",0.7964684014869888
+255,"model=bert+adapter,learning_rate=0.0003,batch_size=32,f1_id_0",0.7964684014869888
+256,"model=bert+adapter,learning_rate=0.0003,batch_size=32,predict_duration",0.7032177448272705
+257,"model=bert+adapter,learning_rate=0.0003,batch_size=32,predict_num_samples",1076.0
+258,"model=bert+adapter,learning_rate=0.0003,batch_size=32,acc_id_all",0.7964684014869888
+259,"model=bert+adapter,learning_rate=0.0003,batch_size=32,f1_id_all",0.7964684014869888
+260," model=bert+adapter,learning_rate=0.0003,batch_size=32,total_duration",33.65381622314453
+261,"model=bert+adapter,learning_rate=0.0005,batch_size=32,train_duration",26.133306741714478
+262,"model=bert+adapter,learning_rate=0.0005,batch_size=32,train_num_samples",8954.0
+263,"model=bert+adapter,learning_rate=0.0005,batch_size=32,acc_id_0",0.7964684014869888
+264,"model=bert+adapter,learning_rate=0.0005,batch_size=32,f1_id_0",0.7964684014869888
+265,"model=bert+adapter,learning_rate=0.0005,batch_size=32,predict_duration",0.6944050788879395
+266,"model=bert+adapter,learning_rate=0.0005,batch_size=32,predict_num_samples",1076.0
+267,"model=bert+adapter,learning_rate=0.0005,batch_size=32,acc_id_all",0.7964684014869888
+268,"model=bert+adapter,learning_rate=0.0005,batch_size=32,f1_id_all",0.7964684014869888
+269," model=bert+adapter,learning_rate=0.0005,batch_size=32,total_duration",32.47726345062256
+270,"model=bert+adapter,learning_rate=0.005,batch_size=64,train_duration",34.693859577178955
+271,"model=bert+adapter,learning_rate=0.005,batch_size=64,train_num_samples",8954.0
+272,"model=bert+adapter,learning_rate=0.005,batch_size=64,acc_id_0",0.8671003717472119
+273,"model=bert+adapter,learning_rate=0.005,batch_size=64,f1_id_0",0.8671003717472119
+274,"model=bert+adapter,learning_rate=0.005,batch_size=64,predict_duration",0.6968076229095459
+275,"model=bert+adapter,learning_rate=0.005,batch_size=64,predict_num_samples",1076.0
+276,"model=bert+adapter,learning_rate=0.005,batch_size=64,acc_id_all",0.8671003717472119
+277,"model=bert+adapter,learning_rate=0.005,batch_size=64,f1_id_all",0.8671003717472119
+278," model=bert+adapter,learning_rate=0.005,batch_size=64,total_duration",41.00843954086304
+279,"model=bert+adapter,learning_rate=0.0001,batch_size=64,train_duration",23.435477256774902
+280,"model=bert+adapter,learning_rate=0.0001,batch_size=64,train_num_samples",8954.0
+281,"model=bert+adapter,learning_rate=0.0001,batch_size=64,acc_id_0",0.8317843866171004
+282,"model=bert+adapter,learning_rate=0.0001,batch_size=64,f1_id_0",0.8317843866171004
+283,"model=bert+adapter,learning_rate=0.0001,batch_size=64,predict_duration",0.6977477073669434
+284,"model=bert+adapter,learning_rate=0.0001,batch_size=64,predict_num_samples",1076.0
+285,"model=bert+adapter,learning_rate=0.0001,batch_size=64,acc_id_all",0.8317843866171004
+286,"model=bert+adapter,learning_rate=0.0001,batch_size=64,f1_id_all",0.8317843866171004
+287," model=bert+adapter,learning_rate=0.0001,batch_size=64,total_duration",30.131598711013794
+288,"model=bert+adapter,learning_rate=0.0003,batch_size=64,train_duration",34.589154958724976
+289,"model=bert+adapter,learning_rate=0.0003,batch_size=64,train_num_samples",8954.0
+290,"model=bert+adapter,learning_rate=0.0003,batch_size=64,acc_id_0",0.8671003717472119
+291,"model=bert+adapter,learning_rate=0.0003,batch_size=64,f1_id_0",0.8671003717472119
+292,"model=bert+adapter,learning_rate=0.0003,batch_size=64,predict_duration",0.6987297534942627
+293,"model=bert+adapter,learning_rate=0.0003,batch_size=64,predict_num_samples",1076.0
+294,"model=bert+adapter,learning_rate=0.0003,batch_size=64,acc_id_all",0.8671003717472119
+295,"model=bert+adapter,learning_rate=0.0003,batch_size=64,f1_id_all",0.8671003717472119
+296," model=bert+adapter,learning_rate=0.0003,batch_size=64,total_duration",40.89786624908447
+297,"model=bert+adapter,learning_rate=0.0005,batch_size=64,train_duration",23.23615336418152
+298,"model=bert+adapter,learning_rate=0.0005,batch_size=64,train_num_samples",8954.0
+299,"model=bert+adapter,learning_rate=0.0005,batch_size=64,acc_id_0",0.8317843866171004
+300,"model=bert+adapter,learning_rate=0.0005,batch_size=64,f1_id_0",0.8317843866171004
+301,"model=bert+adapter,learning_rate=0.0005,batch_size=64,predict_duration",0.6965115070343018
+302,"model=bert+adapter,learning_rate=0.0005,batch_size=64,predict_num_samples",1076.0
+303,"model=bert+adapter,learning_rate=0.0005,batch_size=64,acc_id_all",0.8317843866171004
+304,"model=bert+adapter,learning_rate=0.0005,batch_size=64,f1_id_all",0.8317843866171004
+305," model=bert+adapter,learning_rate=0.0005,batch_size=64,total_duration",29.756843328475952
+306,"model=bert+adapter,learning_rate=0.005,batch_size=128,train_duration",32.204952001571655
+307,"model=bert+adapter,learning_rate=0.005,batch_size=128,train_num_samples",8954.0
+308,"model=bert+adapter,learning_rate=0.005,batch_size=128,acc_id_0",0.8773234200743495
+309,"model=bert+adapter,learning_rate=0.005,batch_size=128,f1_id_0",0.8773234200743495
+310,"model=bert+adapter,learning_rate=0.005,batch_size=128,predict_duration",0.6988492012023926
+311,"model=bert+adapter,learning_rate=0.005,batch_size=128,predict_num_samples",1076.0
+312,"model=bert+adapter,learning_rate=0.005,batch_size=128,acc_id_all",0.8773234200743495
+313,"model=bert+adapter,learning_rate=0.005,batch_size=128,f1_id_all",0.8773234200743495
+314," model=bert+adapter,learning_rate=0.005,batch_size=128,total_duration",38.62517690658569
+315,"model=bert+adapter,learning_rate=0.0001,batch_size=128,train_duration",32.32355070114136
+316,"model=bert+adapter,learning_rate=0.0001,batch_size=128,train_num_samples",8954.0
+317,"model=bert+adapter,learning_rate=0.0001,batch_size=128,acc_id_0",0.8810408921933085
+318,"model=bert+adapter,learning_rate=0.0001,batch_size=128,f1_id_0",0.8810408921933085
+319,"model=bert+adapter,learning_rate=0.0001,batch_size=128,predict_duration",0.6988637447357178
+320,"model=bert+adapter,learning_rate=0.0001,batch_size=128,predict_num_samples",1076.0
+321,"model=bert+adapter,learning_rate=0.0001,batch_size=128,acc_id_all",0.8810408921933085
+322,"model=bert+adapter,learning_rate=0.0001,batch_size=128,f1_id_all",0.8810408921933085
+323," model=bert+adapter,learning_rate=0.0001,batch_size=128,total_duration",38.67919111251831
+324,"model=bert+adapter,learning_rate=0.0003,batch_size=128,train_duration",32.24525833129883
+325,"model=bert+adapter,learning_rate=0.0003,batch_size=128,train_num_samples",8954.0
+326,"model=bert+adapter,learning_rate=0.0003,batch_size=128,acc_id_0",0.8810408921933085
+327,"model=bert+adapter,learning_rate=0.0003,batch_size=128,f1_id_0",0.8810408921933085
+328,"model=bert+adapter,learning_rate=0.0003,batch_size=128,predict_duration",0.6999058723449707
+329,"model=bert+adapter,learning_rate=0.0003,batch_size=128,predict_num_samples",1076.0
+330,"model=bert+adapter,learning_rate=0.0003,batch_size=128,acc_id_all",0.8810408921933085
+331,"model=bert+adapter,learning_rate=0.0003,batch_size=128,f1_id_all",0.8810408921933085
+332," model=bert+adapter,learning_rate=0.0003,batch_size=128,total_duration",38.65849947929382
+333,"model=bert+adapter,learning_rate=0.0005,batch_size=128,train_duration",32.27124047279358
+334,"model=bert+adapter,learning_rate=0.0005,batch_size=128,train_num_samples",8954.0
+335,"model=bert+adapter,learning_rate=0.0005,batch_size=128,acc_id_0",0.8810408921933085
+336,"model=bert+adapter,learning_rate=0.0005,batch_size=128,f1_id_0",0.8810408921933085
+337,"model=bert+adapter,learning_rate=0.0005,batch_size=128,predict_duration",0.6985757350921631
+338,"model=bert+adapter,learning_rate=0.0005,batch_size=128,predict_num_samples",1076.0
+339,"model=bert+adapter,learning_rate=0.0005,batch_size=128,acc_id_all",0.8810408921933085
+340,"model=bert+adapter,learning_rate=0.0005,batch_size=128,f1_id_all",0.8810408921933085
+341," model=bert+adapter,learning_rate=0.0005,batch_size=128,total_duration",38.64133024215698
+342,"model=bert+adapter,learning_rate=0.005,batch_size=256,train_duration",30.792516231536865
+343,"model=bert+adapter,learning_rate=0.005,batch_size=256,train_num_samples",8954.0
+344,"model=bert+adapter,learning_rate=0.005,batch_size=256,acc_id_0",0.9033457249070632
+345,"model=bert+adapter,learning_rate=0.005,batch_size=256,f1_id_0",0.9033457249070632
+346,"model=bert+adapter,learning_rate=0.005,batch_size=256,predict_duration",0.6991324424743652
+347,"model=bert+adapter,learning_rate=0.005,batch_size=256,predict_num_samples",1076.0
+348,"model=bert+adapter,learning_rate=0.005,batch_size=256,acc_id_all",0.9033457249070632
+349,"model=bert+adapter,learning_rate=0.005,batch_size=256,f1_id_all",0.9033457249070632
+350," model=bert+adapter,learning_rate=0.005,batch_size=256,total_duration",37.28892278671265
+351,"model=bert+adapter,learning_rate=0.0001,batch_size=256,train_duration",30.76468324661255
+352,"model=bert+adapter,learning_rate=0.0001,batch_size=256,train_num_samples",8954.0
+353,"model=bert+adapter,learning_rate=0.0001,batch_size=256,acc_id_0",0.9033457249070632
+354,"model=bert+adapter,learning_rate=0.0001,batch_size=256,f1_id_0",0.9033457249070632
+355,"model=bert+adapter,learning_rate=0.0001,batch_size=256,predict_duration",0.6988139152526855
+356,"model=bert+adapter,learning_rate=0.0001,batch_size=256,predict_num_samples",1076.0
+357,"model=bert+adapter,learning_rate=0.0001,batch_size=256,acc_id_all",0.9033457249070632
+358,"model=bert+adapter,learning_rate=0.0001,batch_size=256,f1_id_all",0.9033457249070632
+359," model=bert+adapter,learning_rate=0.0001,batch_size=256,total_duration",37.182366132736206
+360,"model=bert+adapter,learning_rate=0.0003,batch_size=256,train_duration",31.044456005096436
+361,"model=bert+adapter,learning_rate=0.0003,batch_size=256,train_num_samples",8954.0
+362,"model=bert+adapter,learning_rate=0.0003,batch_size=256,acc_id_0",0.9033457249070632
+363,"model=bert+adapter,learning_rate=0.0003,batch_size=256,f1_id_0",0.9033457249070632
+364,"model=bert+adapter,learning_rate=0.0003,batch_size=256,predict_duration",0.6985385417938232
+365,"model=bert+adapter,learning_rate=0.0003,batch_size=256,predict_num_samples",1076.0
+366,"model=bert+adapter,learning_rate=0.0003,batch_size=256,acc_id_all",0.9033457249070632
+367,"model=bert+adapter,learning_rate=0.0003,batch_size=256,f1_id_all",0.9033457249070632
+368," model=bert+adapter,learning_rate=0.0003,batch_size=256,total_duration",37.37308144569397
+369,"model=bert+adapter,learning_rate=0.0005,batch_size=256,train_duration",30.83100724220276
+370,"model=bert+adapter,learning_rate=0.0005,batch_size=256,train_num_samples",8954.0
+371,"model=bert+adapter,learning_rate=0.0005,batch_size=256,acc_id_0",0.9033457249070632
+372,"model=bert+adapter,learning_rate=0.0005,batch_size=256,f1_id_0",0.9033457249070632
+373,"model=bert+adapter,learning_rate=0.0005,batch_size=256,predict_duration",0.6999294757843018
+374,"model=bert+adapter,learning_rate=0.0005,batch_size=256,predict_num_samples",1076.0
+375,"model=bert+adapter,learning_rate=0.0005,batch_size=256,acc_id_all",0.9033457249070632
+376,"model=bert+adapter,learning_rate=0.0005,batch_size=256,f1_id_all",0.9033457249070632
+377," model=bert+adapter,learning_rate=0.0005,batch_size=256,total_duration",38.0005407333374
+378,"model=bert+adapter,learning_rate=0.005,batch_size=512,train_duration",40.167354106903076
+379,"model=bert+adapter,learning_rate=0.005,batch_size=512,train_num_samples",8954.0
+380,"model=bert+adapter,learning_rate=0.005,batch_size=512,acc_id_0",0.9070631970260223
+381,"model=bert+adapter,learning_rate=0.005,batch_size=512,f1_id_0",0.9070631970260223
+382,"model=bert+adapter,learning_rate=0.005,batch_size=512,predict_duration",0.6972191333770752
+383,"model=bert+adapter,learning_rate=0.005,batch_size=512,predict_num_samples",1076.0
+384,"model=bert+adapter,learning_rate=0.005,batch_size=512,acc_id_all",0.9070631970260223
+385,"model=bert+adapter,learning_rate=0.005,batch_size=512,f1_id_all",0.9070631970260223
+386," model=bert+adapter,learning_rate=0.005,batch_size=512,total_duration",46.45492696762085
+387,"model=bert+adapter,learning_rate=0.0001,batch_size=512,train_duration",40.209007263183594
+388,"model=bert+adapter,learning_rate=0.0001,batch_size=512,train_num_samples",8954.0
+389,"model=bert+adapter,learning_rate=0.0001,batch_size=512,acc_id_0",0.904275092936803
+390,"model=bert+adapter,learning_rate=0.0001,batch_size=512,f1_id_0",0.904275092936803
+391,"model=bert+adapter,learning_rate=0.0001,batch_size=512,predict_duration",0.7000730037689209
+392,"model=bert+adapter,learning_rate=0.0001,batch_size=512,predict_num_samples",1076.0
+393,"model=bert+adapter,learning_rate=0.0001,batch_size=512,acc_id_all",0.904275092936803
+394,"model=bert+adapter,learning_rate=0.0001,batch_size=512,f1_id_all",0.904275092936803
+395," model=bert+adapter,learning_rate=0.0001,batch_size=512,total_duration",46.58759427070618
+396,"model=bert+adapter,learning_rate=0.0003,batch_size=512,train_duration",40.252357006073
+397,"model=bert+adapter,learning_rate=0.0003,batch_size=512,train_num_samples",8954.0
+398,"model=bert+adapter,learning_rate=0.0003,batch_size=512,acc_id_0",0.904275092936803
+399,"model=bert+adapter,learning_rate=0.0003,batch_size=512,f1_id_0",0.904275092936803
+400,"model=bert+adapter,learning_rate=0.0003,batch_size=512,predict_duration",0.6995785236358643
+401,"model=bert+adapter,learning_rate=0.0003,batch_size=512,predict_num_samples",1076.0
+402,"model=bert+adapter,learning_rate=0.0003,batch_size=512,acc_id_all",0.904275092936803
+403,"model=bert+adapter,learning_rate=0.0003,batch_size=512,f1_id_all",0.904275092936803
+404," model=bert+adapter,learning_rate=0.0003,batch_size=512,total_duration",46.65613126754761
+405,"model=bert+adapter,learning_rate=0.0005,batch_size=512,train_duration",40.044678688049316
+406,"model=bert+adapter,learning_rate=0.0005,batch_size=512,train_num_samples",8954.0
+407,"model=bert+adapter,learning_rate=0.0005,batch_size=512,acc_id_0",0.904275092936803
+408,"model=bert+adapter,learning_rate=0.0005,batch_size=512,f1_id_0",0.904275092936803
+409,"model=bert+adapter,learning_rate=0.0005,batch_size=512,predict_duration",0.6984744071960449
+410,"model=bert+adapter,learning_rate=0.0005,batch_size=512,predict_num_samples",1076.0
+411,"model=bert+adapter,learning_rate=0.0005,batch_size=512,acc_id_all",0.904275092936803
+412,"model=bert+adapter,learning_rate=0.0005,batch_size=512,f1_id_all",0.904275092936803
+413," model=bert+adapter,learning_rate=0.0005,batch_size=512,total_duration",46.37542223930359
