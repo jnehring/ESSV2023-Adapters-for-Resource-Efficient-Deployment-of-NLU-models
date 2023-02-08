@@ -11,6 +11,7 @@ import os
 import seaborn as sns
 import matplotlib.pyplot as plt
 import numpy as np
+from matplotlib.pyplot import figure
 
 # parse result file
 def read_data(args):
@@ -197,6 +198,11 @@ def plot_accuracy_modular(args, results):
         
     dfs["Mean"] = averages
 
+    # dfs=dfs.reindex(columns=['n modules', 'model', 'ATIS', 'Banking77', 'CLINC150', 'HWU64','HWU64-DG', 'Mean'])
+    dfs = dfs[dfs["n modules"]==1]
+    dfs = dfs[dfs.model.apply(lambda x : x.find("mehri")<0)]
+
+    df_plot = dfs.copy()
     def format(x):
         if type(x)==str:
             return x
@@ -205,13 +211,39 @@ def plot_accuracy_modular(args, results):
     for c in datasets:
         dfs[c]=dfs[c].apply(format)
 
-    # dfs=dfs.reindex(columns=['n modules', 'model', 'ATIS', 'Banking77', 'CLINC150', 'HWU64','HWU64-DG', 'Mean'])
-    dfs = dfs[dfs["n modules"]==1]
-    dfs = dfs[dfs.model.apply(lambda x : x.find("mehri")<0)]
     dfs=dfs.reindex(columns=['model', 'ATIS', 'Banking77', 'CLINC150', 'HWU64', 'Mean'])
     dfs=dfs.rename(columns={"model": "Model"})
+
     print(dfs.to_latex(index=False))
     print()
+
+    # plot the data for the poster
+    df_plot=df_plot.reindex(columns=['model', 'ATIS', 'Banking77', 'CLINC150', 'HWU64', 'Mean'])
+    df_plot=df_plot.rename(columns={"model": "Model"})
+
+    new_df = {
+        "Model": [],
+        "F1-Score": [],
+        "Dataset": []
+    }
+    for column in ['ATIS', 'Banking77', 'CLINC150', 'HWU64']:
+        new_df["Model"].extend(df_plot.Model)
+        new_df["F1-Score"].extend(df_plot[column])
+        new_df["Dataset"].extend([column] * len(df_plot))
+
+    new_df = pd.DataFrame(new_df)
+    
+    figure(figsize=(3,5), dpi=80)
+    ax = sns.barplot(data=new_df, x="Dataset", y="F1-Score", hue="Model")
+    plt.title("F1-score of intent detection")
+    ax.set_xticklabels(ax.get_xticklabels(), rotation=45, ha='right', rotation_mode='anchor')
+    plt.ylim([0.7, 1.0])
+    plt.legend(bbox_to_anchor =(0.1, 1.25), title="Model")
+
+    plt.tight_layout()
+    outfile = "output/accuracy_barplot.pdf"
+    plt.savefig(outfile)
+    print("wrote " + outfile)
 
 def plot_runtime(args, results):
 
@@ -383,15 +415,18 @@ def model_size_table(args):
     
     plt.clf()
     # sns.set(rc={'figure.figsize':(15,8)})
-    plt.figure(figsize = (10.5,8))
-    sns.lineplot(data=df, x="n", y="size", hue="Model")
-    plt.xlabel("number of NLU models", fontsize = f_size)
-    plt.ylabel("size [GB]", fontsize = f_size)
-    plt.legend(fontsize = f_size)
-    plt.xticks(fontsize=f_size)
-    plt.yticks(fontsize=f_size)
+    plt.figure(figsize = (3, 2.5))
+    ax = sns.lineplot(data=df, x="n", y="size", hue="Model")
+    plt.title("Comparison of model size")
+    ax.get_legend().remove()
+    plt.xlabel("number of NLU models")
+    plt.ylabel("size [GB]")
+    # plt.legend(fontsize = f_size)
+    #plt.xticks(fontsize=f_size)
+    #plt.yticks(fontsize=f_size)
     # plt.xlim(1,40)
     plt.ylim(0,10)
+    plt.tight_layout()
 
     outfile=os.path.join(args.outdir, "size_comparison.pdf")
     plt.savefig(outfile)
@@ -423,7 +458,7 @@ def main():
     plot_accuracy_modular(args, results)
 
     # runtime
-    #plot_runtime(args, results)
+    # plot_runtime(args, results)
 
 if __name__ == '__main__':
     main()

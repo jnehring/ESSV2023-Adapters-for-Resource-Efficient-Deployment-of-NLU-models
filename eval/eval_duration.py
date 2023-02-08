@@ -1,5 +1,8 @@
 import pandas as pd
 import sys
+import seaborn as sns
+import matplotlib.pyplot as plt
+from matplotlib.pyplot import figure
 
 # read original data and create a dataframe out of it
 df=pd.read_csv("results_duration.csv")
@@ -46,6 +49,34 @@ df["num_samples"]=num
 # convert to samples per second
 df["value"]=df.num_samples/df.value
 
+datasets = {
+    "hwu": "HWU64-DG",
+    "clinc": "CLINC150",
+    "hwu_orig": "HWU64",
+    "atis": "ATIS",
+    "banking77": "Banking77",
+    "": ""
+}
+
+dfp = df.copy()
+
+figure(figsize=(3,3), dpi=80)
+dfp = dfp.rename(columns={"model": "Model", "dataset": "Dataset", "metric": "Metric", "value": "Samples per second"})
+dfp.Dataset = dfp.Dataset.apply(lambda x : datasets[x])
+metrics = {"train_duration": "train", "predict_duration": "predict"}
+dfp.Metric = dfp.Metric.apply(lambda x : metrics[x])
+ax = sns.barplot(data=dfp[dfp.Metric=="predict"], x="Model", y="Samples per second")
+plt.title("Prediction speed")
+ax.set_xticklabels(ax.get_xticklabels(), rotation=45, ha='right', rotation_mode='anchor')
+plt.tight_layout()
+#plt.yscale('log')
+outfile = "output/duration_barplot.pdf"
+plt.savefig(outfile)
+print("wrote " + outfile)
+
+print(dfp)
+sys.exit(0)
+
 # average over the runs
 data=[]
 for model in df.model.unique():
@@ -81,6 +112,7 @@ df["predict_sps"]=df["predict_sps_mean"].apply(lambda x : f"{x:.2f}") + " (" + d
 
 means=[]
 
+
 for model in df.model.unique():
 
     train_sps = df[df.model==model]["train_sps_mean"].mean()
@@ -97,15 +129,6 @@ for model in df.model.unique():
 
 means=pd.DataFrame(means, columns=["model", "train_sps", "predict_sps"])
 means = means.sort_values(by=["model"])
-
-datasets = {
-    "hwu": "HWU64-DG",
-    "clinc": "CLINC150",
-    "hwu_orig": "HWU64",
-    "atis": "ATIS",
-    "banking77": "Banking77",
-    "": ""
-}
 
 dataset_means=[]
 for dataset in df.dataset.unique():
@@ -145,5 +168,5 @@ print()
 print("-"*20)
 print("average dataset values")
 print("-"*20)
-print()
+print() 
 print(dataset_means.to_latex(index=False))
