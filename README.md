@@ -2,7 +2,7 @@
 
 Modern Transformer-based language models such as BERT are huge and, therefore, expensive to deploy in practical applications. In environments such as commercial chatbot-as-a-service platforms that deploy many NLP models in parallel, less powerful models with a smaller number of parameters are an alternative to transformers to keep deployment costs down, at the cost of lower accuracy values. This paper compares different models for Intent Detection concerning their memory footprint, quality of Intent Detection, and processing speed. Many task-specific Adapters can share one large transformer model with the Adapter framework. The deployment of 100 NLU models requires 1 GB of memory for the proposed BERT+Adapter architecture, compared to 41.78 GB for a BERT-only architecture.
 
-This repository contains the source codes for the paper.
+This repository contains the source codes for the paper [Nehring, J., Feldhus, N., Ahmed, A. (2023): Adapters for Resource-Efficient Deployment of NLU models](https://github.com/jnehring/ESSV2023-Adapters-for-Resource-Efficient-Deployment-of-NLU-models/blob/master/ESSV2023__Adapters_for_Resource_Efficient_Deployment_of_NLU_models.pdf)
 
 ## How to install
 
